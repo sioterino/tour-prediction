@@ -1,0 +1,1170 @@
+attendance,reporting_status,venue_type,venue_capacity,continent,country,city,show_nights,artist_name,gender,generation,members,company,years_since_debut,artist_age_bucket,artist_country,show_year,show_month,show_quarter,weekday_1,weekday_n,is_weekend
+7493.0,parcial,arena,11069.0,Asia,South Korea,Seoul,2,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_South Korea,2023,2,1,Sat,Sun,1
+,unreported,arena,16000.0,Asia,Japan,Osaka,4,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_Japan,2023,3,1,Wed,Sun,0
+,unreported,arena,12898.0,Asia,Japan,Tokyo,2,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_Japan,2023,4,2,Sat,Sun,1
+,unreported,arena,22500.0,Asia,Japan,Saitama,2,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_Japan,2023,4,2,Sat,Sun,1
+,unreported,arena,10000.0,Asia,Japan,Nagoya,2,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_Japan,2023,4,2,Sat,Sun,1
+,unreported,concert hall,,Asia,Indonesia,Tangerang,1,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_Indonesia,2023,6,2,Sat,Sat,1
+,unreported,concert hall,3500.0,Asia,Thailand,Bangkok,2,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_Thailand,2023,7,3,Sat,Sun,1
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,2,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_Japan,2023,8,3,Sat,Sun,1
+9452.0,reported,stadium,20000.0,North America,United States,Los Angeles,1,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_United States,2023,8,3,Sun,Sun,1
+,unreported,theater,4000.0,North America,United States,Irving,1,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_United States,2023,8,3,Fri,Fri,1
+,unreported,theater,4605.0,North America,United States,Miami,1,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_United States,2023,8,3,Tue,Tue,0
+3593.0,reported,theater,4665.0,North America,United States,Atlanta,1,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_United States,2023,8,3,Fri,Fri,1
+2900.0,reported,theater,,North America,United States,Oxon Hill,1,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_United States,2023,8,3,Sun,Sun,1
+3948.0,reported,theater,4400.0,North America,United States,Rosemont,1,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_United States,2023,8,3,Wed,Wed,0
+4061.0,reported,concert hall,5007.0,North America,United States,Boston,1,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_United States,2023,9,3,Sat,Sat,1
+6654.0,reported,arena,20000.0,North America,United States,New York,1,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_United States,2023,9,3,Tue,Tue,0
+8550.0,reported,arena,26000.0,North America,Mexico,Mexico City,1,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_Mexico,2023,9,3,Fri,Fri,1
+,unreported,concert hall,8000.0,South America,Brazil,São Paulo,1,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_Brazil,2023,9,3,Mon,Mon,0
+4151.0,reported,theater,4500.0,South America,Chile,Santiago,1,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_Chile,2023,9,3,Thu,Thu,0
+,unreported,concert hall,4900.0,Europe,Germany,Berlin,1,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_Germany,2023,9,3,Mon,Mon,0
+,unreported,arena,20000.0,Europe,England,London,1,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_England,2023,9,3,Thu,Thu,0
+,unreported,concert hall,4600.0,Europe,France,Paris,1,aespa,female,4,4,"SM,KAKAO",2,rookie,aespa_France,2023,9,3,Sat,Sat,1
+12600.0,reported,arena,11069.0,Asia,South Korea,Seoul,2,aespa,female,4,4,"SM,KAKAO",3,growing,aespa_South Korea,2024,6,2,Sat,Sun,1
+10293.0,reported,arena,15000.0,Asia,Japan,Fukuoka,1,aespa,female,4,4,"SM,KAKAO",3,growing,aespa_Japan,2024,7,3,Sat,Sat,1
+15997.0,reported,concert hall,10000.0,Asia,Japan,Nagoya,2,aespa,female,4,4,"SM,KAKAO",3,growing,aespa_Japan,2024,7,3,Wed,Thu,0
+38281.0,reported,arena,22500.0,Asia,Japan,Saitama,2,aespa,female,4,4,"SM,KAKAO",3,growing,aespa_Japan,2024,7,3,Sun,Mon,1
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1,aespa,female,4,4,"SM,KAKAO",3,growing,aespa_Singapore,2024,7,3,Sat,Sat,1
+25872.0,reported,arena,16000.0,Asia,Japan,Osaka,2,aespa,female,4,4,"SM,KAKAO",3,growing,aespa_Japan,2024,7,3,Sat,Sun,1
+12155.0,reported,arena,15000.0,Asia,Japan,Fukuoka,2,aespa,female,4,4,"SM,KAKAO",3,growing,aespa_Japan,2024,7,3,Tue,Wed,0
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2,aespa,female,4,4,"SM,KAKAO",3,growing,aespa_Hong Kong,2024,8,3,Sat,Sun,1
+,unreported,arena,15000.0,Asia,Taiwan,Taoyuan,3,aespa,female,4,4,"SM,KAKAO",3,growing,aespa_Taiwan,2024,8,3,Fri,Sun,1
+93639.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2,aespa,female,4,4,"SM,KAKAO",3,growing,aespa_Japan,2024,8,3,Sat,Sun,1
+,unreported,arena,15000.0,Asia,Indonesia,Jakarta,1,aespa,female,4,4,"SM,KAKAO",3,growing,aespa_Indonesia,2024,8,3,Sat,Sat,1
+20053.0,reported,arena,18000.0,Oceania,Australia,Sydney,2,aespa,female,4,4,"SM,KAKAO",3,growing,aespa_Australia,2024,8,3,Fri,Sat,1
+10783.0,reported,arena,14820.0,Oceania,Australia,Melbourne,1,aespa,female,4,4,"SM,KAKAO",3,growing,aespa_Australia,2024,9,3,Mon,Mon,0
+,unreported,concert hall,,Asia,Macau,Macau,2,aespa,female,4,4,"SM,KAKAO",3,growing,aespa_Macau,2024,9,3,Sat,Sun,1
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,2,aespa,female,4,4,"SM,KAKAO",3,growing,aespa_Thailand,2024,9,3,Sat,Sun,1
+5134.0,reported,arena,7141.0,North America,United States,Kent,1,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_United States,2025,1,1,Tue,Tue,0
+11975.0,reported,arena,19596.0,North America,United States,Oakland,1,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_United States,2025,1,1,Thu,Thu,0
+12170.0,reported,arena,17500.0,North America,United States,Inglewood,1,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_United States,2025,2,1,Sat,Sat,1
+10287.0,reported,arena,26000.0,North America,Mexico,Mexico City,1,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_Mexico,2025,2,1,Tue,Tue,0
+10784.0,reported,arena,17030.0,North America,United States,Orlando,1,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_United States,2025,2,1,Thu,Thu,0
+11384.0,reported,arena,18504.0,North America,United States,Charlotte,1,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_United States,2025,2,1,Sat,Sat,1
+11504.0,reported,arena,17000.0,North America,United States,Newark,1,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_United States,2025,2,1,Tue,Tue,0
+10755.0,reported,arena,19800.0,North America,Canada,Toronto,1,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_Canada,2025,2,1,Thu,Thu,0
+13077.0,reported,arena,23500.0,North America,United States,Chicago,1,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_United States,2025,2,1,Sat,Sat,1
+9192.0,reported,arena,12500.0,Europe,England,London,1,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_England,2025,3,1,Sun,Sun,1
+,unreported,arena,9000.0,Europe,France,Paris,1,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_France,2025,3,1,Tue,Tue,0
+4000.0,reported,concert hall,6000.0,Europe,Netherlands,Amsterdam,1,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_Netherlands,2025,3,1,Thu,Thu,0
+3045.0,reported,concert hall,4800.0,Europe,Germany,Frankfurt,1,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_Germany,2025,3,1,Sun,Sun,1
+8100.0,reported,arena,15000.0,Europe,Spain,Madrid,1,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_Spain,2025,3,1,Wed,Wed,0
+19855.0,parcial,arena,15000.0,Asia,South Korea,Seoul,2,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_South Korea,2025,3,1,Sat,Sun,1
+29092.0,parcial,arena,15000.0,Asia,South Korea,Seoul,3,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_South Korea,2025,8,3,Fri,Sun,1
+,unreported,arena,15000.0,Asia,Japan,Fukuoka,2,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_Japan,2025,10,4,Sat,Sun,1
+,unreported,arena,15000.0,Asia,Japan,Tokyo,3,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_Japan,2025,10,4,Sat,Mon,1
+,unreported,arena,17000.0,Asia,Japan,Nagoya,2,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_Japan,2025,10,4,Sat,Sun,1
+,unreported,arena,12898.0,Asia,Japan,Tokyo,2,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_Japan,2025,11,4,Sat,Sun,1
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,2,aespa,female,4,4,"SM,KAKAO",4,growing,aespa_Thailand,2025,11,4,Sat,Sun,1
+,unreported,arena,16000.0,Asia,Japan,Osaka,2,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_Japan,2025,11,4,Wed,Thu,0
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_Hong Kong,2026,2,1,Sat,Sun,1
+,unreported,arena,16000.0,Asia,Macau,Macau,2,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_Macau,2026,3,1,Sat,Sun,1
+,unreported,concert hall,,Asia,Indonesia,Tangerang,1,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_Indonesia,2026,4,2,Sat,Sat,1
+,unreported,stadium,55000.0,Asia,Japan,Osaka,2,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_Japan,2026,4,2,Sat,Sun,1
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,2,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_Japan,2026,4,2,Sat,Sun,1
+,unreported,stadium,16744.0,Asia,South Korea,Seoul,2,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_South Korea,2026,8,3,Fri,Sat,1
+,unreported,stadium,59833.0,Asia,Taiwan,Taipei,1,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_Taiwan,2026,8,3,Tue,Tue,0
+,unreported,stadium,40000.0,South America,Brazil,São Paulo,1,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_Brazil,2026,9,3,Fri,Fri,1
+,unreported,arena,15500.0,South America,Chile,Santiago,1,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_Chile,2026,9,3,Sun,Sun,1
+,unreported,concert hall,30000.0,South America,Peru,Lima,1,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_Peru,2026,9,3,Wed,Wed,0
+,unreported,arena,26000.0,North America,Mexico,Mexico City,1,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_Mexico,2026,9,3,Fri,Fri,1
+,unreported,arena,18000.0,North America,Canada,Hamilton,1,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_Canada,2026,9,3,Tue,Tue,0
+5494.0,parcial,arena,19000.0,North America,United States,New York,1,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_United States,2026,9,3,Fri,Fri,1
+5060.0,parcial,arena,20356.0,North America,United States,Washington,1,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_United States,2026,9,3,Tue,Tue,0
+5806.0,parcial,arena,18000.0,North America,United States,Atlanta,1,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_United States,2026,9,3,Thu,Thu,0
+6767.0,parcial,arena,20000.0,North America,United States,Miami,1,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_United States,2026,9,3,Sat,Sat,1
+7430.0,unreported,arena,21000.0,North America,United States,Dallas,1,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_United States,2026,9,3,Tue,Tue,0
+9187.0,unreported,arena,18300.0,North America,United States,Inglewood,1,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_United States,2026,10,4,Sat,Sat,1
+,unreported,arena,19596.0,North America,United States,Oakland,1,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_United States,2026,10,4,Tue,Tue,0
+,unreported,arena,17200.0,North America,United States,Seattle,1,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_United States,2026,10,4,Fri,Fri,1
+,unreported,arena,19000.0,North America,Canada,Vancouver,1,aespa,female,4,4,"SM,KAKAO",5,growing,aespa_Canada,2026,10,4,Sun,Sun,1
+,unreported,arena,21000.0,Europe,England,Manchester,1,aespa,female,4,4,"SM,KAKAO",6,established,aespa_England,2027,1,1,Thu,Thu,0
+,unreported,arena,20000.0,Europe,England,London,1,aespa,female,4,4,"SM,KAKAO",6,established,aespa_England,2027,1,1,Sat,Sat,1
+,unreported,arena,17000.0,Europe,Netherlands,Amsterdam,1,aespa,female,4,4,"SM,KAKAO",6,established,aespa_Netherlands,2027,1,1,Tue,Tue,0
+,unreported,arena,16000.0,Europe,Sweden,Stockholm,1,aespa,female,4,4,"SM,KAKAO",6,established,aespa_Sweden,2027,1,1,Fri,Fri,1
+,unreported,arena,17000.0,Europe,Denmark,Copenhagen,1,aespa,female,4,4,"SM,KAKAO",6,established,aespa_Denmark,2027,1,1,Sun,Sun,1
+,unreported,arena,17000.0,Europe,Germany,Berlin,1,aespa,female,4,4,"SM,KAKAO",6,established,aespa_Germany,2027,1,1,Tue,Tue,0
+,unreported,arena,16000.0,Europe,Italy,Milan,1,aespa,female,4,4,"SM,KAKAO",6,established,aespa_Italy,2027,1,1,Fri,Fri,1
+,unreported,arena,17960.0,Europe,Spain,Barcelona,1,aespa,female,4,4,"SM,KAKAO",6,established,aespa_Spain,2027,1,1,Sun,Sun,1
+,unreported,arena,20300.0,Europe,France,Paris,1,aespa,female,4,4,"SM,KAKAO",6,established,aespa_France,2027,2,1,Tue,Tue,0
+16706.0,parcial,arena,15000.0,Asia,South Korea,Seoul,2,BABYMONSTER,female,5,7,YG,0,rookie,BABYMONSTER_South Korea,2025,1,1,Sat,Sun,1
+,unreported,arena,17000.0,North America,United States,Newark,1,BABYMONSTER,female,5,7,YG,0,rookie,BABYMONSTER_United States,2025,2,1,Fri,Fri,1
+,unreported,arena,17500.0,North America,United States,Inglewood,1,BABYMONSTER,female,5,7,YG,0,rookie,BABYMONSTER_United States,2025,3,1,Sun,Sun,1
+24918.0,reported,arena,12141.0,Asia,Japan,Yokohama,3,BABYMONSTER,female,5,7,YG,0,rookie,BABYMONSTER_Japan,2025,3,1,Fri,Sun,1
+,unreported,concert hall,15000.0,Asia,Japan,Nagoya,2,BABYMONSTER,female,5,7,YG,0,rookie,BABYMONSTER_Japan,2025,3,1,Sat,Sun,1
+,unreported,arena,16000.0,Asia,Japan,Osaka,2,BABYMONSTER,female,5,7,YG,1,rookie,BABYMONSTER_Japan,2025,4,2,Thu,Fri,0
+40936.0,reported,arena,20000.0,Asia,Japan,Yokohama,3,BABYMONSTER,female,5,7,YG,1,rookie,BABYMONSTER_Japan,2025,4,2,Fri,Sun,1
+,unreported,arena,10000.0,Asia,Japan,Fukuoka,2,BABYMONSTER,female,5,7,YG,1,rookie,BABYMONSTER_Japan,2025,4,2,Sat,Sun,1
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1,BABYMONSTER,female,5,7,YG,1,rookie,BABYMONSTER_Singapore,2025,5,2,Sat,Sat,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2,BABYMONSTER,female,5,7,YG,1,rookie,BABYMONSTER_Hong Kong,2025,5,2,Sat,Sun,1
+,unreported,concert hall,2000.0,Asia,Vietnam,Ho Chi Minh City,1,BABYMONSTER,female,5,7,YG,1,rookie,BABYMONSTER_Vietnam,2025,5,2,Sat,Sat,1
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,2,BABYMONSTER,female,5,7,YG,1,rookie,BABYMONSTER_Thailand,2025,6,2,Sat,Sun,1
+,unreported,concert hall,,Asia,Indonesia,Tangerang,1,BABYMONSTER,female,5,7,YG,1,rookie,BABYMONSTER_Indonesia,2025,6,2,Sat,Sat,1
+,unreported,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1,BABYMONSTER,female,5,7,YG,1,rookie,BABYMONSTER_Malaysia,2025,6,2,Sat,Sat,1
+,unreported,arena,15000.0,Asia,Taiwan,Taoyuan,2,BABYMONSTER,female,5,7,YG,1,rookie,BABYMONSTER_Taiwan,2025,6,2,Sat,Sun,1
+,unreported,arena,19800.0,North America,Canada,Toronto,1,BABYMONSTER,female,5,7,YG,1,rookie,BABYMONSTER_Canada,2025,8,3,Sat,Sat,1
+3636.0,reported,arena,22000.0,North America,United States,Rosemont,1,BABYMONSTER,female,5,7,YG,1,rookie,BABYMONSTER_United States,2025,9,3,Tue,Tue,0
+5083.0,reported,arena,18000.0,North America,United States,Atlanta,1,BABYMONSTER,female,5,7,YG,1,rookie,BABYMONSTER_United States,2025,9,3,Fri,Fri,1
+5886.0,reported,arena,14000.0,North America,United States,Fort Worth,1,BABYMONSTER,female,5,7,YG,1,rookie,BABYMONSTER_United States,2025,9,3,Sun,Sun,1
+6336.0,reported,arena,19596.0,North America,United States,Oakland,1,BABYMONSTER,female,5,7,YG,1,rookie,BABYMONSTER_United States,2025,9,3,Wed,Wed,0
+7085.0,reported,arena,17200.0,North America,United States,Seattle,1,BABYMONSTER,female,5,7,YG,1,rookie,BABYMONSTER_United States,2025,9,3,Fri,Fri,1
+21125.0,reported,stadium,65599.0,Asia,South Korea,Seoul,2,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_South Korea,2018,11,4,Sat,Sun,1
+29241.0,reported,arena,12000.0,Asia,Thailand,Bangkok,3,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_Thailand,2019,1,1,Fri,Sun,1
+16260.0,reported,concert hall,,Asia,Indonesia,Tangerang,2,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_Indonesia,2019,1,1,Sat,Sun,1
+9690.0,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,1,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_Hong Kong,2019,1,1,Sat,Sat,1
+8469.0,reported,arena,15000.0,Asia,Philippines,Pasay,1,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_Philippines,2019,2,1,Sat,Sat,1
+8076.0,reported,arena,9000.0,Asia,Singapore,Singapore,1,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_Singapore,2019,2,1,Fri,Fri,1
+15504.0,reported,arena,13000.0,Asia,Malaysia,Kuala Lumpur,2,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_Malaysia,2019,2,1,Sat,Sun,1
+8774.0,reported,arena,15000.0,Asia,Taiwan,Taoyuan,1,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_Taiwan,2019,3,1,Sun,Sun,1
+12245.0,reported,arena,17500.0,North America,United States,Inglewood,1,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_United States,2019,4,2,Wed,Wed,0
+11417.0,reported,arena,22000.0,North America,United States,Rosemont,1,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_United States,2019,4,2,Wed,Wed,0
+10704.0,reported,arena,18000.0,North America,Canada,Hamilton,1,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_Canada,2019,4,2,Sat,Sat,1
+22944.0,reported,arena,17000.0,North America,United States,Newark,2,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_United States,2019,5,2,Wed,Thu,0
+9180.0,reported,arena,13100.0,North America,United States,Duluth,1,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_United States,2019,5,2,Sun,Sun,1
+9107.0,reported,arena,13500.0,North America,United States,Fort Worth,1,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_United States,2019,5,2,Wed,Wed,0
+,unreported,arena,13500.0,North America,United States,Fort Worth,1,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_United States,2019,5,2,Wed,Wed,0
+5272.0,reported,concert hall,6000.0,Europe,Netherlands,Amsterdam,1,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_Netherlands,2019,5,2,Sat,Sat,1
+5424.0,reported,arena,21000.0,Europe,England,Manchester,1,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_England,2019,5,2,Tue,Tue,0
+9968.0,reported,arena,12500.0,Europe,England,London,1,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_England,2019,5,2,Wed,Wed,0
+7722.0,reported,arena,12000.0,Europe,Germany,Berlin,1,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_Germany,2019,5,2,Fri,Fri,1
+6224.0,reported,arena,9000.0,Europe,France,Paris,1,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_France,2019,5,2,Sun,Sun,1
+8344.0,reported,arena,17960.0,Europe,Spain,Barcelona,1,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_Spain,2019,5,2,Tue,Tue,0
+10081.0,reported,arena,14000.0,Asia,Macau,Macau,1,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_Macau,2019,6,2,Sat,Sat,1
+12173.0,reported,arena,14820.0,Oceania,Australia,Melbourne,1,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_Australia,2019,6,2,Thu,Thu,0
+14317.0,reported,arena,18000.0,Oceania,Australia,Sydney,1,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_Australia,2019,6,2,Sat,Sat,1
+28776.0,reported,arena,12000.0,Asia,Thailand,Bangkok,3,BLACKPINK,female,3,4,YG,2,rookie,BLACKPINK_Thailand,2019,7,3,Fri,Sun,1
+50369.0,reported,stadium,55000.0,Asia,Japan,Tokyo,1,BLACKPINK,female,3,4,YG,3,growing,BLACKPINK_Japan,2019,12,4,Wed,Wed,0
+81931.0,reported,stadium,55000.0,Asia,Japan,Osaka,2,BLACKPINK,female,3,4,YG,3,growing,BLACKPINK_Japan,2020,1,1,Sat,Sun,1
+38846.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,1,BLACKPINK,female,3,4,YG,3,growing,BLACKPINK_Japan,2020,2,1,Sat,Sat,1
+20060.0,reported,arena,15000.0,Asia,South Korea,Seoul,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_South Korea,2022,10,4,Sat,Sun,1
+23528.0,reported,arena,21000.0,North America,United States,Dallas,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_United States,2022,10,4,Tue,Wed,0
+23480.0,reported,arena,19000.0,North America,United States,Houston,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_United States,2022,10,4,Sat,Sun,1
+23434.0,reported,arena,18000.0,North America,United States,Atlanta,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_United States,2022,11,4,Wed,Thu,0
+23990.0,reported,arena,18000.0,North America,Canada,Hamilton,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Canada,2022,11,4,Sun,Mon,1
+25582.0,reported,arena,23500.0,North America,United States,Chicago,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_United States,2022,11,4,Thu,Fri,0
+23928.0,reported,arena,17000.0,North America,United States,Newark,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_United States,2022,11,4,Mon,Tue,0
+46295.0,reported,stadium,22000.0,North America,United States,Los Angeles,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_United States,2022,11,4,Sat,Sun,1
+35440.0,reported,arena,20000.0,Europe,England,London,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_England,2022,11,4,Wed,Thu,0
+17208.0,reported,arena,17960.0,Europe,Spain,Barcelona,1,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Spain,2022,12,4,Mon,Mon,0
+15899.0,reported,arena,20000.0,Europe,Germany,Cologne,1,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Germany,2022,12,4,Thu,Thu,0
+30731.0,reported,arena,20300.0,Europe,France,Paris,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_France,2022,12,4,Sun,Mon,1
+15525.0,reported,arena,17000.0,Europe,Denmark,Copenhagen,1,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Denmark,2022,12,4,Thu,Thu,0
+26638.0,reported,arena,17000.0,Europe,Germany,Berlin,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Germany,2022,12,4,Mon,Tue,0
+14641.0,reported,arena,17000.0,Europe,Netherlands,Amsterdam,1,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Netherlands,2022,12,4,Thu,Thu,0
+66211.0,reported,stadium,35000.0,Asia,Thailand,Bangkok,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Thailand,2023,1,1,Sat,Sun,1
+32312.0,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,3,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Hong Kong,2023,1,1,Fri,Sun,1
+26578.0,reported,concert hall,,Middle East,Saudi Arabia,Riyadh,1,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Saudi Arabia,2023,1,1,Fri,Fri,1
+22209.0,reported,amphitheater,40000.0,Middle East,United Arab Emirates,Abu Dhabi,1,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_United Arab Emirates,2023,1,1,Sat,Sat,1
+62642.0,reported,stadium,90000.0,Asia,Malaysia,Kuala Lumpur,1,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Malaysia,2023,3,1,Sat,Sat,1
+113740.0,reported,stadium,77193.0,Asia,Indonesia,Jakarta,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Indonesia,2023,3,1,Sat,Sun,1
+101096.0,reported,stadium,55000.0,Asia,Taiwan,Kaohsiung,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Taiwan,2023,3,1,Sat,Sun,1
+92720.0,reported,arena,55000.0,Asia,Philippines,Bulacan,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Philippines,2023,3,1,Sat,Sun,1
+100809.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Japan,2023,4,2,Sat,Sun,1
+113498.0,reported,stadium,65000.0,North America,Mexico,Mexico City,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Mexico,2023,4,2,Wed,Thu,0
+97977.0,reported,stadium,55000.0,Asia,Singapore,Singapore,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Singapore,2023,5,2,Sat,Sun,1
+23267.0,reported,arena,16000.0,Asia,Macau,Macau,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Macau,2023,5,2,Sat,Sun,1
+81108.0,reported,stadium,51560.0,Asia,Thailand,Bangkok,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Thailand,2023,5,2,Sat,Sun,1
+81996.0,reported,stadium,55000.0,Asia,Japan,Osaka,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Japan,2023,6,2,Sat,Sun,1
+23145.0,reported,arena,14820.0,Oceania,Australia,Melbourne,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Australia,2023,6,2,Sat,Sun,1
+25926.0,reported,arena,18000.0,Oceania,Australia,Sydney,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Australia,2023,6,2,Fri,Sat,1
+,unreported,,,Oceania,New Zealand,Auckland,1,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_New Zealand,2023,6,2,Wed,Wed,0
+52781.0,reported,stadium,81338.0,Europe,France,Paris,1,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_France,2023,7,3,Sat,Sat,1
+67443.0,reported,stadium,50000.0,Asia,Vietnam,Hanoi,2,BLACKPINK,female,3,4,YG,6,established,BLACKPINK_Vietnam,2023,7,3,Sat,Sun,1
+96570.0,reported,stadium,82500.0,North America,United States,East Rutherford,2,BLACKPINK,female,3,4,YG,7,established,BLACKPINK_United States,2023,8,3,Fri,Sat,1
+44171.0,reported,stadium,65000.0,North America,United States,Las Vegas,1,BLACKPINK,female,3,4,YG,7,established,BLACKPINK_United States,2023,8,3,Fri,Fri,1
+38390.0,reported,stadium,45000.0,North America,United States,San Francisco,1,BLACKPINK,female,3,4,YG,7,established,BLACKPINK_United States,2023,8,3,Tue,Tue,0
+48824.0,reported,stadium,56000.0,North America,United States,Los Angeles,1,BLACKPINK,female,3,4,YG,7,established,BLACKPINK_United States,2023,8,3,Sat,Sat,1
+35391.0,reported,stadium,16744.0,Asia,South Korea,Seoul,2,BLACKPINK,female,3,4,YG,7,established,BLACKPINK_South Korea,2023,9,3,Sat,Sun,1
+75340.0,parcial,stadium,41311.0,Asia,South Korea,Goyang,2,BLACKPINK,female,3,4,YG,8,established,BLACKPINK_South Korea,2025,7,3,Sat,Sun,1
+89981.0,parcial,stadium,70240.0,North America,United States,Inglewood,2,BLACKPINK,female,3,4,YG,8,established,BLACKPINK_United States,2025,7,3,Sat,Sun,1
+48915.0,parcial,stadium,62500.0,North America,United States,Chicago,1,BLACKPINK,female,3,4,YG,8,established,BLACKPINK_United States,2025,7,3,Fri,Fri,1
+,unreported,stadium,50000.0,North America,Canada,Toronto,2,BLACKPINK,female,3,4,YG,8,established,BLACKPINK_Canada,2025,7,3,Tue,Wed,0
+73608.0,parcial,stadium,41922.0,North America,United States,New York,2,BLACKPINK,female,3,4,YG,8,established,BLACKPINK_United States,2025,7,3,Sat,Sun,1
+,unreported,stadium,81338.0,Europe,France,Paris,2,BLACKPINK,female,3,4,YG,8,established,BLACKPINK_France,2025,8,3,Sat,Sun,1
+,unreported,stadium,80000.0,Europe,Italy,Milan,1,BLACKPINK,female,3,4,YG,8,established,BLACKPINK_Italy,2025,8,3,Wed,Wed,0
+,unreported,stadium,55926.0,Europe,Spain,Barcelona,1,BLACKPINK,female,3,4,YG,9,established,BLACKPINK_Spain,2025,8,3,Sat,Sat,1
+,unreported,stadium,90000.0,Europe,England,London,2,BLACKPINK,female,3,4,YG,9,established,BLACKPINK_England,2025,8,3,Fri,Sat,1
+,unreported,stadium,55000.0,Asia,Taiwan,Kaohsiung,2,BLACKPINK,female,3,4,YG,9,established,BLACKPINK_Taiwan,2025,10,4,Sat,Sun,1
+,unreported,stadium,51560.0,Asia,Thailand,Bangkok,3,BLACKPINK,female,3,4,YG,9,established,BLACKPINK_Thailand,2025,10,4,Fri,Sun,1
+,unreported,stadium,77193.0,Asia,Indonesia,Jakarta,2,BLACKPINK,female,3,4,YG,9,established,BLACKPINK_Indonesia,2025,11,4,Sat,Sun,1
+,unreported,arena,55000.0,Asia,Philippines,Bulacan,2,BLACKPINK,female,3,4,YG,9,established,BLACKPINK_Philippines,2025,11,4,Sat,Sun,1
+,unreported,stadium,55000.0,Asia,Singapore,Singapore,3,BLACKPINK,female,3,4,YG,9,established,BLACKPINK_Singapore,2025,11,4,Fri,Sun,1
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,3,BLACKPINK,female,3,4,YG,9,established,BLACKPINK_Japan,2026,1,1,Fri,Sun,1
+,unreported,stadium,45995.0,Asia,Hong Kong,Hong Kong,3,BLACKPINK,female,3,4,YG,9,established,BLACKPINK_Hong Kong,2026,1,1,Sat,Mon,1
+9869.0,missing,arena,11069.0,Asia,South Korea,Seoul,2,i-dle,female,4,5,Cube,5,growing,i-dle_South Korea,2023,6,2,Sat,Sun,1
+,unreported,stadium,13000.0,Asia,Taiwan,Taipei,2,i-dle,female,4,5,Cube,5,growing,i-dle_Taiwan,2023,7,3,Sat,Sun,1
+,unreported,concert hall,3500.0,Asia,Thailand,Bangkok,1,i-dle,female,4,5,Cube,5,growing,i-dle_Thailand,2023,7,3,Sat,Sat,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2,i-dle,female,4,5,Cube,5,growing,i-dle_Hong Kong,2023,7,3,Sat,Sun,1
+5244.0,reported,arena,8500.0,North America,United States,San Francisco,1,i-dle,female,4,5,Cube,5,growing,i-dle_United States,2023,8,3,Fri,Fri,1
+6360.0,reported,arena,7100.0,North America,United States,Los Angeles,1,i-dle,female,4,5,Cube,5,growing,i-dle_United States,2023,8,3,Sun,Sun,1
+,unreported,concert hall,6350.0,North America,United States,Grand Prairie,1,i-dle,female,4,5,Cube,5,growing,i-dle_United States,2023,8,3,Wed,Wed,0
+5175.0,reported,theater,5600.0,North America,United States,New York,1,i-dle,female,4,5,Cube,5,growing,i-dle_United States,2023,8,3,Sun,Sun,1
+2732.0,unreported,theater,4665.0,North America,United States,Atlanta,1,i-dle,female,4,5,Cube,5,growing,i-dle_United States,2023,8,3,Tue,Tue,0
+4292.0,reported,theater,4400.0,North America,United States,Rosemont,1,i-dle,female,4,5,Cube,5,growing,i-dle_United States,2023,8,3,Thu,Thu,0
+9438.0,unreported,arena,12500.0,Europe,England,London,1,i-dle,female,4,5,Cube,5,growing,i-dle_England,2023,9,3,Sat,Sat,1
+,unreported,concert hall,6000.0,Europe,Netherlands,Amsterdam,1,i-dle,female,4,5,Cube,5,growing,i-dle_Netherlands,2023,9,3,Mon,Mon,0
+,unreported,arena,9000.0,Europe,France,Paris,1,i-dle,female,4,5,Cube,5,growing,i-dle_France,2023,9,3,Wed,Wed,0
+8232.0,reported,arena,8400.0,Europe,Belgium,Brussels,1,i-dle,female,4,5,Cube,5,growing,i-dle_Belgium,2023,9,3,Sat,Sat,1
+,unreported,concert hall,4500.0,Europe,Germany,Berlin,2,i-dle,female,4,5,Cube,5,growing,i-dle_Germany,2023,9,3,Mon,Tue,0
+,unreported,concert hall,2448.0,Asia,Japan,Tokyo,2,i-dle,female,4,5,Cube,5,growing,i-dle_Japan,2023,9,3,Wed,Thu,0
+,unreported,arena,16000.0,Asia,Macau,Macau,2,i-dle,female,4,5,Cube,5,growing,i-dle_Macau,2023,10,4,Fri,Sat,1
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1,i-dle,female,4,5,Cube,5,growing,i-dle_Singapore,2023,10,4,Sun,Sun,1
+15425.0,parcial,arena,15000.0,Asia,South Korea,Seoul,2,i-dle,female,4,5,Cube,6,established,i-dle_South Korea,2024,8,3,Sat,Sun,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,3,i-dle,female,4,5,Cube,6,established,i-dle_Hong Kong,2024,8,3,Fri,Sun,1
+5322.0,parcial,arena,21000.0,North America,United States,Tacoma,1,i-dle,female,4,5,Cube,6,established,i-dle_United States,2024,9,3,Fri,Fri,1
+,unreported,arena,19596.0,North America,United States,Oakland,1,i-dle,female,4,5,Cube,6,established,i-dle_United States,2024,9,3,Sun,Sun,1
+7177.0,parcial,theater,10935.0,North America,United States,Anaheim,1,i-dle,female,4,5,Cube,6,established,i-dle_United States,2024,9,3,Tue,Tue,0
+,unreported,arena,19000.0,North America,United States,Houston,1,i-dle,female,4,5,Cube,6,established,i-dle_United States,2024,9,3,Fri,Fri,1
+7027.0,parcial,arena,22000.0,North America,United States,Rosemont,1,i-dle,female,4,5,Cube,6,established,i-dle_United States,2024,9,3,Sun,Sun,1
+5475.0,parcial,arena,19000.0,North America,United States,New York,1,i-dle,female,4,5,Cube,6,established,i-dle_United States,2024,9,3,Wed,Wed,0
+,unreported,stadium,13000.0,Asia,Taiwan,Taipei,3,i-dle,female,4,5,Cube,6,established,i-dle_Taiwan,2024,10,4,Fri,Sun,1
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,1,i-dle,female,4,5,Cube,6,established,i-dle_Thailand,2024,10,4,Sat,Sat,1
+,unreported,arena,16000.0,Asia,Macau,Macau,3,i-dle,female,4,5,Cube,6,established,i-dle_Macau,2024,10,4,Fri,Sun,1
+,unreported,arena,14820.0,Oceania,Australia,Melbourne,1,i-dle,female,4,5,Cube,6,established,i-dle_Australia,2024,10,4,Thu,Thu,0
+,unreported,arena,18000.0,Oceania,Australia,Sydney,1,i-dle,female,4,5,Cube,6,established,i-dle_Australia,2024,11,4,Sat,Sat,1
+,unreported,arena,15000.0,Asia,Japan,Tokyo,2,i-dle,female,4,5,Cube,8,established,i-dle_Japan,2026,8,3,Mon,Tue,0
+5266.0,parcial,arena,6500.0,Asia,South Korea,Seoul,2,ITZY,female,4,5,JYP,3,growing,ITZY_South Korea,2022,8,3,Sat,Sun,1
+,unreported,theater,6000.0,North America,United States,Inglewood,1,ITZY,female,4,5,JYP,3,growing,ITZY_United States,2022,10,4,Wed,Wed,0
+,unreported,theater,5000.0,North America,United States,Phoenix,1,ITZY,female,4,5,JYP,3,growing,ITZY_United States,2022,10,4,Sat,Sat,1
+,unreported,theater,4000.0,North America,United States,Irving,1,ITZY,female,4,5,JYP,3,growing,ITZY_United States,2022,11,4,Tue,Tue,0
+,unreported,concert hall,6400.0,North America,United States,Sugar Land,1,ITZY,female,4,5,JYP,3,growing,ITZY_United States,2022,11,4,Thu,Thu,0
+,unreported,theater,4665.0,North America,United States,Atlanta,1,ITZY,female,4,5,JYP,3,growing,ITZY_United States,2022,11,4,Sat,Sat,1
+,unreported,theater,4400.0,North America,United States,Rosemont,1,ITZY,female,4,5,JYP,3,growing,ITZY_United States,2022,11,4,Mon,Mon,0
+,unreported,concert hall,5007.0,North America,United States,Boston,1,ITZY,female,4,5,JYP,3,growing,ITZY_United States,2022,11,4,Thu,Thu,0
+,unreported,theater,5600.0,North America,United States,New York,1,ITZY,female,4,5,JYP,3,growing,ITZY_United States,2022,11,4,Sun,Sun,1
+,unreported,arena,15000.0,Asia,Philippines,Pasay,2,ITZY,female,4,5,JYP,3,growing,ITZY_Philippines,2023,1,1,Sat,Sun,1
+,unreported,concert hall,5000.0,Asia,Singapore,Singapore,1,ITZY,female,4,5,JYP,3,growing,ITZY_Singapore,2023,1,1,Sat,Sat,1
+,unreported,arena,3750.0,Asia,Indonesia,Jakarta,1,ITZY,female,4,5,JYP,3,growing,ITZY_Indonesia,2023,2,1,Sat,Sat,1
+,unreported,arena,,Asia,Japan,Chiba,2,ITZY,female,4,5,JYP,4,growing,ITZY_Japan,2023,2,1,Wed,Thu,0
+,unreported,arena,15000.0,Asia,Taiwan,Taoyuan,1,ITZY,female,4,5,JYP,4,growing,ITZY_Taiwan,2023,2,1,Sun,Sun,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2,ITZY,female,4,5,JYP,4,growing,ITZY_Hong Kong,2023,3,1,Sat,Sun,1
+,unreported,concert hall,3500.0,Asia,Thailand,Bangkok,1,ITZY,female,4,5,JYP,4,growing,ITZY_Thailand,2023,4,2,Sat,Sat,1
+7406.0,missing,arena,11069.0,Asia,South Korea,Seoul,2,ITZY,female,4,5,JYP,5,growing,ITZY_South Korea,2024,2,1,Sat,Sun,1
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,1,ITZY,female,4,5,JYP,5,growing,ITZY_Thailand,2024,3,1,Sat,Sat,1
+5108.0,reported,arena,13280.0,Oceania,New Zealand,Auckland,1,ITZY,female,4,5,JYP,5,growing,ITZY_New Zealand,2024,3,1,Thu,Thu,0
+,unreported,concert hall,2500.0,Oceania,Australia,Sydney,1,ITZY,female,4,5,JYP,5,growing,ITZY_Australia,2024,3,1,Sun,Sun,1
+,unreported,arena,7500.0,Oceania,Australia,Melbourne,1,ITZY,female,4,5,JYP,5,growing,ITZY_Australia,2024,3,1,Tue,Tue,0
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1,ITZY,female,4,5,JYP,5,growing,ITZY_Singapore,2024,4,2,Sat,Sat,1
+5639.0,reported,theater,7500.0,North America,Mexico,Mexico City,1,ITZY,female,4,5,JYP,5,growing,ITZY_Mexico,2024,4,2,Mon,Mon,0
+13101.0,reported,arena,15500.0,South America,Chile,Santiago,1,ITZY,female,4,5,JYP,5,growing,ITZY_Chile,2024,4,2,Thu,Thu,0
+,unreported,arena,12500.0,Europe,England,London,1,ITZY,female,4,5,JYP,5,growing,ITZY_England,2024,4,2,Wed,Wed,0
+,unreported,arena,9000.0,Europe,France,Paris,1,ITZY,female,4,5,JYP,5,growing,ITZY_France,2024,4,2,Fri,Fri,1
+,unreported,arena,12000.0,Europe,Germany,Berlin,1,ITZY,female,4,5,JYP,5,growing,ITZY_Germany,2024,4,2,Sun,Sun,1
+,unreported,concert hall,6000.0,Europe,Netherlands,Amsterdam,1,ITZY,female,4,5,JYP,5,growing,ITZY_Netherlands,2024,5,2,Wed,Wed,0
+,unreported,arena,14000.0,Europe,Spain,Madrid,1,ITZY,female,4,5,JYP,5,growing,ITZY_Spain,2024,5,2,Sat,Sat,1
+,unreported,arena,12898.0,Asia,Japan,Tokyo,3,ITZY,female,4,5,JYP,5,growing,ITZY_Japan,2024,5,2,Fri,Sun,1
+,unreported,arena,16000.0,Asia,Japan,Osaka,1,ITZY,female,4,5,JYP,5,growing,ITZY_Japan,2024,5,2,Wed,Wed,0
+,unreported,concert hall,7000.0,North America,United States,Seattle,1,ITZY,female,4,5,JYP,5,growing,ITZY_United States,2024,6,2,Thu,Thu,0
+,unreported,arena,19596.0,North America,United States,Oakland,1,ITZY,female,4,5,JYP,5,growing,ITZY_United States,2024,6,2,Sat,Sat,1
+,unreported,arena,17500.0,North America,United States,Inglewood,1,ITZY,female,4,5,JYP,5,growing,ITZY_United States,2024,6,2,Tue,Tue,0
+,unreported,concert hall,6400.0,North America,United States,Sugar Land,1,ITZY,female,4,5,JYP,5,growing,ITZY_United States,2024,6,2,Fri,Fri,1
+,unreported,theater,4000.0,North America,United States,Irving,1,ITZY,female,4,5,JYP,5,growing,ITZY_United States,2024,6,2,Sun,Sun,1
+4098.0,reported,theater,4665.0,North America,United States,Atlanta,1,ITZY,female,4,5,JYP,5,growing,ITZY_United States,2024,6,2,Tue,Tue,0
+6688.0,reported,arena,15000.0,North America,United States,Fairfax,1,ITZY,female,4,5,JYP,5,growing,ITZY_United States,2024,6,2,Thu,Thu,0
+8040.0,reported,arena,17000.0,North America,United States,Newark,1,ITZY,female,4,5,JYP,5,growing,ITZY_United States,2024,6,2,Sun,Sun,1
+,unreported,theater,4400.0,North America,United States,Rosemont,1,ITZY,female,4,5,JYP,5,growing,ITZY_United States,2024,6,2,Wed,Wed,0
+,unreported,concert hall,,North America,Canada,Toronto,2,ITZY,female,4,5,JYP,5,growing,ITZY_Canada,2024,6,2,Fri,Sat,1
+,unreported,stadium,13000.0,Asia,Taiwan,Taipei,1,ITZY,female,4,5,JYP,5,growing,ITZY_Taiwan,2024,7,3,Sat,Sat,1
+,unreported,arena,15000.0,Asia,Philippines,Pasay,1,ITZY,female,4,5,JYP,5,growing,ITZY_Philippines,2024,8,3,Sat,Sat,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,1,ITZY,female,4,5,JYP,5,growing,ITZY_Hong Kong,2024,8,3,Sat,Sat,1
+12334.0,parcial,arena,11069.0,Asia,South Korea,Seoul,3,ITZY,female,4,5,JYP,7,established,ITZY_South Korea,2026,2,1,Fri,Sun,1
+,unreported,arena,10300.0,Oceania,Australia,Melbourne,1,ITZY,female,4,5,JYP,7,established,ITZY_Australia,2026,4,2,Fri,Fri,1
+,unreported,concert hall,2500.0,Oceania,Australia,Sydney,1,ITZY,female,4,5,JYP,7,established,ITZY_Australia,2026,4,2,Sun,Sun,1
+,unreported,arena,13280.0,Oceania,New Zealand,Auckland,1,ITZY,female,4,5,JYP,7,established,ITZY_New Zealand,2026,4,2,Wed,Wed,0
+,unreported,arena,10000.0,Asia,Japan,Tokyo,2,ITZY,female,4,5,JYP,7,established,ITZY_Japan,2026,5,2,Sat,Sun,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,1,ITZY,female,4,5,JYP,7,established,ITZY_Hong Kong,2026,6,2,Sat,Sat,1
+,unreported,arena,15000.0,Asia,Taiwan,Kaohsiung,1,ITZY,female,4,5,JYP,7,established,ITZY_Taiwan,2026,6,2,Sat,Sat,1
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,1,ITZY,female,4,5,JYP,7,established,ITZY_Thailand,2026,7,3,Sat,Sat,1
+,unreported,arena,15000.0,Asia,Philippines,Pasay,1,ITZY,female,4,5,JYP,7,established,ITZY_Philippines,2026,7,3,Sat,Sat,1
+9989.0,reported,arena,11069.0,Asia,South Korea,Seoul,2,IVE,female,4,6,"Starship,KAKAO",1,rookie,IVE_South Korea,2023,10,4,Sat,Sun,1
+24387.0,reported,arena,20000.0,Asia,Japan,Yokohama,2,IVE,female,4,6,"Starship,KAKAO",1,rookie,IVE_Japan,2023,11,4,Wed,Thu,0
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_Thailand,2024,1,1,Sat,Sat,1
+18851.0,reported,arena,15000.0,Asia,Japan,Fukuoka,2,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_Japan,2024,1,1,Wed,Thu,0
+20748.0,reported,arena,16000.0,Asia,Japan,Osaka,2,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_Japan,2024,2,1,Wed,Thu,0
+,unreported,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_Malaysia,2024,2,1,Sat,Sat,1
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_Singapore,2024,2,1,Sat,Sat,1
+,unreported,arena,15000.0,Asia,Taiwan,Taoyuan,2,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_Taiwan,2024,3,1,Sat,Sun,1
+,unreported,arena,17500.0,North America,United States,Inglewood,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_United States,2024,3,1,Wed,Wed,0
+12063.0,reported,arena,19596.0,North America,United States,Oakland,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_United States,2024,3,1,Sat,Sat,1
+7320.0,reported,arena,14000.0,North America,United States,Fort Worth,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_United States,2024,3,1,Wed,Wed,0
+7154.0,reported,arena,18000.0,North America,United States,Atlanta,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_United States,2024,3,1,Sun,Sun,1
+7438.0,reported,arena,22000.0,North America,United States,Rosemont,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_United States,2024,3,1,Tue,Tue,0
+11617.0,reported,arena,17000.0,North America,United States,Newark,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_United States,2024,3,1,Fri,Fri,1
+,unreported,arena,20300.0,Europe,France,Paris,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_France,2024,6,2,Tue,Tue,0
+,unreported,arena,17960.0,Europe,Spain,Barcelona,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_Spain,2024,6,2,Fri,Fri,1
+,unreported,arena,17000.0,Europe,Germany,Berlin,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_Germany,2024,6,2,Mon,Mon,0
+,unreported,arena,17000.0,Europe,Netherlands,Amsterdam,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_Netherlands,2024,6,2,Thu,Thu,0
+,unreported,arena,20000.0,Europe,England,London,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_England,2024,6,2,Sun,Sun,1
+,unreported,arena,26000.0,North America,Mexico,Mexico City,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_Mexico,2024,6,2,Sun,Sun,1
+,unreported,concert hall,8000.0,South America,Brazil,São Paulo,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_Brazil,2024,6,2,Wed,Wed,0
+6414.0,reported,arena,15500.0,South America,Chile,Santiago,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_Chile,2024,6,2,Sun,Sun,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_Hong Kong,2024,7,3,Sat,Sun,1
+,unreported,arena,15000.0,Asia,Philippines,Pasay,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_Philippines,2024,7,3,Sat,Sat,1
+,unreported,arena,14820.0,Oceania,Australia,Melbourne,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_Australia,2024,7,3,Thu,Thu,0
+12181.0,reported,arena,18000.0,Oceania,Australia,Sydney,1,IVE,female,4,6,"Starship,KAKAO",2,rookie,IVE_Australia,2024,7,3,Sun,Sun,1
+16776.0,parcial,arena,15000.0,Asia,South Korea,Seoul,2,IVE,female,4,6,"Starship,KAKAO",3,growing,IVE_South Korea,2025,8,3,Sun,Mon,1
+,unreported,concert hall,,Asia,Indonesia,Tangerang,1,IVE,female,4,6,"Starship,KAKAO",3,growing,IVE_Indonesia,2025,8,3,Sun,Sun,1
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,2,IVE,female,4,6,"Starship,KAKAO",3,growing,IVE_Japan,2025,9,3,Thu,Fri,0
+28543.0,parcial,arena,15000.0,Asia,South Korea,Seoul,3,IVE,female,4,6,"Starship,KAKAO",3,growing,IVE_South Korea,2025,10,4,Fri,Sun,1
+,unreported,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1,IVE,female,4,6,"Starship,KAKAO",4,growing,IVE_Malaysia,2026,4,2,Sat,Sat,1
+,unreported,stadium,55000.0,Asia,Japan,Osaka,2,IVE,female,4,6,"Starship,KAKAO",4,growing,IVE_Japan,2026,4,2,Sat,Sun,1
+,unreported,arena,15000.0,Asia,Philippines,Pasay,1,IVE,female,4,6,"Starship,KAKAO",4,growing,IVE_Philippines,2026,4,2,Sat,Sat,1
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1,IVE,female,4,6,"Starship,KAKAO",4,growing,IVE_Singapore,2026,5,2,Sat,Sat,1
+,unreported,arena,14000.0,Asia,Macau,Macau,2,IVE,female,4,6,"Starship,KAKAO",4,growing,IVE_Macau,2026,5,2,Sat,Sun,1
+,unreported,arena,18000.0,Oceania,Australia,Sydney,1,IVE,female,4,6,"Starship,KAKAO",4,growing,IVE_Australia,2026,6,2,Sat,Sat,1
+,unreported,arena,14820.0,Oceania,Australia,Melbourne,1,IVE,female,4,6,"Starship,KAKAO",4,growing,IVE_Australia,2026,6,2,Tue,Tue,0
+,unreported,arena,13280.0,Oceania,New Zealand,Auckland,1,IVE,female,4,6,"Starship,KAKAO",4,growing,IVE_New Zealand,2026,6,2,Sat,Sat,1
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,1,IVE,female,4,6,"Starship,KAKAO",4,growing,IVE_Japan,2026,6,2,Wed,Wed,0
+8237.0,parcial,arena,19800.0,North America,Canada,Toronto,1,IVE,female,4,6,"Starship,KAKAO",4,growing,IVE_Canada,2026,7,3,Tue,Tue,0
+9373.0,parcial,arena,15000.0,North America,Canada,Montreal,1,IVE,female,4,6,"Starship,KAKAO",4,growing,IVE_Canada,2026,7,3,Thu,Thu,0
+7348.0,parcial,arena,17000.0,North America,United States,Newark,1,IVE,female,4,6,"Starship,KAKAO",4,growing,IVE_United States,2026,7,3,Sat,Sat,1
+4456.0,parcial,arena,16223.0,North America,United States,Austin,1,IVE,female,4,6,"Starship,KAKAO",4,growing,IVE_United States,2026,7,3,Wed,Wed,0
+7745.0,parcial,arena,17500.0,North America,United States,Inglewood,1,IVE,female,4,6,"Starship,KAKAO",4,growing,IVE_United States,2026,8,3,Sat,Sat,1
+6645.0,parcial,arena,19596.0,North America,United States,Oakland,1,IVE,female,4,6,"Starship,KAKAO",4,growing,IVE_United States,2026,8,3,Tue,Tue,0
+8055.0,parcial,arena,17200.0,North America,United States,Seattle,1,IVE,female,4,6,"Starship,KAKAO",4,growing,IVE_United States,2026,8,3,Fri,Fri,1
+8434.0,parcial,arena,19000.0,North America,Canada,Vancouver,1,IVE,female,4,6,"Starship,KAKAO",4,growing,IVE_Canada,2026,8,3,Sun,Sun,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2,IVE,female,4,6,"Starship,KAKAO",4,growing,IVE_Hong Kong,2026,9,3,Fri,Sat,1
+,unreported,stadium,13000.0,Asia,Taiwan,Taipei,2,IVE,female,4,6,"Starship,KAKAO",4,growing,IVE_Taiwan,2026,9,3,Fri,Sat,1
+10503.0,reported,arena,11069.0,Asia,South Korea,Seoul,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",1,rookie,LE SSERAFIM_South Korea,2023,8,3,Sat,Sun,1
+17009.0,reported,arena,10000.0,Asia,Japan,Nagoya,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",1,rookie,LE SSERAFIM_Japan,2023,8,3,Wed,Thu,0
+24348.0,reported,arena,12898.0,Asia,Japan,Tokyo,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",1,rookie,LE SSERAFIM_Japan,2023,8,3,Wed,Thu,0
+20056.0,reported,arena,16000.0,Asia,Japan,Osaka,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",1,rookie,LE SSERAFIM_Japan,2023,9,3,Wed,Thu,0
+11200.0,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",1,rookie,LE SSERAFIM_Hong Kong,2023,9,3,Sat,Sun,1
+2625.0,reported,theater,2500.0,Asia,Indonesia,Jakarta,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",1,rookie,LE SSERAFIM_Indonesia,2023,10,4,Tue,Tue,0
+,unreported,concert hall,3500.0,Asia,Thailand,Bangkok,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",1,rookie,LE SSERAFIM_Thailand,2023,10,4,Sat,Sun,1
+8507.0,reported,arena,15000.0,Asia,South Korea,Incheon,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",2,rookie,LE SSERAFIM_South Korea,2025,4,2,Sat,Sun,1
+14161.0,reported,concert hall,15000.0,Asia,Japan,Nagoya,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",3,growing,LE SSERAFIM_Japan,2025,5,2,Tue,Wed,0
+16340.0,reported,arena,16000.0,Asia,Japan,Osaka,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",3,growing,LE SSERAFIM_Japan,2025,5,2,Tue,Wed,0
+16722.0,reported,concert hall,,Asia,Japan,Fukuoka,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",3,growing,LE SSERAFIM_Japan,2025,6,2,Sat,Sun,1
+52947.0,reported,arena,22500.0,Asia,Japan,Saitama,3,LE SSERAFIM,female,4,5,"Source Music,HYBE",3,growing,LE SSERAFIM_Japan,2025,6,2,Thu,Sat,0
+18333.0,reported,arena,15000.0,Asia,Taiwan,Taoyuan,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",3,growing,LE SSERAFIM_Taiwan,2025,7,3,Sat,Sun,1
+19584.0,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",3,growing,LE SSERAFIM_Hong Kong,2025,7,3,Fri,Sat,1
+9043.0,reported,arena,15000.0,Asia,Philippines,Pasay,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",3,growing,LE SSERAFIM_Philippines,2025,8,3,Sat,Sat,1
+8696.0,reported,concert hall,3500.0,Asia,Thailand,Bangkok,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",3,growing,LE SSERAFIM_Thailand,2025,8,3,Sat,Sun,1
+6717.0,reported,arena,9000.0,Asia,Singapore,Singapore,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",3,growing,LE SSERAFIM_Singapore,2025,8,3,Sat,Sat,1
+10178.0,reported,arena,17000.0,North America,United States,Newark,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",3,growing,LE SSERAFIM_United States,2025,9,3,Wed,Wed,0
+5798.0,reported,arena,10387.0,North America,United States,Chicago,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",3,growing,LE SSERAFIM_United States,2025,9,3,Fri,Fri,1
+3469.0,reported,concert hall,6350.0,North America,United States,Grand Prairie,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",3,growing,LE SSERAFIM_United States,2025,9,3,Mon,Mon,0
+11385.0,reported,arena,17500.0,North America,United States,Inglewood,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",3,growing,LE SSERAFIM_United States,2025,9,3,Fri,Fri,1
+4701.0,reported,arena,8500.0,North America,United States,San Francisco,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",3,growing,LE SSERAFIM_United States,2025,9,3,Sun,Sun,1
+12335.0,reported,arena,17200.0,North America,United States,Seattle,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",3,growing,LE SSERAFIM_United States,2025,9,3,Wed,Wed,0
+7540.0,reported,arena,12000.0,North America,United States,Las Vegas,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",3,growing,LE SSERAFIM_United States,2025,9,3,Sat,Sat,1
+13189.0,reported,arena,22300.0,North America,Mexico,Mexico City,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",3,growing,LE SSERAFIM_Mexico,2025,9,3,Tue,Tue,0
+73236.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",3,growing,LE SSERAFIM_Japan,2025,11,4,Tue,Wed,0
+10474.0,reported,arena,11069.0,Asia,South Korea,Seoul,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",3,growing,LE SSERAFIM_South Korea,2026,1,1,Sat,Sun,1
+,unreported,arena,15000.0,Asia,South Korea,Incheon,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_South Korea,2026,7,3,Sat,Sun,1
+,unreported,arena,16000.0,Asia,Japan,Osaka,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_Japan,2026,7,3,Sat,Sun,1
+,unreported,arena,17000.0,Asia,Japan,Yokohama,3,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_Japan,2026,7,3,Thu,Sun,0
+,unreported,arena,10000.0,Asia,Japan,Shizuoka,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_Japan,2026,8,3,Sat,Sun,1
+,unreported,arena,7063.0,Asia,Japan,Miyagi,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_Japan,2026,8,3,Tue,Wed,0
+,unreported,arena,15000.0,Asia,Japan,Fukuoka,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_Japan,2026,9,3,Thu,Thu,0
+,unreported,stadium,20000.0,North America,United States,Los Angeles,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_United States,2026,9,3,Wed,Wed,0
+,unreported,arena,21000.0,North America,United States,Tacoma,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_United States,2026,9,3,Sun,Sun,1
+,unreported,arena,19190.0,North America,United States,San Jose,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_United States,2026,9,3,Wed,Wed,0
+,unreported,arena,12565.0,North America,United States,Phoenix,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_United States,2026,9,3,Fri,Fri,1
+,unreported,arena,14000.0,North America,United States,Fort Worth,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_United States,2026,9,3,Sun,Sun,1
+,unreported,arena,17030.0,North America,United States,Orlando,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_United States,2026,9,3,Wed,Wed,0
+,unreported,arena,23500.0,North America,United States,Chicago,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_United States,2026,10,4,Fri,Fri,1
+,unreported,arena,20356.0,North America,United States,Washington,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_United States,2026,10,4,Mon,Mon,0
+,unreported,arena,17000.0,North America,United States,Newark,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_United States,2026,10,4,Thu,Thu,0
+,unreported,arena,20000.0,Europe,England,London,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_England,2026,10,4,Fri,Fri,1
+,unreported,arena,17000.0,Europe,Netherlands,Amsterdam,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_Netherlands,2026,10,4,Sun,Sun,1
+,unreported,arena,20300.0,Europe,France,Paris,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_France,2026,10,4,Wed,Wed,0
+,unreported,arena,17000.0,Europe,Denmark,Copenhagen,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_Denmark,2026,10,4,Fri,Fri,1
+,unreported,arena,17000.0,Europe,Germany,Berlin,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_Germany,2026,10,4,Mon,Mon,0
+,unreported,arena,15000.0,Asia,Taiwan,Taoyuan,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_Taiwan,2026,11,4,Sat,Sun,1
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_Singapore,2026,11,4,Sat,Sat,1
+,unreported,arena,15000.0,Asia,Philippines,Pasay,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing,LE SSERAFIM_Philippines,2026,12,4,Sat,Sun,1
+67865.0,reported,stadium,31552.0,Asia,Japan,Saitama,2,MISMAO,female,3,3,JYP,1,rookie,MISMAO_Japan,2024,11,4,Sun,Mon,1
+79230.0,reported,stadium,55000.0,Asia,Japan,Osaka,2,MISMAO,female,3,3,JYP,1,rookie,MISMAO_Japan,2024,11,4,Sun,Mon,1
+98449.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2,MISMAO,female,3,3,JYP,1,rookie,MISMAO_Japan,2025,1,1,Wed,Thu,0
+11574.0,parcial,arena,15000.0,Asia,South Korea,Incheon,2,NMIXX,female,4,6,JYP,3,growing,NMIXX_South Korea,2025,11,4,Sat,Sun,1
+,unreported,arena,14000.0,Europe,Spain,Madrid,1,NMIXX,female,4,6,JYP,4,growing,NMIXX_Spain,2026,3,1,Tue,Tue,0
+,unreported,concert hall,6000.0,Europe,Netherlands,Amsterdam,1,NMIXX,female,4,6,JYP,4,growing,NMIXX_Netherlands,2026,3,1,Fri,Fri,1
+,unreported,concert hall,2000.0,Europe,France,Paris,1,NMIXX,female,4,6,JYP,4,growing,NMIXX_France,2026,3,1,Sun,Sun,1
+,unreported,concert hall,4800.0,Europe,Germany,Frankfurt,1,NMIXX,female,4,6,JYP,4,growing,NMIXX_Germany,2026,3,1,Tue,Tue,0
+,unreported,concert hall,5039.0,Europe,England,London,1,NMIXX,female,4,6,JYP,4,growing,NMIXX_England,2026,3,1,Thu,Thu,0
+,unreported,concert hall,,North America,Canada,Toronto,1,NMIXX,female,4,6,JYP,4,growing,NMIXX_Canada,2026,3,1,Sun,Sun,1
+,unreported,theater,2700.0,North America,United States,New York,1,NMIXX,female,4,6,JYP,4,growing,NMIXX_United States,2026,3,1,Tue,Tue,0
+2808.0,parcial,theater,,North America,United States,Oxon Hill,1,NMIXX,female,4,6,JYP,4,growing,NMIXX_United States,2026,4,2,Thu,Thu,0
+3738.0,parcial,theater,4000.0,North America,United States,Irving,1,NMIXX,female,4,6,JYP,4,growing,NMIXX_United States,2026,4,2,Sat,Sat,1
+3040.0,parcial,concert hall,3040.0,North America,United States,Oakland,1,NMIXX,female,4,6,JYP,4,growing,NMIXX_United States,2026,4,2,Tue,Tue,0
+5428.0,parcial,theater,6000.0,North America,United States,Inglewood,1,NMIXX,female,4,6,JYP,4,growing,NMIXX_United States,2026,4,2,Thu,Thu,0
+,unreported,arena,6000.0,Asia,Thailand,Bangkok,1,NMIXX,female,4,6,JYP,4,growing,NMIXX_Thailand,2026,6,2,Sat,Sat,1
+,unreported,concert hall,5000.0,Asia,Singapore,Singapore,1,NMIXX,female,4,6,JYP,4,growing,NMIXX_Singapore,2026,6,2,Sat,Sat,1
+,unreported,arena,15000.0,Asia,Taiwan,Kaohsiung,1,NMIXX,female,4,6,JYP,4,growing,NMIXX_Taiwan,2026,7,3,Sat,Sat,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,1,NMIXX,female,4,6,JYP,4,growing,NMIXX_Hong Kong,2026,7,3,Sat,Sat,1
+,unreported,arena,10000.0,Asia,Japan,Tokyo,2,NMIXX,female,4,6,JYP,4,growing,NMIXX_Japan,2026,8,3,Sat,Sun,1
+23622.0,reported,arena,15000.0,Asia,South Korea,Seoul,2,TWICE,female,3,9,JYP,3,growing,TWICE_South Korea,2019,5,2,Sat,Sun,1
+8044.0,reported,arena,12000.0,Asia,Thailand,Bangkok,1,TWICE,female,3,9,JYP,3,growing,TWICE_Thailand,2019,6,2,Sat,Sat,1
+8594.0,reported,arena,15000.0,Asia,Philippines,Pasay,1,TWICE,female,3,9,JYP,3,growing,TWICE_Philippines,2019,6,2,Sat,Sat,1
+8514.0,reported,arena,9000.0,Asia,Singapore,Singapore,1,TWICE,female,3,9,JYP,3,growing,TWICE_Singapore,2019,7,3,Sat,Sat,1
+11827.0,reported,arena,17500.0,North America,United States,Inglewood,1,TWICE,female,3,9,JYP,3,growing,TWICE_United States,2019,7,3,Wed,Wed,0
+7942.0,reported,arena,26000.0,North America,Mexico,Mexico City,1,TWICE,female,3,9,JYP,3,growing,TWICE_Mexico,2019,7,3,Fri,Fri,1
+10297.0,reported,arena,17000.0,North America,United States,Newark,1,TWICE,female,3,9,JYP,3,growing,TWICE_United States,2019,7,3,Sun,Sun,1
+5911.0,reported,arena,10387.0,North America,United States,Chicago,1,TWICE,female,3,9,JYP,3,growing,TWICE_United States,2019,7,3,Tue,Tue,0
+8113.0,reported,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1,TWICE,female,3,9,JYP,3,growing,TWICE_Malaysia,2019,8,3,Sat,Sat,1
+8753.0,reported,arena,10024.0,Asia,Japan,Sapporo,1,TWICE,female,3,9,JYP,4,growing,TWICE_Japan,2019,10,4,Wed,Wed,0
+42158.0,reported,arena,,Asia,Japan,Chiba,3,TWICE,female,3,9,JYP,4,growing,TWICE_Japan,2019,10,4,Sun,Wed,1
+23860.0,reported,arena,16000.0,Asia,Japan,Osaka,2,TWICE,female,3,9,JYP,4,growing,TWICE_Japan,2019,11,4,Wed,Thu,0
+12866.0,reported,arena,7063.0,Asia,Japan,Miyagi,2,TWICE,female,3,9,JYP,4,growing,TWICE_Japan,2019,11,4,Sat,Sun,1
+18000.0,reported,concert hall,15000.0,Asia,Japan,Nagoya,3,TWICE,female,3,9,JYP,4,growing,TWICE_Japan,2019,11,4,Fri,Sun,1
+23646.0,reported,arena,15000.0,Asia,Japan,Fukuoka,2,TWICE,female,3,9,JYP,4,growing,TWICE_Japan,2020,2,1,Tue,Wed,0
+20000.0,reported,arena,10000.0,Asia,Japan,Shizuoka,2,TWICE,female,3,9,JYP,4,growing,TWICE_Japan,2020,2,1,Sat,Sun,1
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,2,TWICE,female,3,9,JYP,4,growing,TWICE_Japan,2020,3,1,Sat,Sun,1
+,unreported,stadium,55000.0,Asia,Japan,Osaka,2,TWICE,female,3,9,JYP,4,growing,TWICE_Japan,2020,4,2,Wed,Thu,0
+,unreported,arena,15000.0,Asia,South Korea,Seoul,1,TWICE,female,3,9,JYP,6,established,TWICE_South Korea,2021,12,4,Sat,Sun,1
+8874.0,reported,arena,15000.0,Asia,South Korea,Seoul,2,TWICE,female,3,9,JYP,6,established,TWICE_South Korea,2021,12,4,Sat,Sun,1
+25507.0,reported,arena,17500.0,North America,United States,Inglewood,2,TWICE,female,3,9,JYP,6,established,TWICE_United States,2022,2,1,Tue,Wed,0
+12891.0,reported,arena,19596.0,North America,United States,Oakland,1,TWICE,female,3,9,JYP,6,established,TWICE_United States,2022,2,1,Fri,Fri,1
+10357.0,reported,arena,14000.0,North America,United States,Fort Worth,1,TWICE,female,3,9,JYP,6,established,TWICE_United States,2022,2,1,Tue,Tue,0
+11596.0,reported,arena,18000.0,North America,United States,Atlanta,1,TWICE,female,3,9,JYP,6,established,TWICE_United States,2022,2,1,Thu,Thu,0
+26768.0,reported,arena,19000.0,North America,United States,New York,2,TWICE,female,3,9,JYP,6,established,TWICE_United States,2022,2,1,Sat,Sun,1
+146961.0,reported,stadium,55000.0,Asia,Japan,Tokyo,3,TWICE,female,3,9,JYP,6,established,TWICE_Japan,2022,4,2,Sat,Mon,1
+46710.0,reported,stadium,22000.0,North America,United States,Los Angeles,2,TWICE,female,3,9,JYP,6,established,TWICE_United States,2022,5,2,Sat,Sun,1
+24178.0,reported,arena,12898.0,Asia,Japan,Tokyo,2,TWICE,female,3,9,JYP,6,established,TWICE_Japan,2022,10,4,Sat,Sun,1
+34704.0,reported,arena,16000.0,Asia,Japan,Osaka,3,TWICE,female,3,9,JYP,6,established,TWICE_Japan,2022,10,4,Sat,Mon,1
+16329.0,reported,arena,15000.0,Asia,South Korea,Seoul,2,TWICE,female,3,9,JYP,7,established,TWICE_South Korea,2023,4,2,Sat,Sun,1
+22919.0,reported,arena,18000.0,Oceania,Australia,Sydney,2,TWICE,female,3,9,JYP,7,established,TWICE_Australia,2023,5,2,Tue,Wed,0
+22581.0,reported,arena,14820.0,Oceania,Australia,Melbourne,2,TWICE,female,3,9,JYP,7,established,TWICE_Australia,2023,5,2,Sat,Sun,1
+102239.0,reported,stadium,47853.0,Asia,Japan,Osaka,2,TWICE,female,3,9,JYP,7,established,TWICE_Japan,2023,5,2,Sat,Sun,1
+108131.0,reported,stadium,49970.0,Asia,Japan,Tokyo,2,TWICE,female,3,9,JYP,7,established,TWICE_Japan,2023,5,2,Sat,Sun,1
+48345.0,reported,stadium,70240.0,North America,United States,Inglewood,1,TWICE,female,3,9,JYP,7,established,TWICE_United States,2023,6,2,Sat,Sat,1
+23703.0,reported,arena,19596.0,North America,United States,Oakland,2,TWICE,female,3,9,JYP,7,established,TWICE_United States,2023,6,2,Mon,Tue,0
+18023.0,reported,arena,21000.0,North America,United States,Tacoma,1,TWICE,female,3,9,JYP,7,established,TWICE_United States,2023,6,2,Fri,Fri,1
+24925.0,reported,stadium,40300.0,North America,United States,Arlington,1,TWICE,female,3,9,JYP,7,established,TWICE_United States,2023,6,2,Wed,Wed,0
+19605.0,reported,arena,19000.0,North America,United States,Houston,2,TWICE,female,3,9,JYP,7,established,TWICE_United States,2023,6,2,Sat,Sun,1
+22263.0,reported,arena,23500.0,North America,United States,Chicago,2,TWICE,female,3,9,JYP,7,established,TWICE_United States,2023,6,2,Wed,Thu,0
+27648.0,reported,arena,19800.0,North America,Canada,Toronto,2,TWICE,female,3,9,JYP,7,established,TWICE_Canada,2023,7,3,Sun,Mon,1
+47907.0,reported,stadium,82500.0,North America,United States,East Rutherford,1,TWICE,female,3,9,JYP,7,established,TWICE_United States,2023,7,3,Thu,Thu,0
+28568.0,reported,stadium,41108.0,North America,United States,Atlanta,1,TWICE,female,3,9,JYP,7,established,TWICE_United States,2023,7,3,Sun,Sun,1
+18258.0,reported,arena,9000.0,Asia,Singapore,Singapore,2,TWICE,female,3,9,JYP,7,established,TWICE_Singapore,2023,9,3,Sat,Sun,1
+28148.0,reported,arena,20000.0,Europe,England,London,2,TWICE,female,3,9,JYP,7,established,TWICE_England,2023,9,3,Thu,Fri,0
+13523.0,reported,arena,20300.0,Europe,France,Paris,1,TWICE,female,3,9,JYP,7,established,TWICE_France,2023,9,3,Mon,Mon,0
+22099.0,reported,arena,17000.0,Europe,Germany,Berlin,2,TWICE,female,3,9,JYP,7,established,TWICE_Germany,2023,9,3,Wed,Thu,0
+21123.0,reported,arena,12000.0,Asia,Thailand,Bangkok,2,TWICE,female,3,9,JYP,7,established,TWICE_Thailand,2023,9,3,Sat,Sun,1
+86930.0,reported,arena,55000.0,Asia,Philippines,Bulacan,2,TWICE,female,3,9,JYP,7,established,TWICE_Philippines,2023,9,3,Sat,Sun,1
+24636.0,reported,stadium,56347.0,Oceania,Australia,Melbourne,1,TWICE,female,3,9,JYP,8,established,TWICE_Australia,2023,11,4,Sat,Sat,1
+76543.0,reported,stadium,36418.0,Asia,Japan,Nagoya,2,TWICE,female,3,9,JYP,8,established,TWICE_Japan,2023,12,4,Sat,Sun,1
+21964.0,reported,arena,82000.0,Asia,Indonesia,Jakarta,1,TWICE,female,3,9,JYP,8,established,TWICE_Indonesia,2023,12,4,Sat,Sat,1
+81709.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,2,TWICE,female,3,9,JYP,8,established,TWICE_Japan,2023,12,4,Wed,Thu,0
+114049.0,reported,stadium,65000.0,North America,Mexico,Mexico City,2,TWICE,female,3,9,JYP,8,established,TWICE_Mexico,2024,2,1,Fri,Sat,1
+65984.0,reported,stadium,55000.0,South America,Brazil,São Paulo,2,TWICE,female,3,9,JYP,8,established,TWICE_Brazil,2024,2,1,Tue,Wed,0
+39880.0,reported,stadium,65000.0,North America,United States,Las Vegas,1,TWICE,female,3,9,JYP,8,established,TWICE_United States,2024,3,1,Sat,Sat,1
+102093.0,reported,stadium,47853.0,Asia,Japan,Osaka,2,TWICE,female,3,9,JYP,8,established,TWICE_Japan,2024,7,3,Sat,Sun,1
+112289.0,reported,stadium,49970.0,Asia,Japan,Tokyo,2,TWICE,female,3,9,JYP,8,established,TWICE_Japan,2024,7,3,Sat,Sun,1
+137866.0,reported,stadium,72327.0,Asia,Japan,Yokohama,2,TWICE,female,3,9,JYP,8,established,TWICE_Japan,2024,7,3,Sat,Sun,1
+24422.0,reported,arena,15000.0,Asia,South Korea,Incheon,2,TWICE,female,3,9,JYP,9,established,TWICE_South Korea,2025,7,3,Sat,Sun,1
+94657.0,reported,stadium,55000.0,Asia,Japan,Osaka,2,TWICE,female,3,9,JYP,9,established,TWICE_Japan,2025,7,3,Sat,Sun,1
+96391.0,reported,stadium,36418.0,Asia,Japan,Nagoya,2,TWICE,female,3,9,JYP,9,established,TWICE_Japan,2025,8,3,Sat,Sun,1
+90795.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,2,TWICE,female,3,9,JYP,9,established,TWICE_Japan,2025,8,3,Sat,Sun,1
+107584.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2,TWICE,female,3,9,JYP,9,established,TWICE_Japan,2025,9,3,Tue,Wed,0
+27390.0,reported,arena,14000.0,Asia,Macau,Macau,2,TWICE,female,3,9,JYP,9,established,TWICE_Macau,2025,9,3,Sat,Sun,1
+,unreported,arena,55000.0,Asia,Philippines,Bulacan,1,TWICE,female,3,9,JYP,9,established,TWICE_Philippines,2025,10,4,Sat,Sat,1
+22727.0,reported,arena,9000.0,Asia,Singapore,Singapore,2,TWICE,female,3,9,JYP,9,established,TWICE_Singapore,2025,10,4,Sat,Sun,1
+,unreported,stadium,20000.0,Asia,Malaysia,Kuala Lumpur,1,TWICE,female,3,9,JYP,10,established,TWICE_Malaysia,2025,10,4,Sat,Sat,1
+29572.0,reported,arena,18000.0,Oceania,Australia,Sydney,2,TWICE,female,3,9,JYP,10,established,TWICE_Australia,2025,11,4,Sat,Sun,1
+27368.0,reported,arena,14820.0,Oceania,Australia,Melbourne,2,TWICE,female,3,9,JYP,10,established,TWICE_Australia,2025,11,4,Sat,Sun,1
+,unreported,stadium,55000.0,Asia,Taiwan,Kaohsiung,2,TWICE,female,3,9,JYP,10,established,TWICE_Taiwan,2025,11,4,Sat,Sun,1
+,unreported,stadium,45995.0,Asia,Hong Kong,Hong Kong,2,TWICE,female,3,9,JYP,10,established,TWICE_Hong Kong,2025,12,4,Sat,Sun,1
+25919.0,reported,arena,12000.0,Asia,Thailand,Bangkok,2,TWICE,female,3,9,JYP,10,established,TWICE_Thailand,2025,12,4,Sat,Sun,1
+,unreported,arena,19000.0,North America,Canada,Vancouver,2,TWICE,female,3,9,JYP,10,established,TWICE_Canada,2026,1,1,Fri,Sat,1
+28096.0,reported,arena,17200.0,North America,United States,Seattle,2,TWICE,female,3,9,JYP,10,established,TWICE_United States,2026,1,1,Tue,Wed,0
+,unreported,arena,19596.0,North America,United States,Oakland,2,TWICE,female,3,9,JYP,10,established,TWICE_United States,2026,1,1,Sat,Sun,1
+,unreported,arena,17500.0,North America,United States,Inglewood,4,TWICE,female,3,9,JYP,10,established,TWICE_United States,2026,1,1,Wed,Sun,0
+14272.0,reported,arena,12565.0,North America,United States,Phoenix,1,TWICE,female,3,9,JYP,10,established,TWICE_United States,2026,1,1,Wed,Wed,0
+28797.0,reported,arena,21000.0,North America,United States,Dallas,2,TWICE,female,3,9,JYP,10,established,TWICE_United States,2026,1,1,Sat,Sun,1
+31339.0,reported,arena,20356.0,North America,United States,Washington,2,TWICE,female,3,9,JYP,10,established,TWICE_United States,2026,2,1,Fri,Sat,1
+42776.0,reported,arena,19000.0,North America,United States,New York,3,TWICE,female,3,9,JYP,10,established,TWICE_United States,2026,2,1,Wed,Sat,0
+,unreported,arena,21000.0,North America,United States,Philadelphia,1,TWICE,female,3,9,JYP,10,established,TWICE_United States,2026,2,1,Tue,Tue,0
+15084.0,reported,arena,18000.0,North America,United States,Atlanta,1,TWICE,female,3,9,JYP,10,established,TWICE_United States,2026,2,1,Fri,Fri,1
+19334.0,reported,arena,15000.0,North America,Canada,Montreal,1,TWICE,female,3,9,JYP,10,established,TWICE_Canada,2026,3,1,Tue,Tue,0
+30146.0,reported,arena,18000.0,North America,Canada,Hamilton,2,TWICE,female,3,9,JYP,10,established,TWICE_Canada,2026,3,1,Fri,Sat,1
+,unreported,stadium,59833.0,Asia,Taiwan,Taipei,3,TWICE,female,3,9,JYP,10,established,TWICE_Taiwan,2026,3,1,Fri,Sun,1
+31835.0,unreported,arena,17030.0,North America,United States,Orlando,2,TWICE,female,3,9,JYP,10,established,TWICE_United States,2026,3,1,Fri,Sat,1
+16500.0,reported,arena,18504.0,North America,United States,Charlotte,1,TWICE,female,3,9,JYP,10,established,TWICE_United States,2026,3,1,Tue,Tue,0
+29310.0,reported,arena,20000.0,North America,United States,Boston,2,TWICE,female,3,9,JYP,10,established,TWICE_United States,2026,4,2,Fri,Sat,1
+,unreported,arena,23500.0,North America,United States,Chicago,2,TWICE,female,3,9,JYP,10,established,TWICE_United States,2026,4,2,Mon,Tue,0
+,unreported,arena,22000.0,North America,United States,Detroit,1,TWICE,female,3,9,JYP,10,established,TWICE_United States,2026,4,2,Fri,Fri,1
+,unreported,arena,20554.0,North America,United States,Saint Paul,1,TWICE,female,3,9,JYP,10,established,TWICE_United States,2026,4,2,Sun,Sun,1
+,unreported,arena,21000.0,North America,United States,Denver,1,TWICE,female,3,9,JYP,10,established,TWICE_United States,2026,4,2,Tue,Tue,0
+26359.0,reported,arena,16223.0,North America,United States,Austin,2,TWICE,female,3,9,JYP,10,established,TWICE_United States,2026,4,2,Fri,Sat,1
+,unreported,stadium,67750.0,Asia,Japan,Tokyo,3,TWICE,female,3,9,JYP,10,established,TWICE_Japan,2026,4,2,Sat,Tue,1
+,unreported,arena,20100.0,Europe,Portugal,Lisbon,1,TWICE,female,3,9,JYP,10,established,TWICE_Portugal,2026,5,2,Sat,Sat,1
+,unreported,arena,17960.0,Europe,Spain,Barcelona,1,TWICE,female,3,9,JYP,10,established,TWICE_Spain,2026,5,2,Tue,Tue,0
+,unreported,arena,20300.0,Europe,France,Paris,2,TWICE,female,3,9,JYP,10,established,TWICE_France,2026,5,2,Sat,Sun,1
+,unreported,arena,15657.0,Europe,Italy,Turin,1,TWICE,female,3,9,JYP,10,established,TWICE_Italy,2026,5,2,Wed,Wed,0
+,unreported,arena,17000.0,Europe,Germany,Berlin,1,TWICE,female,3,9,JYP,10,established,TWICE_Germany,2026,5,2,Sat,Sat,1
+,unreported,arena,20000.0,Europe,Germany,Cologne,1,TWICE,female,3,9,JYP,10,established,TWICE_Germany,2026,5,2,Tue,Tue,0
+,unreported,arena,17000.0,Europe,Netherlands,Amsterdam,2,TWICE,female,3,9,JYP,10,established,TWICE_Netherlands,2026,5,2,Sat,Sun,1
+,unreported,arena,20000.0,Europe,England,London,2,TWICE,female,3,9,JYP,10,established,TWICE_England,2026,6,2,Wed,Thu,0
+1729.0,reported,concert hall,,Asia,Thailand,Bangkok,1,&TEAM,male,4,9,"YX Labels,HYBE",-1821,rookie,&TEAM_Thailand,202,5,2,Mon,Mon,0
+8100.0,reported,concert hall,15000.0,Asia,Japan,Nagoya,1,&TEAM,male,4,9,"YX Labels,HYBE",2,rookie,&TEAM_Japan,2025,5,2,Sat,Sat,1
+20794.0,reported,arena,15000.0,Asia,Japan,Tokyo,2,&TEAM,male,4,9,"YX Labels,HYBE",2,rookie,&TEAM_Japan,2025,5,2,Sat,Sun,1
+19222.0,reported,arena,15000.0,Asia,Japan,Fukuoka,2,&TEAM,male,4,9,"YX Labels,HYBE",2,rookie,&TEAM_Japan,2025,5,2,Tue,Wed,0
+14923.0,reported,arena,11069.0,Asia,South Korea,Seoul,2,&TEAM,male,4,9,"YX Labels,HYBE",2,rookie,&TEAM_South Korea,2025,6,2,Sat,Sun,1
+7411.0,reported,concert hall,,Asia,Indonesia,Tangerang,1,&TEAM,male,4,9,"YX Labels,HYBE",2,rookie,&TEAM_Indonesia,2025,6,2,Sun,Sun,1
+5589.0,reported,concert hall,,Asia,Taiwan,Taipei,1,&TEAM,male,4,9,"YX Labels,HYBE",2,rookie,&TEAM_Taiwan,2025,6,2,Fri,Fri,1
+18301.0,reported,arena,10000.0,Asia,Japan,Kobe,2,&TEAM,male,4,9,"YX Labels,HYBE",2,rookie,&TEAM_Japan,2025,7,3,Sat,Sun,1
+4402.0,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,1,&TEAM,male,4,9,"YX Labels,HYBE",2,rookie,&TEAM_Hong Kong,2025,7,3,Sat,Sat,1
+54318.0,reported,arena,22500.0,Asia,Japan,Saitama,2,&TEAM,male,4,9,"YX Labels,HYBE",2,rookie,&TEAM_Japan,2025,10,4,Sat,Sun,1
+29414.0,reported,arena,19000.0,North America,United States,New York,2,Agust D,male,3,1,"Bighit,HYBE",0,rookie,Agust D_United States,2023,4,2,Wed,Thu,0
+13286.0,reported,arena,17000.0,North America,United States,Newark,1,Agust D,male,3,1,"Bighit,HYBE",0,rookie,Agust D_United States,2023,4,2,Sat,Sat,1
+36652.0,reported,arena,22000.0,North America,United States,Rosemont,3,Agust D,male,3,1,"Bighit,HYBE",0,rookie,Agust D_United States,2023,5,2,Wed,Sat,0
+42492.0,reported,arena,17500.0,North America,United States,Inglewood,3,Agust D,male,3,1,"Bighit,HYBE",0,rookie,Agust D_United States,2023,5,2,Wed,Sun,0
+27149.0,reported,arena,19596.0,North America,United States,Oakland,2,Agust D,male,3,1,"Bighit,HYBE",0,rookie,Agust D_United States,2023,5,2,Tue,Wed,0
+27746.0,reported,concert hall,,Asia,Indonesia,Tangerang,3,Agust D,male,3,1,"Bighit,HYBE",0,rookie,Agust D_Indonesia,2023,5,2,Fri,Sun,1
+26809.0,reported,arena,12141.0,Asia,Japan,Yokohama,3,Agust D,male,3,1,"Bighit,HYBE",0,rookie,Agust D_Japan,2023,6,2,Fri,Sun,1
+36107.0,reported,arena,12000.0,Asia,Thailand,Bangkok,3,Agust D,male,3,1,"Bighit,HYBE",0,rookie,Agust D_Thailand,2023,6,2,Fri,Sun,1
+27340.0,reported,arena,9000.0,Asia,Singapore,Singapore,3,Agust D,male,3,1,"Bighit,HYBE",0,rookie,Agust D_Singapore,2023,6,2,Fri,Sun,1
+14715.0,reported,arena,11069.0,Asia,South Korea,Seoul,2,Agust D,male,3,1,"Bighit,HYBE",0,rookie,Agust D_South Korea,2023,6,2,Sat,Sun,1
+38523.0,reported,arena,15000.0,Asia,South Korea,Seoul,3,Agust D,male,3,1,"Bighit,HYBE",0,rookie,Agust D_South Korea,2023,8,3,Fri,Sun,1
+9312.0,reported,concert hall,2452.0,Asia,South Korea,Seoul,3,ATEEZ,male,4,8,KQ,3,growing,ATEEZ_South Korea,2022,1,1,Fri,Sun,1
+9312.0,reported,arena,10387.0,North America,United States,Chicago,1,ATEEZ,male,4,8,KQ,3,growing,ATEEZ_United States,2022,1,1,Tue,Tue,0
+7764.0,reported,arena,13100.0,North America,United States,Duluth,1,ATEEZ,male,4,8,KQ,3,growing,ATEEZ_United States,2022,1,1,Thu,Thu,0
+11148.0,reported,arena,17000.0,North America,United States,Newark,1,ATEEZ,male,4,8,KQ,3,growing,ATEEZ_United States,2022,1,1,Mon,Mon,0
+6269.0,reported,concert hall,6350.0,North America,United States,Grand Prairie,1,ATEEZ,male,4,8,KQ,3,growing,ATEEZ_United States,2022,1,1,Thu,Thu,0
+19868.0,reported,arena,17500.0,North America,United States,Inglewood,2,ATEEZ,male,4,8,KQ,3,growing,ATEEZ_United States,2022,1,1,Sun,Mon,1
+14052.0,reported,arena,14000.0,Europe,Spain,Madrid,2,ATEEZ,male,4,8,KQ,3,growing,ATEEZ_Spain,2022,4,2,Sat,Sun,1
+18633.0,reported,arena,12500.0,Europe,England,London,2,ATEEZ,male,4,8,KQ,3,growing,ATEEZ_England,2022,4,2,Sat,Sun,1
+12224.0,reported,arena,20300.0,Europe,France,Paris,1,ATEEZ,male,4,8,KQ,3,growing,ATEEZ_France,2022,5,2,Wed,Wed,0
+20843.0,reported,arena,17000.0,Europe,Germany,Berlin,2,ATEEZ,male,4,8,KQ,3,growing,ATEEZ_Germany,2022,5,2,Sun,Mon,1
+4904.0,reported,concert hall,6000.0,Europe,Netherlands,Amsterdam,1,ATEEZ,male,4,8,KQ,3,growing,ATEEZ_Netherlands,2022,5,2,Thu,Thu,0
+28635.0,reported,arena,12141.0,Asia,Japan,Yokohama,3,ATEEZ,male,4,8,KQ,3,growing,ATEEZ_Japan,2022,7,3,Sat,Mon,1
+10191.0,reported,arena,11069.0,Asia,South Korea,Seoul,2,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_South Korea,2022,10,4,Sat,Sun,1
+7940.0,reported,arena,19596.0,North America,United States,Oakland,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_United States,2022,11,4,Sat,Sat,1
+23396.0,reported,theater,10935.0,North America,United States,Anaheim,2,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_United States,2022,11,4,Mon,Tue,0
+9129.0,reported,arena,19000.0,North America,United States,Glendale,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_United States,2022,11,4,Thu,Thu,0
+11023.0,reported,arena,14000.0,North America,United States,Fort Worth,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_United States,2022,11,4,Wed,Wed,0
+6421.0,reported,arena,10387.0,North America,United States,Chicago,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_United States,2022,11,4,Sat,Sat,1
+21489.0,reported,arena,18000.0,North America,United States,Atlanta,2,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_United States,2022,11,4,Mon,Tue,0
+21559.0,reported,arena,17000.0,North America,United States,Newark,2,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_United States,2022,11,4,Sun,Mon,1
+10971.0,reported,arena,18000.0,North America,Canada,Hamilton,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_Canada,2022,12,4,Fri,Fri,1
+28921.0,reported,arena,,Asia,Japan,Chiba,2,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_Japan,2022,12,4,Sun,Mon,1
+11343.0,reported,arena,17000.0,Europe,Netherlands,Amsterdam,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_Netherlands,2023,2,1,Fri,Fri,1
+,unreported,arena,17000.0,Europe,Germany,Berlin,2,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_Germany,2023,2,1,Tue,Wed,0
+10174.0,reported,arena,15000.0,Europe,Belgium,Brussels,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_Belgium,2023,2,1,Sat,Sat,1
+,unreported,arena,20000.0,Europe,England,London,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_England,2023,2,1,Wed,Wed,0
+9172.0,reported,arena,15000.0,Europe,Spain,Madrid,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_Spain,2023,2,1,Tue,Tue,0
+9041.0,reported,arena,17000.0,Europe,Denmark,Copenhagen,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_Denmark,2023,3,1,Sat,Sat,1
+19120.0,reported,arena,20300.0,Europe,France,Paris,2,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_France,2023,3,1,Tue,Wed,0
+10093.0,reported,arena,11069.0,Asia,South Korea,Seoul,2,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_South Korea,2023,4,2,Fri,Sat,1
+22271.0,reported,arena,15000.0,Asia,Japan,Tokyo,2,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_Japan,2023,5,2,Tue,Wed,0
+12000.0,reported,arena,8000.0,Asia,Japan,Kobe,2,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_Japan,2023,5,2,Sat,Sun,1
+,unreported,concert hall,,Asia,Taiwan,Taipei,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_Taiwan,2023,7,3,Sat,Sat,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_Hong Kong,2023,7,3,Sat,Sat,1
+,unreported,concert hall,40000.0,Middle East,Saudi Arabia,Jeddah,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_Saudi Arabia,2023,7,3,Thu,Thu,0
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_Thailand,2023,8,3,Sat,Sat,1
+17129.0,reported,arena,22300.0,North America,Mexico,Mexico City,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_Mexico,2023,8,3,Wed,Wed,0
+,unreported,stadium,55000.0,South America,Brazil,São Paulo,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_Brazil,2023,8,3,Sat,Sat,1
+13665.0,reported,arena,15500.0,South America,Chile,Santiago,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_Chile,2023,8,3,Wed,Wed,0
+,unreported,arena,7000.0,South America,Colombia,Bogotá,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_Colombia,2023,9,3,Sun,Sun,1
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_Singapore,2023,9,3,Sat,Sat,1
+,unreported,arena,9679.0,Asia,Philippines,Manila,1,ATEEZ,male,4,8,KQ,4,growing,ATEEZ_Philippines,2023,9,3,Sat,Sat,1
+12847.0,reported,arena,11069.0,Asia,South Korea,Seoul,2,ATEEZ,male,4,8,KQ,5,growing,ATEEZ_South Korea,2024,1,1,Sat,Sun,1
+45200.0,reported,arena,22500.0,Asia,Japan,Saitama,2,ATEEZ,male,4,8,KQ,5,growing,ATEEZ_Japan,2024,2,1,Sat,Sun,1
+13661.0,reported,arena,21000.0,North America,United States,Tacoma,1,ATEEZ,male,4,8,KQ,5,growing,ATEEZ_United States,2024,7,3,Sun,Sun,1
+11001.0,reported,arena,19596.0,North America,United States,Oakland,1,ATEEZ,male,4,8,KQ,5,growing,ATEEZ_United States,2024,7,3,Wed,Wed,0
+38145.0,reported,stadium,22000.0,North America,United States,Los Angeles,2,ATEEZ,male,4,8,KQ,5,growing,ATEEZ_United States,2024,7,3,Sat,Sun,1
+10763.0,reported,arena,12565.0,North America,United States,Phoenix,1,ATEEZ,male,4,8,KQ,5,growing,ATEEZ_United States,2024,7,3,Thu,Thu,0
+27938.0,reported,stadium,40300.0,North America,United States,Arlington,1,ATEEZ,male,4,8,KQ,5,growing,ATEEZ_United States,2024,7,3,Sun,Sun,1
+18865.0,reported,arena,13100.0,North America,United States,Duluth,2,ATEEZ,male,4,8,KQ,5,growing,ATEEZ_United States,2024,7,3,Tue,Wed,0
+28467.0,reported,stadium,41922.0,North America,United States,New York,1,ATEEZ,male,4,8,KQ,5,growing,ATEEZ_United States,2024,8,3,Sat,Sat,1
+12766.0,reported,arena,20356.0,North America,United States,Washington,1,ATEEZ,male,4,8,KQ,5,growing,ATEEZ_United States,2024,8,3,Tue,Tue,0
+10322.0,reported,arena,19800.0,North America,Canada,Toronto,1,ATEEZ,male,4,8,KQ,5,growing,ATEEZ_Canada,2024,8,3,Thu,Thu,0
+20286.0,reported,arena,22000.0,North America,United States,Rosemont,2,ATEEZ,male,4,8,KQ,5,growing,ATEEZ_United States,2024,8,3,Sat,Sun,1
+10894.0,reported,arena,16000.0,Europe,France,Lyon,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_France,2025,1,1,Sat,Sat,1
+9514.0,reported,arena,15800.0,Europe,Italy,Milan,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_Italy,2025,1,1,Mon,Mon,0
+9607.0,reported,arena,13000.0,Europe,Switzerland,Zürich,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_Switzerland,2025,1,1,Thu,Thu,0
+22129.0,reported,arena,20000.0,Europe,England,London,2,ATEEZ,male,4,8,KQ,6,established,ATEEZ_England,2025,1,1,Mon,Tue,0
+11836.0,reported,arena,21000.0,Europe,England,Manchester,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_England,2025,1,1,Thu,Thu,0
+13663.0,reported,arena,17000.0,Europe,Netherlands,Amsterdam,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_Netherlands,2025,2,1,Mon,Mon,0
+13765.0,reported,arena,17960.0,Europe,Spain,Barcelona,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_Spain,2025,2,1,Fri,Fri,1
+14156.0,reported,arena,20000.0,Europe,Germany,Cologne,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_Germany,2025,2,1,Tue,Tue,0
+11862.0,reported,arena,17000.0,Europe,Denmark,Copenhagen,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_Denmark,2025,2,1,Fri,Fri,1
+24479.0,reported,arena,17000.0,Europe,Germany,Berlin,2,ATEEZ,male,4,8,KQ,6,established,ATEEZ_Germany,2025,2,1,Tue,Wed,0
+29225.0,reported,arena,45000.0,Europe,France,Paris,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_France,2025,2,1,Sat,Sat,1
+9809.0,reported,arena,15000.0,Europe,Belgium,Brussels,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_Belgium,2025,2,1,Tue,Tue,0
+23280.0,reported,arena,15000.0,Asia,South Korea,Seoul,2,ATEEZ,male,4,8,KQ,6,established,ATEEZ_South Korea,2025,3,1,Sat,Sun,1
+,unreported,arena,15000.0,Asia,South Korea,Incheon,2,ATEEZ,male,4,8,KQ,6,established,ATEEZ_South Korea,2025,7,3,Sat,Sun,1
+10144.0,reported,arena,18000.0,North America,United States,Atlanta,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_United States,2025,7,3,Thu,Thu,0
+24694.0,reported,stadium,41922.0,North America,United States,New York,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_United States,2025,7,3,Sun,Sun,1
+9502.0,reported,arena,13000.0,North America,United States,Baltimore,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_United States,2025,7,3,Wed,Wed,0
+8558.0,reported,arena,20000.0,North America,United States,Nashville,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_United States,2025,7,3,Sat,Sat,1
+19877.0,reported,arena,17030.0,North America,United States,Orlando,2,ATEEZ,male,4,8,KQ,6,established,ATEEZ_United States,2025,7,3,Mon,Tue,0
+20186.0,reported,stadium,41649.0,North America,United States,Chicago,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_United States,2025,7,3,Sat,Sat,1
+12623.0,reported,arena,21000.0,North America,United States,Tacoma,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_United States,2025,7,3,Wed,Wed,0
+10591.0,reported,arena,19190.0,North America,United States,San Jose,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_United States,2025,8,3,Sat,Sat,1
+36631.0,reported,stadium,22000.0,North America,United States,Los Angeles,2,ATEEZ,male,4,8,KQ,6,established,ATEEZ_United States,2025,8,3,Fri,Sat,1
+8666.0,reported,arena,19000.0,North America,United States,Glendale,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_United States,2025,8,3,Tue,Tue,0
+29845.0,reported,stadium,40300.0,North America,United States,Arlington,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_United States,2025,8,3,Sat,Sat,1
+28134.0,reported,stadium,65000.0,North America,Mexico,Mexico City,1,ATEEZ,male,4,8,KQ,6,established,ATEEZ_Mexico,2025,8,3,Sat,Sat,1
+,unreported,arena,22500.0,Asia,Japan,Saitama,3,ATEEZ,male,4,8,KQ,6,established,ATEEZ_Japan,2025,9,3,Sat,Mon,1
+,unreported,concert hall,15000.0,Asia,Japan,Nagoya,2,ATEEZ,male,4,8,KQ,6,established,ATEEZ_Japan,2025,9,3,Sat,Sun,1
+,unreported,arena,10000.0,Asia,Japan,Kobe,2,ATEEZ,male,4,8,KQ,6,established,ATEEZ_Japan,2025,10,4,Wed,Thu,0
+,unreported,arena,15000.0,Asia,Taiwan,Taoyuan,1,ATEEZ,male,4,8,KQ,7,established,ATEEZ_Taiwan,2026,1,1,Sat,Sat,1
+,unreported,concert hall,,Asia,Indonesia,Tangerang,1,ATEEZ,male,4,8,KQ,7,established,ATEEZ_Indonesia,2026,1,1,Sat,Sat,1
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1,ATEEZ,male,4,8,KQ,7,established,ATEEZ_Singapore,2026,2,1,Sun,Sun,1
+,unreported,arena,14820.0,Oceania,Australia,Melbourne,2,ATEEZ,male,4,8,KQ,7,established,ATEEZ_Australia,2026,3,1,Mon,Tue,0
+,unreported,arena,18000.0,Oceania,Australia,Sydney,2,ATEEZ,male,4,8,KQ,7,established,ATEEZ_Australia,2026,3,1,Fri,Sat,1
+,unreported,arena,9679.0,Asia,Philippines,Manila,1,ATEEZ,male,4,8,KQ,7,established,ATEEZ_Philippines,2026,3,1,Sat,Sat,1
+,unreported,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1,ATEEZ,male,4,8,KQ,7,established,ATEEZ_Malaysia,2026,3,1,Sun,Sun,1
+,unreported,arena,14000.0,Asia,Macau,Macau,1,ATEEZ,male,4,8,KQ,7,established,ATEEZ_Macau,2026,3,1,Sat,Sat,1
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,1,ATEEZ,male,4,8,KQ,7,established,ATEEZ_Thailand,2026,4,2,Sat,Sat,1
+11552.0,reported,arena,15000.0,Asia,South Korea,Incheon,2,BOYNEXTDOOR,male,5,6,"KOZ,HYBE",1,rookie,BOYNEXTDOOR_South Korea,2024,12,4,Sat,Sun,1
+2243.0,reported,concert hall,2448.0,Asia,Japan,Tokyo,1,BOYNEXTDOOR,male,5,6,"KOZ,HYBE",1,rookie,BOYNEXTDOOR_Japan,2025,1,1,Thu,Thu,0
+2099.0,reported,concert hall,,Asia,Japan,Nagoya,1,BOYNEXTDOOR,male,5,6,"KOZ,HYBE",1,rookie,BOYNEXTDOOR_Japan,2025,2,1,Sun,Sun,1
+7458.0,reported,concert hall,,Asia,Japan,Osaka,2,BOYNEXTDOOR,male,5,6,"KOZ,HYBE",1,rookie,BOYNEXTDOOR_Japan,2025,2,1,Sat,Sun,1
+2056.0,reported,concert hall,2710.0,Asia,Japan,Sendai,1,BOYNEXTDOOR,male,5,6,"KOZ,HYBE",1,rookie,BOYNEXTDOOR_Japan,2025,2,1,Sat,Sat,1
+4384.0,reported,concert hall,2316.0,Asia,Japan,Fukuoka,2,BOYNEXTDOOR,male,5,6,"KOZ,HYBE",1,rookie,BOYNEXTDOOR_Japan,2025,2,1,Tue,Wed,0
+16479.0,reported,concert hall,6000.0,Asia,Japan,Yokohama,3,BOYNEXTDOOR,male,5,6,"KOZ,HYBE",1,rookie,BOYNEXTDOOR_Japan,2025,2,1,Sat,Mon,1
+3869.0,reported,concert hall,,Asia,Singapore,Tampines,1,BOYNEXTDOOR,male,5,6,"KOZ,HYBE",1,rookie,BOYNEXTDOOR_Singapore,2025,3,1,Sat,Sat,1
+3109.0,reported,arena,9679.0,Asia,Philippines,Manila,1,BOYNEXTDOOR,male,5,6,"KOZ,HYBE",1,rookie,BOYNEXTDOOR_Philippines,2025,3,1,Sat,Sat,1
+,unreported,concert hall,3500.0,Asia,Thailand,Bangkok,1,BOYNEXTDOOR,male,5,6,"KOZ,HYBE",1,rookie,BOYNEXTDOOR_Thailand,2025,3,1,Sat,Sat,1
+4472.0,reported,concert hall,,Asia,Taiwan,Taipei,1,BOYNEXTDOOR,male,5,6,"KOZ,HYBE",1,rookie,BOYNEXTDOOR_Taiwan,2025,4,2,Thu,Thu,0
+4917.0,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,1,BOYNEXTDOOR,male,5,6,"KOZ,HYBE",1,rookie,BOYNEXTDOOR_Hong Kong,2025,4,2,Sun,Sun,1
+3931.0,reported,arena,7166.0,Asia,Indonesia,Jakarta,1,BOYNEXTDOOR,male,5,6,"KOZ,HYBE",1,rookie,BOYNEXTDOOR_Indonesia,2025,4,2,Sat,Sat,1
+27000.0,reported,arena,10000.0,Asia,Japan,Tokyo,3,BOYNEXTDOOR,male,5,6,"KOZ,HYBE",2,rookie,BOYNEXTDOOR_Japan,2025,6,2,Sat,Mon,1
+31280.0,reported,arena,15000.0,Asia,South Korea,Seoul,3,BOYNEXTDOOR,male,5,6,"KOZ,HYBE",2,rookie,BOYNEXTDOOR_South Korea,2025,7,3,Fri,Sun,1
+,unreported,stadium,16744.0,Asia,South Korea,Seoul,2,BTS,male,3,7,"Bighit,HYBE",3,growing,BTS_South Korea,2017,2,1,Sat,Sun,1
+,unreported,arena,15500.0,South America,Chile,Santiago,2,BTS,male,3,7,"Bighit,HYBE",3,growing,BTS_Chile,2017,3,1,Sat,Sun,1
+15327.0,reported,theater,7000.0,South America,Brazil,São Paulo,2,BTS,male,3,7,"Bighit,HYBE",3,growing,BTS_Brazil,2017,3,1,Sun,Mon,1
+22612.0,reported,arena,17000.0,North America,United States,Newark,2,BTS,male,3,7,"Bighit,HYBE",3,growing,BTS_United States,2017,3,1,Thu,Fri,0
+,unreported,arena,22000.0,North America,United States,Rosemont,1,BTS,male,3,7,"Bighit,HYBE",3,growing,BTS_United States,2017,3,1,Wed,Wed,0
+,unreported,theater,10935.0,North America,United States,Anaheim,2,BTS,male,3,7,"Bighit,HYBE",3,growing,BTS_United States,2017,4,2,Sat,Sun,1
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,2,BTS,male,3,7,"Bighit,HYBE",3,growing,BTS_Thailand,2017,4,2,Sat,Sun,1
+,unreported,concert hall,,Asia,Indonesia,Tangerang,1,BTS,male,3,7,"Bighit,HYBE",3,growing,BTS_Indonesia,2017,4,2,Sat,Sat,1
+,unreported,arena,15000.0,Asia,Philippines,Pasay,2,BTS,male,3,7,"Bighit,HYBE",3,growing,BTS_Philippines,2017,5,2,Sat,Sun,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2,BTS,male,3,7,"Bighit,HYBE",3,growing,BTS_Hong Kong,2017,5,2,Sat,Sun,1
+11023.0,reported,arena,18000.0,Oceania,Australia,Sydney,1,BTS,male,3,7,"Bighit,HYBE",3,growing,BTS_Australia,2017,5,2,Fri,Fri,1
+,unreported,arena,16000.0,Asia,Japan,Osaka,3,BTS,male,3,7,"Bighit,HYBE",3,growing,BTS_Japan,2017,5,2,Tue,Thu,0
+,unreported,arena,10000.0,Asia,Japan,Hiroshima,1,BTS,male,3,7,"Bighit,HYBE",3,growing,BTS_Japan,2017,6,2,Wed,Wed,0
+,unreported,arena,10000.0,Asia,Japan,Nagoya,2,BTS,male,3,7,"Bighit,HYBE",4,growing,BTS_Japan,2017,6,2,Wed,Thu,0
+,unreported,arena,22500.0,Asia,Japan,Saitama,3,BTS,male,3,7,"Bighit,HYBE",4,growing,BTS_Japan,2017,6,2,Tue,Thu,0
+,unreported,arena,15000.0,Asia,Japan,Fukuoka,2,BTS,male,3,7,"Bighit,HYBE",4,growing,BTS_Japan,2017,6,2,Sat,Sun,1
+,unreported,arena,10024.0,Asia,Japan,Sapporo,2,BTS,male,3,7,"Bighit,HYBE",4,growing,BTS_Japan,2017,7,3,Sat,Sun,1
+,unreported,stadium,55000.0,Asia,Japan,Osaka,2,BTS,male,3,7,"Bighit,HYBE",4,growing,BTS_Japan,2017,10,4,Sat,Sun,1
+,unreported,arena,15000.0,Asia,Taiwan,Taoyuan,2,BTS,male,3,7,"Bighit,HYBE",4,growing,BTS_Taiwan,2017,10,4,Sat,Sun,1
+,unreported,arena,14000.0,Asia,Macau,Macau,1,BTS,male,3,7,"Bighit,HYBE",4,growing,BTS_Macau,2017,11,4,Sat,Sat,1
+,unreported,stadium,16744.0,Asia,South Korea,Seoul,3,BTS,male,3,7,"Bighit,HYBE",4,growing,BTS_South Korea,2017,12,4,Fri,Sun,1
+85366.0,reported,stadium,65599.0,Asia,South Korea,Seoul,2,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_South Korea,2018,8,3,Sat,Sun,1
+56220.0,reported,stadium,20000.0,North America,United States,Los Angeles,4,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_United States,2018,9,3,Wed,Sun,0
+10743.0,reported,arena,19596.0,North America,United States,Oakland,1,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_United States,2018,9,3,Wed,Wed,0
+17452.0,reported,arena,13500.0,North America,United States,Fort Worth,2,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_United States,2018,9,3,Sat,Sun,1
+35574.0,reported,arena,18000.0,North America,Canada,Hamilton,3,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_Canada,2018,9,3,Thu,Sun,0
+25236.0,reported,arena,17000.0,North America,United States,Newark,2,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_United States,2018,9,3,Fri,Sat,1
+27880.0,reported,arena,23500.0,North America,United States,Chicago,2,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_United States,2018,10,4,Tue,Wed,0
+34327.0,reported,stadium,41922.0,North America,United States,New York,1,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_United States,2018,10,4,Sat,Sat,1
+31475.0,reported,arena,20000.0,Europe,England,London,2,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_England,2018,10,4,Tue,Wed,0
+13893.0,reported,arena,17000.0,Europe,Netherlands,Amsterdam,1,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_Netherlands,2018,10,4,Sat,Sat,1
+24384.0,reported,arena,17000.0,Europe,Germany,Berlin,2,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_Germany,2018,10,4,Tue,Wed,0
+28149.0,reported,arena,20300.0,Europe,France,Paris,2,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_France,2018,10,4,Fri,Sat,1
+95939.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_Japan,2018,11,4,Tue,Wed,0
+109679.0,reported,stadium,55000.0,Asia,Japan,Osaka,3,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_Japan,2018,11,4,Wed,Sat,0
+50144.0,reported,stadium,18000.0,Asia,Taiwan,Taoyuan,2,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_Taiwan,2018,12,4,Sat,Sun,1
+79621.0,reported,stadium,36418.0,Asia,Japan,Nagoya,2,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_Japan,2019,1,1,Sat,Sun,1
+39946.0,reported,stadium,55000.0,Asia,Singapore,Singapore,1,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_Singapore,2019,1,1,Sat,Sat,1
+72801.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,2,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_Japan,2019,2,1,Sat,Sun,1
+46630.0,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,4,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_Hong Kong,2019,3,1,Wed,Sun,0
+68900.0,reported,stadium,51560.0,Asia,Thailand,Bangkok,2,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_Thailand,2019,4,2,Sat,Sun,1
+113040.0,reported,concert hall,,North America,United States,Pasadena,2,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_United States,2019,5,2,Sat,Sun,1
+98574.0,reported,stadium,62500.0,North America,United States,Chicago,2,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_United States,2019,5,2,Sat,Sun,1
+98574.0,reported,stadium,82500.0,North America,United States,East Rutherford,2,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_United States,2019,5,2,Sat,Sun,1
+84728.0,reported,stadium,55000.0,South America,Brazil,São Paulo,2,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_Brazil,2019,5,2,Sat,Sun,1
+114583.0,reported,stadium,90000.0,Europe,England,London,2,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_England,2019,6,2,Sat,Sun,1
+107328.0,reported,stadium,81338.0,Europe,France,Paris,2,BTS,male,3,7,"Bighit,HYBE",5,growing,BTS_France,2019,6,2,Fri,Sat,1
+101554.0,reported,stadium,47853.0,Asia,Japan,Osaka,2,BTS,male,3,7,"Bighit,HYBE",6,established,BTS_Japan,2019,7,3,Sat,Sun,1
+107153.0,reported,stadium,50889.0,Asia,Japan,Shizuoka,2,BTS,male,3,7,"Bighit,HYBE",6,established,BTS_Japan,2019,7,3,Sat,Sun,1
+31899.0,reported,stadium,58398.0,Middle East,Saudi Arabia,Riyadh,1,BTS,male,3,7,"Bighit,HYBE",6,established,BTS_Saudi Arabia,2019,10,4,Fri,Fri,1
+129268.0,reported,stadium,65599.0,Asia,South Korea,Seoul,3,BTS,male,3,7,"Bighit,HYBE",6,established,BTS_South Korea,2019,10,4,Sat,Tue,1
+106294.0,reported,stadium,70240.0,North America,United States,Inglewood,2,BTS,male,3,7,"Bighit,HYBE",8,established,BTS_United States,2021,11,4,Sat,Sun,1
+107458.0,reported,stadium,70240.0,North America,United States,Inglewood,2,BTS,male,3,7,"Bighit,HYBE",8,established,BTS_United States,2021,12,4,Wed,Thu,0
+44696.0,reported,stadium,65599.0,Asia,South Korea,Seoul,3,BTS,male,3,7,"Bighit,HYBE",8,established,BTS_South Korea,2022,3,1,Thu,Sun,0
+99277.0,reported,stadium,65000.0,North America,United States,Las Vegas,2,BTS,male,3,7,"Bighit,HYBE",8,established,BTS_United States,2022,4,2,Fri,Sat,1
+100420.0,reported,stadium,65000.0,North America,United States,Las Vegas,2,BTS,male,3,7,"Bighit,HYBE",8,established,BTS_United States,2022,4,2,Fri,Sat,1
+127218.0,reported,stadium,41311.0,Asia,South Korea,Goyang,3,BTS,male,3,7,"Bighit,HYBE",12,legacy,BTS_South Korea,2026,4,2,Thu,Sun,0
+96178.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2,BTS,male,3,7,"Bighit,HYBE",12,legacy,BTS_Japan,2026,4,2,Fri,Sat,1
+194335.0,reported,stadium,69218.0,North America,United States,Tampa,3,BTS,male,3,7,"Bighit,HYBE",12,legacy,BTS_United States,2026,4,2,Sat,Tue,1
+97722.0,reported,stadium,45971.0,North America,United States,El Paso,2,BTS,male,3,7,"Bighit,HYBE",12,legacy,BTS_United States,2026,5,2,Sat,Sun,1
+145763.0,reported,stadium,65000.0,North America,Mexico,Mexico City,3,BTS,male,3,7,"Bighit,HYBE",12,legacy,BTS_Mexico,2026,5,2,Thu,Sun,0
+170721.0,parcial,stadium,50424.0,North America,United States,Stanford,3,BTS,male,3,7,"Bighit,HYBE",12,legacy,BTS_United States,2026,5,2,Sat,Tue,1
+241820.0,parcial,stadium,65000.0,North America,United States,Las Vegas,4,BTS,male,3,7,"Bighit,HYBE",12,legacy,BTS_United States,2026,5,2,Sat,Thu,1
+,unreported,stadium,60000.0,Europe,Spain,Madrid,2,BTS,male,3,7,"Bighit,HYBE",13,legacy,BTS_Spain,2026,6,2,Fri,Sat,1
+,unreported,stadium,50093.0,Europe,Belgium,Brussels,2,BTS,male,3,7,"Bighit,HYBE",13,legacy,BTS_Belgium,2026,7,3,Wed,Thu,0
+,unreported,stadium,62850.0,Europe,England,London,2,BTS,male,3,7,"Bighit,HYBE",13,legacy,BTS_England,2026,7,3,Mon,Tue,0
+,unreported,stadium,70000.0,Europe,Germany,Munich,2,BTS,male,3,7,"Bighit,HYBE",13,legacy,BTS_Germany,2026,7,3,Sat,Sun,1
+,unreported,stadium,81338.0,Europe,France,Paris,2,BTS,male,3,7,"Bighit,HYBE",13,legacy,BTS_France,2026,7,3,Fri,Sat,1
+162194.0,parcial,stadium,82500.0,North America,United States,East Rutherford,2,BTS,male,3,7,"Bighit,HYBE",13,legacy,BTS_United States,2026,8,3,Sat,Sun,1
+138276.0,parcial,stadium,64628.0,North America,United States,Foxborough,2,BTS,male,3,7,"Bighit,HYBE",13,legacy,BTS_United States,2026,8,3,Wed,Thu,0
+,unreported,stadium,70745.0,North America,United States,Baltimore,2,BTS,male,3,7,"Bighit,HYBE",13,legacy,BTS_United States,2026,8,3,Mon,Tue,0
+,unreported,stadium,100000.0,North America,United States,Arlington,2,BTS,male,3,7,"Bighit,HYBE",13,legacy,BTS_United States,2026,8,3,Sat,Sun,1
+101094.0,parcial,stadium,50000.0,North America,Canada,Toronto,2,BTS,male,3,7,"Bighit,HYBE",13,legacy,BTS_Canada,2026,8,3,Sat,Sun,1
+124242.0,parcial,stadium,62500.0,North America,United States,Chicago,2,BTS,male,3,7,"Bighit,HYBE",13,legacy,BTS_United States,2026,8,3,Thu,Fri,0
+287800.0,parcial,stadium,70240.0,North America,United States,Inglewood,4,BTS,male,3,7,"Bighit,HYBE",13,legacy,BTS_United States,2026,9,3,Tue,Sun,0
+,unreported,stadium,72039.0,South America,Brazil,São Paulo,3,BTS,male,3,7,"Bighit,HYBE",13,legacy,BTS_Brazil,2026,10,4,Wed,Sat,0
+,unreported,stadium,55000.0,Asia,Singapore,Singapore,4,BTS,male,3,7,"Bighit,HYBE",13,legacy,BTS_Singapore,2026,12,4,Thu,Tue,0
+7966.0,reported,arena,6500.0,Asia,South Korea,Seoul,2,ENHYPEN,male,4,6,"Belift,HYBE",1,rookie,ENHYPEN_South Korea,2022,9,3,Sat,Sun,1
+19826.0,reported,theater,10935.0,North America,United States,Anaheim,2,ENHYPEN,male,4,6,"Belift,HYBE",1,rookie,ENHYPEN_United States,2022,10,4,Sun,Mon,1
+10043.0,reported,arena,14000.0,North America,United States,Fort Worth,1,ENHYPEN,male,4,6,"Belift,HYBE",1,rookie,ENHYPEN_United States,2022,10,4,Thu,Thu,0
+6122.0,reported,concert hall,6400.0,North America,United States,Sugar Land,1,ENHYPEN,male,4,6,"Belift,HYBE",1,rookie,ENHYPEN_United States,2022,10,4,Sat,Sat,1
+8515.0,reported,arena,13100.0,North America,United States,Duluth,1,ENHYPEN,male,4,6,"Belift,HYBE",1,rookie,ENHYPEN_United States,2022,10,4,Tue,Tue,0
+5961.0,reported,arena,10387.0,North America,United States,Chicago,1,ENHYPEN,male,4,6,"Belift,HYBE",1,rookie,ENHYPEN_United States,2022,10,4,Thu,Thu,0
+5577.0,reported,theater,5960.0,North America,United States,New York,1,ENHYPEN,male,4,6,"Belift,HYBE",1,rookie,ENHYPEN_United States,2022,10,4,Sat,Sat,1
+17019.0,reported,arena,10000.0,Asia,Japan,Nagoya,2,ENHYPEN,male,4,6,"Belift,HYBE",1,rookie,ENHYPEN_Japan,2022,11,4,Tue,Wed,0
+18800.0,reported,arena,16000.0,Asia,Japan,Osaka,2,ENHYPEN,male,4,6,"Belift,HYBE",1,rookie,ENHYPEN_Japan,2022,11,4,Wed,Thu,0
+22723.0,reported,arena,17000.0,Asia,Japan,Yokohama,2,ENHYPEN,male,4,6,"Belift,HYBE",1,rookie,ENHYPEN_Japan,2022,11,4,Tue,Wed,0
+80371.0,reported,stadium,55000.0,Asia,Japan,Osaka,2,ENHYPEN,male,4,6,"Belift,HYBE",2,rookie,ENHYPEN_Japan,2023,1,1,Sat,Sun,1
+19400.0,reported,arena,12000.0,Asia,Thailand,Bangkok,2,ENHYPEN,male,4,6,"Belift,HYBE",2,rookie,ENHYPEN_Thailand,2023,1,1,Sat,Sun,1
+25650.0,reported,arena,15000.0,Asia,Philippines,Pasay,3,ENHYPEN,male,4,6,"Belift,HYBE",2,rookie,ENHYPEN_Philippines,2023,2,1,Fri,Sun,1
+15376.0,reported,arena,15000.0,Asia,South Korea,Seoul,2,ENHYPEN,male,4,6,"Belift,HYBE",2,rookie,ENHYPEN_South Korea,2023,7,3,Sat,Sun,1
+60495.0,reported,stadium,55000.0,Asia,Japan,Osaka,2,ENHYPEN,male,4,6,"Belift,HYBE",2,rookie,ENHYPEN_Japan,2023,9,3,Sat,Sun,1
+76571.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2,ENHYPEN,male,4,6,"Belift,HYBE",2,rookie,ENHYPEN_Japan,2023,9,3,Wed,Thu,0
+22446.0,reported,stadium,27000.0,North America,United States,Carson,1,ENHYPEN,male,4,6,"Belift,HYBE",2,rookie,ENHYPEN_United States,2023,10,4,Fri,Fri,1
+8551.0,reported,arena,19000.0,North America,United States,Glendale,1,ENHYPEN,male,4,6,"Belift,HYBE",2,rookie,ENHYPEN_United States,2023,10,4,Tue,Tue,0
+9405.0,reported,arena,19000.0,North America,United States,Houston,1,ENHYPEN,male,4,6,"Belift,HYBE",2,rookie,ENHYPEN_United States,2023,10,4,Fri,Fri,1
+11687.0,reported,arena,21000.0,North America,United States,Dallas,1,ENHYPEN,male,4,6,"Belift,HYBE",2,rookie,ENHYPEN_United States,2023,10,4,Sat,Sat,1
+20052.0,reported,arena,17000.0,North America,United States,Newark,2,ENHYPEN,male,4,6,"Belift,HYBE",2,rookie,ENHYPEN_United States,2023,10,4,Wed,Thu,0
+12748.0,reported,arena,23500.0,North America,United States,Chicago,1,ENHYPEN,male,4,6,"Belift,HYBE",2,rookie,ENHYPEN_United States,2023,10,4,Sun,Sun,1
+15712.0,reported,arena,15000.0,Asia,Taiwan,Taoyuan,2,ENHYPEN,male,4,6,"Belift,HYBE",3,growing,ENHYPEN_Taiwan,2024,1,1,Sat,Sun,1
+17374.0,reported,arena,9000.0,Asia,Singapore,Singapore,2,ENHYPEN,male,4,6,"Belift,HYBE",3,growing,ENHYPEN_Singapore,2024,1,1,Sat,Sun,1
+31363.0,reported,arena,16000.0,Asia,Macau,Macau,3,ENHYPEN,male,4,6,"Belift,HYBE",3,growing,ENHYPEN_Macau,2024,1,1,Fri,Sun,1
+23764.0,reported,stadium,20000.0,Asia,Philippines,New Clark City,1,ENHYPEN,male,4,6,"Belift,HYBE",3,growing,ENHYPEN_Philippines,2024,2,1,Sat,Sat,1
+25077.0,reported,arena,15000.0,Asia,South Korea,Seoul,3,ENHYPEN,male,4,6,"Belift,HYBE",3,growing,ENHYPEN_South Korea,2024,2,1,Fri,Sun,1
+11108.0,reported,theater,10935.0,North America,United States,Anaheim,1,ENHYPEN,male,4,6,"Belift,HYBE",3,growing,ENHYPEN_United States,2024,4,2,Wed,Wed,0
+11950.0,reported,arena,19596.0,North America,United States,Oakland,1,ENHYPEN,male,4,6,"Belift,HYBE",3,growing,ENHYPEN_United States,2024,4,2,Fri,Fri,1
+15684.0,reported,arena,21000.0,North America,United States,Tacoma,1,ENHYPEN,male,4,6,"Belift,HYBE",3,growing,ENHYPEN_United States,2024,4,2,Sun,Sun,1
+11428.0,reported,arena,22000.0,North America,United States,Rosemont,1,ENHYPEN,male,4,6,"Belift,HYBE",3,growing,ENHYPEN_United States,2024,5,2,Wed,Wed,0
+12224.0,reported,arena,19000.0,North America,United States,New York,1,ENHYPEN,male,4,6,"Belift,HYBE",3,growing,ENHYPEN_United States,2024,5,2,Fri,Fri,1
+51649.0,reported,arena,22500.0,Asia,Japan,Saitama,3,ENHYPEN,male,4,6,"Belift,HYBE",3,growing,ENHYPEN_Japan,2024,6,2,Tue,Thu,0
+20323.0,reported,arena,15000.0,Asia,Japan,Fukuoka,2,ENHYPEN,male,4,6,"Belift,HYBE",3,growing,ENHYPEN_Japan,2024,6,2,Wed,Thu,0
+13639.0,reported,arena,10000.0,Asia,Japan,Hiroshima,2,ENHYPEN,male,4,6,"Belift,HYBE",3,growing,ENHYPEN_Japan,2024,6,2,Wed,Thu,0
+21071.0,reported,arena,16500.0,Asia,Indonesia,Jakarta,2,ENHYPEN,male,4,6,"Belift,HYBE",3,growing,ENHYPEN_Indonesia,2024,8,3,Sat,Sun,1
+23011.0,reported,concert hall,15000.0,Asia,Japan,Nagoya,2,ENHYPEN,male,4,6,"Belift,HYBE",3,growing,ENHYPEN_Japan,2024,8,3,Sat,Sun,1
+15689.0,reported,arena,7063.0,Asia,Japan,Miyagi,2,ENHYPEN,male,4,6,"Belift,HYBE",3,growing,ENHYPEN_Japan,2024,8,3,Sat,Sun,1
+16640.0,reported,stadium,41311.0,Asia,South Korea,Goyang,2,ENHYPEN,male,4,6,"Belift,HYBE",3,growing,ENHYPEN_South Korea,2024,10,4,Sat,Sun,1
+59948.0,reported,stadium,31552.0,Asia,Japan,Saitama,2,ENHYPEN,male,4,6,"Belift,HYBE",3,growing,ENHYPEN_Japan,2024,11,4,Sat,Sun,1
+50345.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,2,ENHYPEN,male,4,6,"Belift,HYBE",4,growing,ENHYPEN_Japan,2024,12,4,Sat,Sun,1
+75981.0,reported,stadium,55000.0,Asia,Japan,Osaka,2,ENHYPEN,male,4,6,"Belift,HYBE",4,growing,ENHYPEN_Japan,2025,1,1,Sat,Sun,1
+19482.0,reported,stadium,25000.0,Asia,Philippines,Bulacan,1,ENHYPEN,male,4,6,"Belift,HYBE",4,growing,ENHYPEN_Philippines,2025,3,1,Sat,Sat,1
+29882.0,reported,stadium,51560.0,Asia,Thailand,Bangkok,1,ENHYPEN,male,4,6,"Belift,HYBE",4,growing,ENHYPEN_Thailand,2025,6,2,Sat,Sat,1
+77820.0,reported,stadium,49970.0,Asia,Japan,Tokyo,2,ENHYPEN,male,4,6,"Belift,HYBE",4,growing,ENHYPEN_Japan,2025,7,3,Sat,Sun,1
+85868.0,reported,stadium,47853.0,Asia,Japan,Osaka,2,ENHYPEN,male,4,6,"Belift,HYBE",4,growing,ENHYPEN_Japan,2025,8,3,Sat,Sun,1
+22983.0,reported,arena,19000.0,North America,United States,New York,2,ENHYPEN,male,4,6,"Belift,HYBE",4,growing,ENHYPEN_United States,2025,8,3,Wed,Thu,0
+12626.0,reported,arena,23500.0,North America,United States,Chicago,1,ENHYPEN,male,4,6,"Belift,HYBE",4,growing,ENHYPEN_United States,2025,8,3,Sat,Sat,1
+18859.0,reported,arena,19000.0,North America,United States,Houston,2,ENHYPEN,male,4,6,"Belift,HYBE",4,growing,ENHYPEN_United States,2025,8,3,Tue,Wed,0
+22298.0,reported,stadium,22000.0,North America,United States,Los Angeles,1,ENHYPEN,male,4,6,"Belift,HYBE",4,growing,ENHYPEN_United States,2025,8,3,Sat,Sat,1
+15758.0,reported,arena,20000.0,Europe,England,London,1,ENHYPEN,male,4,6,"Belift,HYBE",4,growing,ENHYPEN_England,2025,8,3,Fri,Fri,1
+9576.0,reported,arena,21000.0,Europe,England,Manchester,1,ENHYPEN,male,4,6,"Belift,HYBE",4,growing,ENHYPEN_England,2025,8,3,Mon,Mon,0
+13460.0,reported,arena,17000.0,Europe,Netherlands,Amsterdam,1,ENHYPEN,male,4,6,"Belift,HYBE",4,growing,ENHYPEN_Netherlands,2025,8,3,Thu,Thu,0
+8363.0,reported,arena,15000.0,Europe,Belgium,Brussels,1,ENHYPEN,male,4,6,"Belift,HYBE",4,growing,ENHYPEN_Belgium,2025,8,3,Sat,Sat,1
+12597.0,reported,arena,17000.0,Europe,Germany,Berlin,1,ENHYPEN,male,4,6,"Belift,HYBE",4,growing,ENHYPEN_Germany,2025,9,3,Mon,Mon,0
+12898.0,reported,arena,20300.0,Europe,France,Paris,1,ENHYPEN,male,4,6,"Belift,HYBE",4,growing,ENHYPEN_France,2025,9,3,Wed,Wed,0
+23718.0,reported,arena,9000.0,Asia,Singapore,Singapore,3,ENHYPEN,male,4,6,"Belift,HYBE",4,growing,ENHYPEN_Singapore,2025,10,4,Fri,Sun,1
+28799.0,reported,arena,15000.0,Asia,South Korea,Seoul,3,ENHYPEN,male,4,6,"Belift,HYBE",4,growing,ENHYPEN_South Korea,2025,10,4,Fri,Sun,1
+32280.0,missing,arena,15000.0,Asia,South Korea,Seoul,3,ENHYPEN,male,4,6,"Belift,HYBE",5,growing,ENHYPEN_South Korea,2026,5,2,Fri,Sun,1
+,unreported,stadium,55000.0,South America,Brazil,São Paulo,1,ENHYPEN,male,4,6,"Belift,HYBE",5,growing,ENHYPEN_Brazil,2026,7,3,Sat,Sat,1
+,unreported,stadium,32000.0,South America,Peru,Lima,1,ENHYPEN,male,4,6,"Belift,HYBE",5,growing,ENHYPEN_Peru,2026,7,3,Wed,Wed,0
+,unreported,arena,22300.0,North America,Mexico,Mexico City,3,ENHYPEN,male,4,6,"Belift,HYBE",5,growing,ENHYPEN_Mexico,2026,7,3,Sat,Tue,1
+18818.0,parcial,arena,21000.0,North America,United States,Dallas,2,ENHYPEN,male,4,6,"Belift,HYBE",5,growing,ENHYPEN_United States,2026,7,3,Fri,Sat,1
+,unreported,arena,19596.0,North America,United States,Oakland,2,ENHYPEN,male,4,6,"Belift,HYBE",5,growing,ENHYPEN_United States,2026,7,3,Sat,Wed,1
+20956.0,parcial,,,North America,United States,San Diego,1,ENHYPEN,male,4,6,"Belift,HYBE",5,growing,ENHYPEN_United States,2026,7,3,Tue,Tue,0
+,unreported,arena,21000.0,North America,United States,Tacoma,1,ENHYPEN,male,4,6,"Belift,HYBE",5,growing,ENHYPEN_United States,2026,7,3,Sun,Sun,1
+,unreported,arena,20000.0,North America,United States,Las Vegas,1,ENHYPEN,male,4,6,"Belift,HYBE",5,growing,ENHYPEN_United States,2026,8,3,Sat,Sat,1
+,unreported,,,Asia,Macau,Macau,2,ENHYPEN,male,4,6,"Belift,HYBE",5,growing,ENHYPEN_Macau,2026,10,4,Sat,Sun,1
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,2,ENHYPEN,male,4,6,"Belift,HYBE",6,established,ENHYPEN_Japan,2026,12,4,Tue,Wed,0
+,unreported,stadium,36418.0,Asia,Japan,Nagoya,2,ENHYPEN,male,4,6,"Belift,HYBE",6,established,ENHYPEN_Japan,2026,12,4,Sat,Sun,1
+,unreported,,,Asia,Indonesia,Jakarta,1,ENHYPEN,male,4,6,"Belift,HYBE",6,established,ENHYPEN_Indonesia,2027,1,1,Sat,Sat,1
+,unreported,stadium,47500.0,Asia,Japan,Fukuoka,2,ENHYPEN,male,4,6,"Belift,HYBE",6,established,ENHYPEN_Japan,2027,2,1,Sat,Sun,1
+,unreported,stadium,55000.0,Asia,Japan,Osaka,2,ENHYPEN,male,4,6,"Belift,HYBE",6,established,ENHYPEN_Japan,2027,2,1,Fri,Sat,1
+,unreported,arena,16000.0,Europe,Italy,Milan,1,ENHYPEN,male,4,6,"Belift,HYBE",6,established,ENHYPEN_Italy,2027,2,1,Wed,Wed,0
+,unreported,arena,45000.0,Europe,France,Paris,1,ENHYPEN,male,4,6,"Belift,HYBE",6,established,ENHYPEN_France,2027,2,1,Sat,Sat,1
+,unreported,arena,17000.0,Europe,Netherlands,Amsterdam,1,ENHYPEN,male,4,6,"Belift,HYBE",6,established,ENHYPEN_Netherlands,2027,3,1,Tue,Tue,0
+,unreported,arena,17000.0,Europe,Germany,Berlin,1,ENHYPEN,male,4,6,"Belift,HYBE",6,established,ENHYPEN_Germany,2027,3,1,Fri,Fri,1
+,unreported,arena,20000.0,Europe,England,London,1,ENHYPEN,male,4,6,"Belift,HYBE",6,established,ENHYPEN_England,2027,3,1,Tue,Tue,0
+,unreported,,,Asia,Singapore,Singapore,1,ENHYPEN,male,4,6,"Belift,HYBE",6,established,ENHYPEN_Singapore,2027,3,1,Sun,Sun,1
+,unreported,arena,15000.0,Asia,South Korea,Seoul,5,EXO,male,3,5,"SM,KAKAO",2,rookie,EXO_South Korea,2015,3,1,Sat,Sun,1
+,unreported,arena,18000.0,Asia,China,Shanghai,2,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_China,2015,5,2,Sat,Sun,1
+,unreported,stadium,13000.0,Asia,Taiwan,Taipei,2,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_Taiwan,2015,6,2,Fri,Sat,1
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,2,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_Thailand,2015,6,2,Sat,Sun,1
+,unreported,arena,19000.0,Asia,China,Beijing,2,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_China,2015,7,3,Sat,Sun,1
+,unreported,stadium,30000.0,Asia,China,Chengdu,1,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_China,2015,8,3,Sat,Sat,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_Hong Kong,2015,8,3,Sun,Mon,1
+,unreported,stadium,42383.0,Asia,China,Xi'an,1,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_China,2015,8,3,Sat,Sat,1
+,unreported,stadium,58680.0,Asia,China,Chongqing,1,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_China,2015,9,3,Sat,Sat,1
+,unreported,arena,18000.0,Asia,China,Guangzhou,1,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_China,2015,10,4,Sat,Sat,1
+,unreported,arena,15000.0,Asia,Japan,Fukuoka,2,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_Japan,2015,10,4,Sat,Sun,1
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,3,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_Japan,2015,11,4,Fri,Sun,1
+,unreported,stadium,55000.0,Asia,Japan,Osaka,3,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_Japan,2015,11,4,Fri,Sun,1
+,unreported,arena,14000.0,Asia,Macau,Macau,1,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_Macau,2015,11,4,Sat,Sat,1
+,unreported,arena,13000.0,Asia,China,Nanjing,1,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_China,2015,12,4,Sat,Sat,1
+,unreported,arena,9000.0,Asia,Singapore,Singapore,2,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_Singapore,2016,1,1,Sat,Sun,1
+,unreported,arena,15000.0,Asia,Philippines,Pasay,2,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_Philippines,2016,1,1,Sat,Sun,1
+,unreported,concert hall,6350.0,North America,United States,Grand Prairie,1,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_United States,2016,2,1,Wed,Wed,0
+,unreported,arena,8000.0,North America,Canada,Vancouver,1,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_Canada,2016,2,1,Fri,Fri,1
+,unreported,arena,16740.0,North America,United States,Los Angeles,1,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_United States,2016,2,1,Sun,Sun,1
+,unreported,theater,4400.0,North America,United States,Rosemont,1,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_United States,2016,2,1,Fri,Fri,1
+9919.0,reported,arena,17000.0,North America,United States,Newark,1,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_United States,2016,2,1,Sun,Sun,1
+,unreported,concert hall,,Asia,Indonesia,Tangerang,1,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_Indonesia,2016,2,1,Sat,Sat,1
+,unreported,arena,18000.0,Asia,China,Dalian,1,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_China,2016,3,1,Sat,Sat,1
+,unreported,stadium,25000.0,Asia,Malaysia,Kuala Lumpur,1,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_Malaysia,2016,3,1,Sat,Sat,1
+,unreported,arena,15000.0,Asia,South Korea,Seoul,3,EXO,male,3,5,"SM,KAKAO",3,growing,EXO_South Korea,2016,3,1,Fri,Sun,1
+,unreported,arena,15000.0,Asia,South Korea,Seoul,6,EXO,male,3,5,"SM,KAKAO",4,growing,EXO_South Korea,2016,7,3,Fri,Sun,1
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,2,EXO,male,3,5,"SM,KAKAO",4,growing,EXO_Thailand,2016,9,3,Sat,Sun,1
+,unreported,arena,10000.0,Asia,Japan,Hiroshima,2,EXO,male,3,5,"SM,KAKAO",4,growing,EXO_Japan,2016,9,3,Tue,Wed,0
+,unreported,arena,8000.0,Asia,China,Hangzhou,1,EXO,male,3,5,"SM,KAKAO",4,growing,EXO_China,2016,9,3,Fri,Fri,1
+,unreported,arena,15000.0,Asia,Japan,Fukuoka,3,EXO,male,3,5,"SM,KAKAO",4,growing,EXO_Japan,2016,10,4,Sun,Tue,1
+,unreported,arena,10024.0,Asia,Japan,Sapporo,2,EXO,male,3,5,"SM,KAKAO",4,growing,EXO_Japan,2016,10,4,Wed,Thu,0
+,unreported,arena,10000.0,Asia,Japan,Nagoya,3,EXO,male,3,5,"SM,KAKAO",4,growing,EXO_Japan,2016,11,4,Mon,Wed,0
+,unreported,stadium,13000.0,Asia,Taiwan,Taipei,2,EXO,male,3,5,"SM,KAKAO",4,growing,EXO_Taiwan,2016,11,4,Sat,Sun,1
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,2,EXO,male,3,5,"SM,KAKAO",4,growing,EXO_Japan,2016,11,4,Wed,Thu,0
+,unreported,stadium,55000.0,Asia,Japan,Osaka,3,EXO,male,3,5,"SM,KAKAO",4,growing,EXO_Japan,2016,12,4,Fri,Sun,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2,EXO,male,3,5,"SM,KAKAO",4,growing,EXO_Hong Kong,2017,2,1,Sat,Sun,1
+,unreported,arena,9679.0,Asia,Philippines,Manila,2,EXO,male,3,5,"SM,KAKAO",4,growing,EXO_Philippines,2017,2,1,Sat,Sun,1
+,unreported,stadium,25000.0,Asia,Malaysia,Kuala Lumpur,1,EXO,male,3,5,"SM,KAKAO",4,growing,EXO_Malaysia,2017,3,1,Sat,Sat,1
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1,EXO,male,3,5,"SM,KAKAO",4,growing,EXO_Singapore,2017,4,2,Sun,Sun,1
+5999.0,reported,arena,17000.0,North America,United States,Newark,1,EXO,male,3,5,"SM,KAKAO",5,growing,EXO_United States,2017,4,2,Tue,Tue,0
+,unreported,arena,22300.0,North America,Mexico,Mexico City,1,EXO,male,3,5,"SM,KAKAO",5,growing,EXO_Mexico,2017,4,2,Thu,Thu,0
+8668.0,reported,arena,17500.0,North America,United States,Inglewood,1,EXO,male,3,5,"SM,KAKAO",5,growing,EXO_United States,2017,4,2,Fri,Fri,1
+,unreported,stadium,65599.0,Asia,South Korea,Seoul,2,EXO,male,3,5,"SM,KAKAO",5,growing,EXO_South Korea,2017,5,2,Sat,Sun,1
+,unreported,stadium,16744.0,Asia,South Korea,Seoul,3,EXO,male,3,5,"SM,KAKAO",5,growing,EXO_South Korea,2017,11,4,Fri,Sun,1
+,unreported,arena,15000.0,Asia,Japan,Fukuoka,3,EXO,male,3,5,"SM,KAKAO",5,growing,EXO_Japan,2017,12,4,Fri,Sun,1
+,unreported,arena,22500.0,Asia,Japan,Saitama,2,EXO,male,3,5,"SM,KAKAO",5,growing,EXO_Japan,2018,1,1,Sat,Sun,1
+,unreported,stadium,13000.0,Asia,Taiwan,Taipei,2,EXO,male,3,5,"SM,KAKAO",5,growing,EXO_Taiwan,2018,2,1,Sat,Sun,1
+,unreported,stadium,55000.0,Asia,Japan,Osaka,2,EXO,male,3,5,"SM,KAKAO",5,growing,EXO_Japan,2018,2,1,Fri,Sat,1
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1,EXO,male,3,5,"SM,KAKAO",5,growing,EXO_Singapore,2018,3,1,Sat,Sat,1
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,3,EXO,male,3,5,"SM,KAKAO",5,growing,EXO_Thailand,2018,3,1,Fri,Sun,1
+,unreported,arena,15000.0,Asia,Philippines,Pasay,1,EXO,male,3,5,"SM,KAKAO",6,established,EXO_Philippines,2018,4,2,Sat,Sat,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2,EXO,male,3,5,"SM,KAKAO",6,established,EXO_Hong Kong,2018,6,2,Sat,Sun,1
+,unreported,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1,EXO,male,3,5,"SM,KAKAO",6,established,EXO_Malaysia,2018,7,3,Sat,Sat,1
+,unreported,stadium,16744.0,Asia,South Korea,Seoul,3,EXO,male,3,5,"SM,KAKAO",6,established,EXO_South Korea,2018,7,3,Fri,Sun,1
+,unreported,arena,14000.0,Asia,Macau,Macau,2,EXO,male,3,5,"SM,KAKAO",6,established,EXO_Macau,2018,8,3,Fri,Sat,1
+68336.0,parcial,stadium,41311.0,Asia,South Korea,Goyang,2,G-Dragon,male,2,1,Galaxy Corporation,15,legacy,G-Dragon_South Korea,2025,3,1,Sat,Sun,1
+96830.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2,G-Dragon,male,2,1,Galaxy Corporation,15,legacy,G-Dragon_Japan,2025,5,2,Sat,Sun,1
+,unreported,arena,55000.0,Asia,Philippines,Bulacan,1,G-Dragon,male,2,1,Galaxy Corporation,15,legacy,G-Dragon_Philippines,2025,5,2,Sat,Sat,1
+78632.0,reported,stadium,55000.0,Asia,Japan,Osaka,2,G-Dragon,male,2,1,Galaxy Corporation,15,legacy,G-Dragon_Japan,2025,5,2,Sun,Mon,1
+31185.0,reported,arena,16000.0,Asia,Macau,Macau,3,G-Dragon,male,2,1,Galaxy Corporation,15,legacy,G-Dragon_Macau,2025,6,2,Fri,Sun,1
+22140.0,reported,arena,18000.0,Oceania,Australia,Sydney,2,G-Dragon,male,2,1,Galaxy Corporation,15,legacy,G-Dragon_Australia,2025,7,3,Wed,Thu,0
+21913.0,reported,arena,14820.0,Oceania,Australia,Melbourne,2,G-Dragon,male,2,1,Galaxy Corporation,15,legacy,G-Dragon_Australia,2025,7,3,Sun,Mon,1
+31029.0,reported,stadium,13000.0,Asia,Taiwan,Taipei,3,G-Dragon,male,2,1,Galaxy Corporation,15,legacy,G-Dragon_Taiwan,2025,7,3,Fri,Sun,1
+,unreported,arena,11000.0,Asia,Malaysia,Kuala Lumpur,2,G-Dragon,male,2,1,Galaxy Corporation,15,legacy,G-Dragon_Malaysia,2025,7,3,Sat,Sun,1
+,unreported,arena,16500.0,Asia,Indonesia,Jakarta,2,G-Dragon,male,2,1,Galaxy Corporation,15,legacy,G-Dragon_Indonesia,2025,7,3,Fri,Sat,1
+,unreported,stadium,51560.0,Asia,Thailand,Bangkok,1,G-Dragon,male,2,1,Galaxy Corporation,15,legacy,G-Dragon_Thailand,2025,8,3,Sat,Sat,1
+33245.0,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,3,G-Dragon,male,2,1,Galaxy Corporation,15,legacy,G-Dragon_Hong Kong,2025,8,3,Fri,Sun,1
+20714.0,reported,arena,17000.0,North America,United States,Newark,2,G-Dragon,male,2,1,Galaxy Corporation,16,legacy,G-Dragon_United States,2025,8,3,Fri,Sat,1
+13045.0,reported,arena,20000.0,North America,United States,Las Vegas,1,G-Dragon,male,2,1,Galaxy Corporation,16,legacy,G-Dragon_United States,2025,8,3,Sun,Sun,1
+,unreported,stadium,20000.0,North America,United States,Los Angeles,2,G-Dragon,male,2,1,Galaxy Corporation,16,legacy,G-Dragon_United States,2025,9,3,Fri,Sat,1
+,unreported,arena,45000.0,Europe,France,Paris,1,G-Dragon,male,2,1,Galaxy Corporation,16,legacy,G-Dragon_France,2025,9,3,Sat,Sat,1
+,unreported,stadium,55000.0,Asia,Japan,Osaka,2,G-Dragon,male,2,1,Galaxy Corporation,16,legacy,G-Dragon_Japan,2025,10,4,Mon,Tue,0
+,unreported,stadium,59833.0,Asia,Taiwan,Taipei,2,G-Dragon,male,2,1,Galaxy Corporation,16,legacy,G-Dragon_Taiwan,2025,11,4,Sat,Sun,1
+,unreported,concert hall,,Asia,Vietnam,Hung Yen,2,G-Dragon,male,2,1,Galaxy Corporation,16,legacy,G-Dragon_Vietnam,2025,11,4,Sat,Sun,1
+49139.0,parcial,stadium,16744.0,Asia,South Korea,Seoul,3,G-Dragon,male,2,1,Galaxy Corporation,16,legacy,G-Dragon_South Korea,2025,12,4,Fri,Sun,1
+37761.0,reported,arena,15000.0,Asia,South Korea,Seoul,3,J-Hope,male,3,1,"Bighit,HYBE",2,rookie,J-Hope_South Korea,2025,2,1,Fri,Sun,1
+27169.0,reported,arena,20000.0,North America,United States,New York,2,J-Hope,male,3,1,"Bighit,HYBE",2,rookie,J-Hope_United States,2025,3,1,Thu,Fri,0
+24756.0,reported,arena,22000.0,North America,United States,Rosemont,2,J-Hope,male,3,1,"Bighit,HYBE",2,rookie,J-Hope_United States,2025,3,1,Mon,Tue,0
+33129.0,reported,arena,26000.0,North America,Mexico,Mexico City,2,J-Hope,male,3,1,"Bighit,HYBE",2,rookie,J-Hope_Mexico,2025,3,1,Sat,Sun,1
+26809.0,reported,arena,19000.0,North America,United States,San Antonio,2,J-Hope,male,3,1,"Bighit,HYBE",2,rookie,J-Hope_United States,2025,3,1,Wed,Thu,0
+24094.0,reported,arena,19596.0,North America,United States,Oakland,2,J-Hope,male,3,1,"Bighit,HYBE",2,rookie,J-Hope_United States,2025,3,1,Mon,Tue,0
+42799.0,reported,stadium,22000.0,North America,United States,Los Angeles,2,J-Hope,male,3,1,"Bighit,HYBE",2,rookie,J-Hope_United States,2025,4,2,Fri,Sun,1
+22138.0,reported,arena,15000.0,Asia,Philippines,Pasay,2,J-Hope,male,3,1,"Bighit,HYBE",2,rookie,J-Hope_Philippines,2025,4,2,Sat,Sun,1
+38721.0,reported,arena,22500.0,Asia,Japan,Saitama,2,J-Hope,male,3,1,"Bighit,HYBE",2,rookie,J-Hope_Japan,2025,4,2,Sat,Sun,1
+19684.0,reported,arena,9000.0,Asia,Singapore,Singapore,2,J-Hope,male,3,1,"Bighit,HYBE",2,rookie,J-Hope_Singapore,2025,4,2,Sat,Sun,1
+20104.0,reported,arena,16500.0,Asia,Indonesia,Jakarta,2,J-Hope,male,3,1,"Bighit,HYBE",2,rookie,J-Hope_Indonesia,2025,5,2,Sat,Sun,1
+25494.0,reported,arena,12000.0,Asia,Thailand,Bangkok,2,J-Hope,male,3,1,"Bighit,HYBE",2,rookie,J-Hope_Thailand,2025,5,2,Sat,Sun,1
+19417.0,reported,arena,16000.0,Asia,Macau,Macau,2,J-Hope,male,3,1,"Bighit,HYBE",2,rookie,J-Hope_Macau,2025,5,2,Sat,Sun,1
+19403.0,reported,arena,15000.0,Asia,Taiwan,Taoyuan,2,J-Hope,male,3,1,"Bighit,HYBE",2,rookie,J-Hope_Taiwan,2025,5,2,Sat,Sun,1
+70153.0,reported,stadium,55000.0,Asia,Japan,Osaka,2,J-Hope,male,3,1,"Bighit,HYBE",2,rookie,J-Hope_Japan,2025,5,2,Sat,Sun,1
+52449.0,reported,stadium,41311.0,Asia,South Korea,Goyang,2,J-Hope,male,3,1,"Bighit,HYBE",2,rookie,J-Hope_South Korea,2025,6,2,Fri,Sat,1
+19253.0,reported,stadium,41311.0,Asia,South Korea,Goyang,2,Jin,male,3,1,"Bighit,HYBE",2,rookie,Jin_South Korea,2025,6,2,Sat,Sun,1
+10718.0,parcial,arena,11069.0,Asia,South Korea,Seoul,2,Jin,male,3,1,"Bighit,HYBE",2,rookie,Jin_South Korea,2025,6,2,Sat,Sun,1
+42686.0,reported,arena,,Asia,Japan,Chiba,2,Jin,male,3,1,"Bighit,HYBE",2,rookie,Jin_Japan,2025,7,3,Sat,Sun,1
+82510.0,reported,stadium,55000.0,Asia,Japan,Osaka,2,Jin,male,3,1,"Bighit,HYBE",2,rookie,Jin_Japan,2025,7,3,Sat,Sun,1
+23753.0,reported,theater,10935.0,North America,United States,Anaheim,2,Jin,male,3,1,"Bighit,HYBE",2,rookie,Jin_United States,2025,7,3,Thu,Fri,0
+23162.0,reported,arena,21000.0,North America,United States,Dallas,2,Jin,male,3,1,"Bighit,HYBE",2,rookie,Jin_United States,2025,7,3,Tue,Wed,0
+22144.0,reported,arena,21500.0,North America,United States,Tampa,2,Jin,male,3,1,"Bighit,HYBE",2,rookie,Jin_United States,2025,7,3,Sat,Sun,1
+23056.0,reported,arena,17000.0,North America,United States,Newark,2,Jin,male,3,1,"Bighit,HYBE",2,rookie,Jin_United States,2025,7,3,Wed,Thu,0
+27917.0,reported,arena,20000.0,Europe,England,London,2,Jin,male,3,1,"Bighit,HYBE",2,rookie,Jin_England,2025,8,3,Tue,Wed,0
+22758.0,reported,arena,17000.0,Europe,Netherlands,Amsterdam,2,Jin,male,3,1,"Bighit,HYBE",2,rookie,Jin_Netherlands,2025,8,3,Sat,Sun,1
+38375.0,parcial,stadium,49084.0,Asia,South Korea,Incheon,2,Jin,male,3,1,"Bighit,HYBE",3,growing,Jin_South Korea,2025,10,4,Fri,Sat,1
+24800.0,parcial,arena,15000.0,Asia,South Korea,Seoul,2,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_South Korea,2019,1,1,Sat,Sun,1
+4844.0,parcial,theater,2400.0,Asia,Japan,Osaka,2,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_Japan,2019,2,1,Sat,Sun,1
+5000.0,parcial,concert hall,2001.0,Asia,Japan,Hiroshima,2,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_Japan,2019,2,1,Mon,Tue,0
+3414.0,parcial,concert hall,1700.0,Asia,Japan,Kanazawa,2,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_Japan,2019,2,1,Sat,Sun,1
+4606.0,parcial,concert hall,2302.0,Asia,Japan,Sapporo,2,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_Japan,2019,3,1,Sat,Sun,1
+4632.0,parcial,concert hall,2316.0,Asia,Japan,Fukuoka,2,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_Japan,2019,3,1,Sun,Mon,1
+2400.0,parcial,concert hall,2000.0,Asia,Japan,Nagoya,1,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_Japan,2019,3,1,Thu,Thu,0
+49921.0,parcial,arena,22500.0,Asia,Japan,Saitama,3,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_Japan,2019,3,1,Fri,Sun,1
+5622.0,parcial,arena,17000.0,North America,United States,Newark,1,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_United States,2019,4,2,Wed,Wed,0
+3197.0,parcial,concert hall,3600.0,North America,United States,Atlanta,1,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_United States,2019,4,2,Fri,Fri,1
+5206.0,parcial,arena,8000.0,North America,United States,Miami,1,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_United States,2019,4,2,Sun,Sun,1
+6066.0,parcial,concert hall,6350.0,North America,United States,Grand Prairie,1,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_United States,2019,5,2,Wed,Wed,0
+4725.0,parcial,theater,5000.0,North America,United States,Phoenix,1,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_United States,2019,5,2,Fri,Fri,1
+6294.0,parcial,concert hall,6400.0,North America,United States,Sugar Land,1,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_United States,2019,5,2,Sun,Sun,1
+4199.0,parcial,theater,4400.0,North America,United States,Rosemont,1,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_United States,2019,5,2,Tue,Tue,0
+5812.0,parcial,theater,3036.0,North America,United States,San Jose,2,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_United States,2019,5,2,Thu,Fri,0
+6534.0,parcial,arena,7100.0,North America,United States,Los Angeles,1,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_United States,2019,5,2,Sun,Sun,1
+4118.0,parcial,concert hall,9250.0,North America,Canada,Toronto,1,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_Canada,2019,5,2,Fri,Fri,1
+3228.0,parcial,arena,17500.0,North America,Canada,Vancouver,1,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_Canada,2019,5,2,Sun,Sun,1
+2910.0,parcial,theater,3165.0,North America,Mexico,Mexico City,1,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_Mexico,2019,5,2,Tue,Tue,0
+10746.0,parcial,arena,9000.0,Asia,Singapore,Singapore,3,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_Singapore,2019,6,2,Fri,Sun,1
+4631.0,parcial,arena,12300.0,Europe,Russia,Saint Petersburg,1,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_Russia,2019,6,2,Wed,Wed,0
+6186.0,parcial,arena,16500.0,Europe,Russia,Moscow,1,NCT127,male,3,8,"SM,KAKAO",2,rookie,NCT127_Russia,2019,6,2,Sat,Sat,1
+6402.0,parcial,arena,12500.0,Europe,England,London,1,NCT127,male,3,8,"SM,KAKAO",3,growing,NCT127_England,2019,7,3,Sun,Sun,1
+3752.0,parcial,concert hall,6000.0,Europe,France,Paris,1,NCT127,male,3,8,"SM,KAKAO",3,growing,NCT127_France,2019,7,3,Wed,Wed,0
+4218.0,parcial,arena,9000.0,Asia,Singapore,Singapore,1,NCT127,male,3,8,"SM,KAKAO",3,growing,NCT127_Singapore,2019,7,3,Sat,Sat,1
+24352.0,parcial,arena,16000.0,Asia,Japan,Osaka,2,NCT127,male,3,8,"SM,KAKAO",3,growing,NCT127_Japan,2019,12,4,Wed,Thu,0
+15000.0,parcial,arena,15000.0,Asia,Japan,Fukuoka,2,NCT127,male,3,8,"SM,KAKAO",3,growing,NCT127_Japan,2020,1,1,Sat,Sun,1
+5500.0,parcial,concert hall,10000.0,Asia,Japan,Niigata,1,NCT127,male,3,8,"SM,KAKAO",3,growing,NCT127_Japan,2020,1,1,Sat,Sat,1
+29646.0,parcial,arena,10000.0,Asia,Japan,Tokyo,3,NCT127,male,3,8,"SM,KAKAO",3,growing,NCT127_Japan,2020,2,1,Sat,Mon,1
+,unreported,,,North America,United States,New York,1,NCT127,male,3,8,"SM,KAKAO",3,growing,NCT127_United States,2020,6,2,Fri,Fri,1
+,unreported,arena,13100.0,North America,United States,Duluth,1,NCT127,male,3,8,"SM,KAKAO",3,growing,NCT127_United States,2020,6,2,Wed,Wed,0
+,unreported,arena,10387.0,North America,United States,Chicago,1,NCT127,male,3,8,"SM,KAKAO",3,growing,NCT127_United States,2020,6,2,Mon,Mon,0
+,unreported,arena,19190.0,North America,United States,San Jose,1,NCT127,male,3,8,"SM,KAKAO",3,growing,NCT127_United States,2020,6,2,Thu,Thu,0
+,unreported,arena,17500.0,North America,United States,Inglewood,1,NCT127,male,3,8,"SM,KAKAO",3,growing,NCT127_United States,2020,6,2,Fri,Fri,1
+,unreported,concert hall,7000.0,North America,United States,Seattle,1,NCT127,male,3,8,"SM,KAKAO",3,growing,NCT127_United States,2020,6,2,Sun,Sun,1
+36900.0,parcial,arena,15000.0,Asia,South Korea,Seoul,3,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_South Korea,2019,8,3,Fri,Sun,1
+23329.0,parcial,arena,16000.0,Asia,Japan,Osaka,2,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_Japan,2019,10,4,Tue,Wed,0
+,unreported,concert hall,10000.0,Asia,Japan,Nagoya,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_Japan,2019,10,4,Sat,Sat,1
+13000.0,parcial,concert hall,10000.0,Asia,Japan,Nagoya,2,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_Japan,2019,10,4,Sun,Mon,1
+24155.0,parcial,arena,17000.0,Asia,Japan,Yokohama,2,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_Japan,2019,10,4,Wed,Thu,0
+43500.0,parcial,arena,,Asia,Japan,Chiba,3,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_Japan,2019,11,4,Thu,Sat,0
+4566.0,parcial,arena,7166.0,Asia,Indonesia,Jakarta,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_Indonesia,2019,11,4,Sat,Sat,1
+8538.0,parcial,concert hall,3500.0,Asia,Thailand,Bangkok,2,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_Thailand,2019,11,4,Sat,Sun,1
+,unreported,arena,17000.0,North America,United States,Newark,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_United States,2020,1,1,Fri,Fri,1
+,unreported,arena,23500.0,North America,United States,Chicago,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_United States,2020,1,1,Sun,Sun,1
+,unreported,theater,4000.0,North America,United States,Irving,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_United States,2020,1,1,Tue,Tue,0
+4793.0,parcial,concert hall,6400.0,North America,United States,Sugar Land,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_United States,2020,1,1,Wed,Wed,0
+7233.0,parcial,arena,26000.0,North America,Mexico,Mexico City,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_Mexico,2020,1,1,Fri,Fri,1
+,unreported,arena,17500.0,North America,United States,Inglewood,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_United States,2020,1,1,Sun,Sun,1
+,unreported,arena,19190.0,North America,United States,San Jose,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_United States,2020,1,1,Tue,Tue,0
+3878.0,parcial,arena,7141.0,North America,United States,Kent,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_United States,2020,1,1,Thu,Thu,0
+7636.0,parcial,arena,15000.0,Asia,Philippines,Pasay,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_Philippines,2020,2,1,Sat,Sat,1
+,unreported,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_Malaysia,2020,2,1,Sat,Sat,1
+,unreported,arena,15000.0,Asia,Taiwan,Taoyuan,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_Taiwan,2020,2,1,Sat,Sat,1
+,unreported,arena,15000.0,Europe,Spain,Madrid,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_Spain,2020,3,1,Tue,Tue,0
+,unreported,concert hall,6000.0,Europe,France,Paris,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_France,2020,3,1,Thu,Thu,0
+,unreported,arena,12500.0,Europe,England,London,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_England,2020,3,1,Sun,Sun,1
+,unreported,arena,17000.0,Europe,Germany,Berlin,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing,SEVENTEEN_Germany,2020,3,1,Tue,Tue,0
+34923.0,reported,stadium,16744.0,Asia,South Korea,Seoul,2,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_South Korea,2022,6,2,Sat,Sun,1
+8377.0,reported,arena,19000.0,North America,Canada,Vancouver,1,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_Canada,2022,8,3,Wed,Wed,0
+8806.0,reported,arena,17200.0,North America,United States,Seattle,1,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_United States,2022,8,3,Fri,Fri,1
+12601.0,reported,arena,19596.0,North America,United States,Oakland,1,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_United States,2022,8,3,Sun,Sun,1
+12561.0,reported,arena,17500.0,North America,United States,Inglewood,1,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_United States,2022,8,3,Wed,Wed,0
+9124.0,reported,arena,19000.0,North America,United States,Houston,1,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_United States,2022,8,3,Sat,Sat,1
+9282.0,reported,arena,14000.0,North America,United States,Fort Worth,1,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_United States,2022,8,3,Tue,Tue,0
+12421.0,reported,arena,23500.0,North America,United States,Chicago,1,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_United States,2022,8,3,Thu,Thu,0
+11341.0,reported,arena,20356.0,North America,United States,Washington,1,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_United States,2022,8,3,Sun,Sun,1
+9503.0,reported,arena,18000.0,North America,United States,Atlanta,1,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_United States,2022,8,3,Tue,Tue,0
+9028.0,reported,arena,19000.0,North America,United States,New York,1,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_United States,2022,9,3,Thu,Thu,0
+13763.0,reported,arena,19800.0,North America,Canada,Toronto,1,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_Canada,2022,9,3,Sat,Sat,1
+10717.0,reported,arena,17000.0,North America,United States,Newark,1,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_United States,2022,9,3,Tue,Tue,0
+17336.0,reported,concert hall,,Asia,Indonesia,Tangerang,2,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_Indonesia,2022,9,3,Sat,Sun,1
+19270.0,reported,arena,12000.0,Asia,Thailand,Bangkok,2,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_Thailand,2022,10,4,Sat,Sun,1
+16956.0,reported,arena,15000.0,Asia,Philippines,Pasay,2,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_Philippines,2022,10,4,Sat,Sun,1
+8191.0,reported,arena,9000.0,Asia,Singapore,Singapore,1,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_Singapore,2022,10,4,Thu,Thu,0
+78593.0,reported,stadium,55000.0,Asia,Japan,Osaka,2,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_Japan,2022,11,4,Sat,Sun,1
+93063.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_Japan,2022,11,4,Sat,Sun,1
+81644.0,reported,stadium,36418.0,Asia,Japan,Nagoya,2,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_Japan,2022,12,4,Sat,Sun,1
+39480.0,reported,arena,55000.0,Asia,Philippines,Bulacan,1,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_Philippines,2022,12,4,Sat,Sat,1
+25079.0,reported,stadium,,Asia,Indonesia,Jakarta,1,SEVENTEEN,male,3,13,"Pledis,HYBE",6,established,SEVENTEEN_Indonesia,2022,12,4,Wed,Wed,0
+34341.0,reported,stadium,16744.0,Asia,South Korea,Seoul,2,SEVENTEEN,male,3,13,"Pledis,HYBE",7,established,SEVENTEEN_South Korea,2023,7,3,Fri,Sat,1
+89119.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2,SEVENTEEN,male,3,13,"Pledis,HYBE",7,established,SEVENTEEN_Japan,2023,9,3,Wed,Thu,0
+61088.0,reported,stadium,31552.0,Asia,Japan,Saitama,2,SEVENTEEN,male,3,13,"Pledis,HYBE",7,established,SEVENTEEN_Japan,2023,11,4,Thu,Fri,0
+108239.0,reported,stadium,36418.0,Asia,Japan,Nagoya,3,SEVENTEEN,male,3,13,"Pledis,HYBE",7,established,SEVENTEEN_Japan,2023,11,4,Thu,Sun,0
+107848.0,reported,stadium,55000.0,Asia,Japan,Osaka,3,SEVENTEEN,male,3,13,"Pledis,HYBE",7,established,SEVENTEEN_Japan,2023,12,4,Thu,Sun,0
+68670.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,2,SEVENTEEN,male,3,13,"Pledis,HYBE",7,established,SEVENTEEN_Japan,2023,12,4,Sat,Sun,1
+59023.0,reported,stadium,51560.0,Asia,Thailand,Bangkok,2,SEVENTEEN,male,3,13,"Pledis,HYBE",7,established,SEVENTEEN_Thailand,2023,12,4,Sat,Sun,1
+54035.0,reported,stadium,25000.0,Asia,Philippines,Bulacan,2,SEVENTEEN,male,3,13,"Pledis,HYBE",7,established,SEVENTEEN_Philippines,2024,1,1,Sat,Sun,1
+37486.0,reported,stadium,16272.0,Asia,Macau,Macau,2,SEVENTEEN,male,3,13,"Pledis,HYBE",7,established,SEVENTEEN_Macau,2024,1,1,Sat,Sun,1
+56047.0,reported,stadium,29376.0,Asia,South Korea,Incheon,2,SEVENTEEN,male,3,13,"Pledis,HYBE",7,established,SEVENTEEN_South Korea,2024,3,1,Sat,Sun,1
+71525.0,reported,stadium,66704.0,Asia,South Korea,Seoul,2,SEVENTEEN,male,3,13,"Pledis,HYBE",7,established,SEVENTEEN_South Korea,2024,4,2,Sat,Sun,1
+100565.0,reported,stadium,47853.0,Asia,Japan,Osaka,2,SEVENTEEN,male,3,13,"Pledis,HYBE",7,established,SEVENTEEN_Japan,2024,5,2,Sat,Sun,1
+140328.0,reported,stadium,72327.0,Asia,Japan,Yokohama,2,SEVENTEEN,male,3,13,"Pledis,HYBE",7,established,SEVENTEEN_Japan,2024,5,2,Sat,Sun,1
+57421.0,reported,stadium,41311.0,Asia,South Korea,Goyang,2,SEVENTEEN,male,3,13,"Pledis,HYBE",8,established,SEVENTEEN_South Korea,2024,10,4,Sat,Sun,1
+21808.0,reported,arena,22000.0,North America,United States,Rosemont,2,SEVENTEEN,male,3,13,"Pledis,HYBE",8,established,SEVENTEEN_United States,2024,10,4,Tue,Wed,0
+25532.0,reported,arena,19000.0,North America,United States,New York,2,SEVENTEEN,male,3,13,"Pledis,HYBE",8,established,SEVENTEEN_United States,2024,10,4,Fri,Sun,1
+25723.0,reported,arena,19000.0,North America,United States,San Antonio,2,SEVENTEEN,male,3,13,"Pledis,HYBE",8,established,SEVENTEEN_United States,2024,10,4,Thu,Fri,0
+23409.0,reported,arena,19596.0,North America,United States,Oakland,2,SEVENTEEN,male,3,13,"Pledis,HYBE",8,established,SEVENTEEN_United States,2024,11,4,Tue,Wed,0
+43069.0,reported,stadium,22000.0,North America,United States,Los Angeles,2,SEVENTEEN,male,3,13,"Pledis,HYBE",8,established,SEVENTEEN_United States,2024,11,4,Sat,Sun,1
+76020.0,reported,stadium,36418.0,Asia,Japan,Nagoya,2,SEVENTEEN,male,3,13,"Pledis,HYBE",8,established,SEVENTEEN_Japan,2024,11,4,Fri,Sat,1
+87763.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2,SEVENTEEN,male,3,13,"Pledis,HYBE",8,established,SEVENTEEN_Japan,2024,12,4,Wed,Thu,0
+112150.0,reported,stadium,55000.0,Asia,Japan,Osaka,3,SEVENTEEN,male,3,13,"Pledis,HYBE",8,established,SEVENTEEN_Japan,2024,12,4,Thu,Sun,0
+106571.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,3,SEVENTEEN,male,3,13,"Pledis,HYBE",8,established,SEVENTEEN_Japan,2024,12,4,Thu,Sun,0
+57632.0,reported,stadium,25000.0,Asia,Philippines,Bulacan,2,SEVENTEEN,male,3,13,"Pledis,HYBE",8,established,SEVENTEEN_Philippines,2025,1,1,Sat,Sun,1
+73985.0,reported,stadium,55000.0,Asia,Singapore,Singapore,2,SEVENTEEN,male,3,13,"Pledis,HYBE",8,established,SEVENTEEN_Singapore,2025,1,1,Sat,Sun,1
+64819.0,reported,arena,82000.0,Asia,Indonesia,Jakarta,2,SEVENTEEN,male,3,13,"Pledis,HYBE",8,established,SEVENTEEN_Indonesia,2025,2,1,Sat,Sun,1
+68845.0,reported,stadium,51560.0,Asia,Thailand,Bangkok,2,SEVENTEEN,male,3,13,"Pledis,HYBE",8,established,SEVENTEEN_Thailand,2025,2,1,Sat,Sun,1
+50053.0,reported,stadium,29376.0,Asia,South Korea,Incheon,2,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established,SEVENTEEN_South Korea,2025,9,3,Sat,Sun,1
+71192.0,reported,stadium,45995.0,Asia,Hong Kong,Hong Kong,2,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established,SEVENTEEN_Hong Kong,2025,9,3,Sat,Sun,1
+11319.0,reported,arena,21000.0,North America,United States,Tacoma,1,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established,SEVENTEEN_United States,2025,10,4,Sat,Sat,1
+26734.0,reported,stadium,22000.0,North America,United States,Los Angeles,2,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established,SEVENTEEN_United States,2025,10,4,Thu,Fri,0
+13220.0,reported,arena,16223.0,North America,United States,Austin,2,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established,SEVENTEEN_United States,2025,10,4,Tue,Wed,0
+15527.0,reported,arena,23000.0,North America,United States,Sunrise,2,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established,SEVENTEEN_United States,2025,10,4,Sun,Mon,1
+18437.0,reported,arena,20356.0,North America,United States,Washington,2,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established,SEVENTEEN_United States,2025,10,4,Wed,Thu,0
+,unreported,stadium,36418.0,Asia,Japan,Nagoya,3,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established,SEVENTEEN_Japan,2025,11,4,Thu,Sun,0
+,unreported,stadium,55000.0,Asia,Japan,Osaka,3,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established,SEVENTEEN_Japan,2025,12,4,Thu,Sun,0
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,2,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established,SEVENTEEN_Japan,2025,12,4,Thu,Fri,0
+,unreported,stadium,47500.0,Asia,Japan,Fukuoka,2,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established,SEVENTEEN_Japan,2025,12,4,Sat,Sun,1
+,unreported,stadium,45995.0,Asia,Hong Kong,Hong Kong,2,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established,SEVENTEEN_Hong Kong,2026,2,1,Sat,Sun,1
+,unreported,stadium,55000.0,Asia,Singapore,Singapore,1,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established,SEVENTEEN_Singapore,2026,3,1,Sat,Sat,1
+,unreported,stadium,35000.0,Asia,Thailand,Bangkok,2,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established,SEVENTEEN_Thailand,2026,3,1,Sat,Sun,1
+,unreported,stadium,25000.0,Asia,Philippines,Bulacan,1,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established,SEVENTEEN_Philippines,2026,3,1,Sat,Sat,1
+,unreported,stadium,29376.0,Asia,South Korea,Incheon,2,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established,SEVENTEEN_South Korea,2026,4,2,Sat,Sun,1
+15693.0,reported,arena,11069.0,Asia,South Korea,Seoul,3,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_South Korea,2022,4,2,Fri,Sun,1
+12000.0,reported,arena,8000.0,Asia,Japan,Kobe,2,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_Japan,2022,6,2,Sat,Sun,1
+21580.0,reported,arena,12898.0,Asia,Japan,Tokyo,2,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_Japan,2022,6,2,Sat,Sun,1
+24186.0,reported,arena,17000.0,North America,United States,Newark,2,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_United States,2022,6,2,Tue,Wed,0
+12718.0,reported,arena,23500.0,North America,United States,Chicago,1,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_United States,2022,7,3,Fri,Fri,1
+24920.0,reported,arena,17500.0,North America,United States,Inglewood,2,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_United States,2022,7,3,Sat,Sun,1
+12507.0,reported,arena,19596.0,North America,United States,Oakland,1,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_United States,2022,7,3,Tue,Tue,0
+23522.0,reported,arena,17200.0,North America,United States,Seattle,2,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_United States,2022,7,3,Thu,Fri,0
+20026.0,reported,theater,10935.0,North America,United States,Anaheim,2,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_United States,2022,7,3,Tue,Wed,0
+21641.0,reported,arena,12898.0,Asia,Japan,Tokyo,2,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_Japan,2022,7,3,Tue,Wed,0
+20231.0,reported,arena,15000.0,Asia,South Korea,Seoul,2,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_South Korea,2022,9,3,Sat,Sun,1
+15862.0,reported,arena,15000.0,Asia,Indonesia,Jakarta,2,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_Indonesia,2022,11,4,Sat,Sun,1
+20817.0,reported,arena,12000.0,Asia,Thailand,Bangkok,2,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_Thailand,2023,2,1,Thu,Fri,0
+8813.0,reported,arena,9000.0,Asia,Singapore,Singapore,1,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_Singapore,2023,2,1,Sun,Sun,1
+56862.0,reported,arena,22500.0,Asia,Japan,Saitama,2,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_Japan,2023,2,1,Sat,Sun,1
+23139.0,reported,arena,14820.0,Oceania,Australia,Melbourne,2,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_Australia,2023,2,1,Fri,Sat,1
+23897.0,reported,arena,18000.0,Oceania,Australia,Sydney,2,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_Australia,2023,2,1,Tue,Wed,0
+79331.0,reported,stadium,55000.0,Asia,Japan,Osaka,2,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_Japan,2023,2,1,Sat,Sun,1
+17629.0,reported,arena,15000.0,Asia,Philippines,Pasay,2,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_Philippines,2023,3,1,Sat,Sun,1
+23019.0,reported,arena,18000.0,North America,United States,Atlanta,2,Stray Kids,male,4,8,JYP,4,growing,Stray Kids_United States,2023,3,1,Wed,Thu,0
+22626.0,reported,arena,14000.0,North America,United States,Fort Worth,2,Stray Kids,male,4,8,JYP,5,growing,Stray Kids_United States,2023,3,1,Sun,Mon,1
+45380.0,reported,stadium,22000.0,North America,United States,Los Angeles,2,Stray Kids,male,4,8,JYP,5,growing,Stray Kids_United States,2023,3,1,Fri,Sun,1
+73789.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,2,Stray Kids,male,4,8,JYP,5,growing,Stray Kids_Japan,2023,8,3,Wed,Thu,0
+75516.0,reported,stadium,36418.0,Asia,Japan,Nagoya,2,Stray Kids,male,4,8,JYP,5,growing,Stray Kids_Japan,2023,9,3,Sat,Sun,1
+77833.0,reported,stadium,55000.0,Asia,Japan,Osaka,2,Stray Kids,male,4,8,JYP,5,growing,Stray Kids_Japan,2023,9,3,Sat,Sun,1
+31267.0,reported,stadium,16744.0,Asia,South Korea,Seoul,2,Stray Kids,male,4,8,JYP,5,growing,Stray Kids_South Korea,2023,10,4,Sat,Sun,1
+95371.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2,Stray Kids,male,4,8,JYP,5,growing,Stray Kids_Japan,2023,10,4,Sat,Sun,1
+40907.0,reported,arena,15000.0,Asia,South Korea,Seoul,4,Stray Kids,male,4,8,JYP,6,established,Stray Kids_South Korea,2024,8,3,Sat,Sun,1
+31462.0,reported,stadium,55000.0,Asia,Singapore,Singapore,1,Stray Kids,male,4,8,JYP,6,established,Stray Kids_Singapore,2024,9,3,Sat,Sat,1
+27336.0,reported,stadium,56347.0,Oceania,Australia,Melbourne,1,Stray Kids,male,4,8,JYP,6,established,Stray Kids_Australia,2024,10,4,Sat,Sat,1
+36589.0,reported,stadium,42500.0,Oceania,Australia,Sydney,1,Stray Kids,male,4,8,JYP,6,established,Stray Kids_Australia,2024,10,4,Sat,Sat,1
+41273.0,reported,stadium,55000.0,Asia,Taiwan,Kaohsiung,1,Stray Kids,male,4,8,JYP,6,established,Stray Kids_Taiwan,2024,11,4,Sun,Sun,1
+143575.0,reported,stadium,55000.0,Asia,Japan,Tokyo,3,Stray Kids,male,4,8,JYP,6,established,Stray Kids_Japan,2024,11,4,Thu,Sun,0
+23047.0,reported,arena,55000.0,Asia,Philippines,Bulacan,1,Stray Kids,male,4,8,JYP,6,established,Stray Kids_Philippines,2024,11,4,Sat,Sat,1
+21277.0,reported,arena,16000.0,Asia,Macau,Macau,2,Stray Kids,male,4,8,JYP,6,established,Stray Kids_Macau,2024,11,4,Fri,Sat,1
+114703.0,reported,stadium,55000.0,Asia,Japan,Osaka,3,Stray Kids,male,4,8,JYP,6,established,Stray Kids_Japan,2024,12,4,Thu,Sun,0
+20600.0,reported,stadium,35000.0,Asia,Thailand,Bangkok,1,Stray Kids,male,4,8,JYP,6,established,Stray Kids_Thailand,2024,12,4,Sat,Sat,1
+9726.0,reported,arena,16500.0,Asia,Indonesia,Jakarta,1,Stray Kids,male,4,8,JYP,6,established,Stray Kids_Indonesia,2024,12,4,Sat,Sat,1
+20922.0,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,2,Stray Kids,male,4,8,JYP,6,established,Stray Kids_Hong Kong,2025,1,1,Sat,Sun,1
+48229.0,reported,stadium,25000.0,South America,Chile,Santiago,2,Stray Kids,male,4,8,JYP,7,established,Stray Kids_Chile,2025,3,1,Thu,Fri,0
+49063.0,reported,stadium,70000.0,South America,Brazil,Rio De Janeiro,1,Stray Kids,male,4,8,JYP,7,established,Stray Kids_Brazil,2025,4,2,Tue,Tue,0
+110479.0,reported,stadium,72039.0,South America,Brazil,São Paulo,2,Stray Kids,male,4,8,JYP,7,established,Stray Kids_Brazil,2025,4,2,Sat,Sun,1
+43806.0,reported,stadium,32000.0,South America,Peru,Lima,1,Stray Kids,male,4,8,JYP,7,established,Stray Kids_Peru,2025,4,2,Wed,Wed,0
+109963.0,reported,stadium,65000.0,North America,Mexico,Mexico City,2,Stray Kids,male,4,8,JYP,7,established,Stray Kids_Mexico,2025,4,2,Sat,Sun,1
+207917.0,reported,stadium,50889.0,Asia,Japan,Shizuoka,4,Stray Kids,male,4,8,JYP,7,established,Stray Kids_Japan,2025,5,2,Sat,Sun,1
+41264.0,reported,stadium,47368.0,North America,United States,Seattle,1,Stray Kids,male,4,8,JYP,7,established,Stray Kids_United States,2025,5,2,Sat,Sat,1
+33403.0,reported,stadium,45000.0,North America,United States,San Francisco,1,Stray Kids,male,4,8,JYP,7,established,Stray Kids_United States,2025,5,2,Wed,Wed,0
+79389.0,reported,stadium,70240.0,North America,United States,Inglewood,2,Stray Kids,male,4,8,JYP,7,established,Stray Kids_United States,2025,5,2,Sat,Sun,1
+68253.0,reported,stadium,40300.0,North America,United States,Arlington,2,Stray Kids,male,4,8,JYP,7,established,Stray Kids_United States,2025,6,2,Fri,Sat,1
+36732.0,reported,stadium,41108.0,North America,United States,Atlanta,1,Stray Kids,male,4,8,JYP,7,established,Stray Kids_United States,2025,6,2,Tue,Tue,0
+46766.0,reported,stadium,60219.0,North America,United States,Orlando,1,Stray Kids,male,4,8,JYP,7,established,Stray Kids_United States,2025,6,2,Sat,Sat,1
+63005.0,reported,stadium,41922.0,North America,United States,New York,2,Stray Kids,male,4,8,JYP,7,established,Stray Kids_United States,2025,6,2,Wed,Thu,0
+37095.0,reported,stadium,41373.0,North America,United States,Washington,1,Stray Kids,male,4,8,JYP,7,established,Stray Kids_United States,2025,6,2,Mon,Mon,0
+35799.0,reported,stadium,41649.0,North America,United States,Chicago,1,Stray Kids,male,4,8,JYP,7,established,Stray Kids_United States,2025,6,2,Thu,Thu,0
+49745.0,reported,stadium,50000.0,North America,Canada,Toronto,1,Stray Kids,male,4,8,JYP,7,established,Stray Kids_Canada,2025,6,2,Sun,Sun,1
+43788.0,reported,stadium,71000.0,Europe,Netherlands,Amsterdam,1,Stray Kids,male,4,8,JYP,7,established,Stray Kids_Netherlands,2025,7,3,Fri,Fri,1
+41631.0,reported,stadium,65000.0,Europe,Germany,Frankfurt,1,Stray Kids,male,4,8,JYP,7,established,Stray Kids_Germany,2025,7,3,Tue,Tue,0
+89225.0,reported,stadium,62850.0,Europe,England,London,2,Stray Kids,male,4,8,JYP,7,established,Stray Kids_England,2025,7,3,Fri,Sat,1
+49096.0,reported,stadium,60000.0,Europe,Spain,Madrid,1,Stray Kids,male,4,8,JYP,7,established,Stray Kids_Spain,2025,7,3,Tue,Tue,0
+,unreported,stadium,60000.0,Europe,Spain,Madrid,1,Stray Kids,male,4,8,JYP,7,established,Stray Kids_Spain,2025,7,3,Tue,Tue,0
+117382.0,reported,stadium,81338.0,Europe,France,Paris,2,Stray Kids,male,4,8,JYP,7,established,Stray Kids_France,2025,7,3,Sat,Sun,1
+50374.0,reported,stadium,70634.0,Europe,Italy,Rome,1,Stray Kids,male,4,8,JYP,7,established,Stray Kids_Italy,2025,7,3,Wed,Wed,0
+,unreported,stadium,29376.0,Asia,South Korea,Incheon,2,Stray Kids,male,4,8,JYP,7,established,Stray Kids_South Korea,2025,10,4,Sat,Sun,1
+22987.0,missing,arena,15000.0,Asia,South Korea,Seoul,3,The Boyz,male,4,10,ONE HUNDRED,7,established,The Boyz_South Korea,2025,8,3,Fri,Sun,1
+,unreported,concert hall,15000.0,Asia,Japan,Nagoya,2,The Boyz,male,4,10,ONE HUNDRED,7,established,The Boyz_Japan,2025,8,3,Sat,Sun,1
+,unreported,arena,12141.0,Asia,Japan,Yokohama,2,The Boyz,male,4,10,ONE HUNDRED,7,established,The Boyz_Japan,2025,8,3,Sat,Sun,1
+,unreported,arena,8000.0,Asia,Japan,Kobe,2,The Boyz,male,4,10,ONE HUNDRED,7,established,The Boyz_Japan,2025,8,3,Sat,Sun,1
+2020.0,reported,theater,5600.0,North America,United States,New York,1,The Boyz,male,4,10,ONE HUNDRED,7,established,The Boyz_United States,2025,9,3,Fri,Fri,1
+1116.0,reported,theater,3600.0,North America,United States,Chicago,1,The Boyz,male,4,10,ONE HUNDRED,7,established,The Boyz_United States,2025,9,3,Sun,Sun,1
+564.0,reported,theater,1050.0,North America,United States,Atlanta,1,The Boyz,male,4,10,ONE HUNDRED,7,established,The Boyz_United States,2025,9,3,Tue,Tue,0
+,unreported,concert hall,3040.0,North America,United States,Oakland,1,The Boyz,male,4,10,ONE HUNDRED,7,established,The Boyz_United States,2025,9,3,Fri,Fri,1
+1186.0,reported,theater,2000.0,North America,United States,Los Angeles,1,The Boyz,male,4,10,ONE HUNDRED,7,established,The Boyz_United States,2025,9,3,Sun,Sun,1
+787.0,reported,theater,,North America,United States,Tacoma,1,The Boyz,male,4,10,ONE HUNDRED,7,established,The Boyz_United States,2025,9,3,Wed,Wed,0
+,unreported,arena,10000.0,Asia,Japan,Tokyo,2,The Boyz,male,4,10,ONE HUNDRED,7,established,The Boyz_Japan,2025,10,4,Sat,Sun,1
+,unreported,concert hall,,Asia,Macau,Macau,1,The Boyz,male,4,10,ONE HUNDRED,7,established,The Boyz_Macau,2025,10,4,Sat,Sat,1
+,unreported,concert hall,,Asia,Malaysia,Kuala Lumpur,1,The Boyz,male,4,10,ONE HUNDRED,7,established,The Boyz_Malaysia,2025,10,4,Sat,Sat,1
+,unreported,arena,15000.0,Asia,Taiwan,Taoyuan,1,The Boyz,male,4,10,ONE HUNDRED,7,established,The Boyz_Taiwan,2025,10,4,Sat,Sat,1
+,unreported,concert hall,8000.0,Asia,Thailand,Bangkok,1,The Boyz,male,4,10,ONE HUNDRED,7,established,The Boyz_Thailand,2025,11,4,Sat,Sat,1
+,unreported,concert hall,,Asia,Indonesia,Tangerang,1,The Boyz,male,4,10,ONE HUNDRED,7,established,The Boyz_Indonesia,2025,11,4,Sat,Sat,1
+10267.0,reported,arena,11069.0,Asia,South Korea,Seoul,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",3,growing,TOMORROW X TOGETHER_South Korea,2022,7,3,Sat,Sun,1
+4340.0,reported,theater,4400.0,North America,United States,Rosemont,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",3,growing,TOMORROW X TOGETHER_United States,2022,7,3,Thu,Thu,0
+5239.0,reported,theater,5600.0,North America,United States,New York,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",3,growing,TOMORROW X TOGETHER_United States,2022,7,3,Sat,Sat,1
+4509.0,reported,theater,4665.0,North America,United States,Atlanta,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",3,growing,TOMORROW X TOGETHER_United States,2022,7,3,Tue,Tue,0
+6202.0,reported,concert hall,6350.0,North America,United States,Grand Prairie,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",3,growing,TOMORROW X TOGETHER_United States,2022,7,3,Thu,Thu,0
+6250.0,reported,concert hall,6400.0,North America,United States,Sugar Land,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",3,growing,TOMORROW X TOGETHER_United States,2022,7,3,Sun,Sun,1
+5168.0,reported,arena,8500.0,North America,United States,San Francisco,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",3,growing,TOMORROW X TOGETHER_United States,2022,7,3,Thu,Thu,0
+13562.0,reported,arena,7100.0,North America,United States,Los Angeles,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",3,growing,TOMORROW X TOGETHER_United States,2022,7,3,Sat,Sun,1
+12117.0,reported,arena,7056.0,Asia,Japan,Osaka,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",3,growing,TOMORROW X TOGETHER_Japan,2022,9,3,Sat,Sun,1
+12290.0,reported,arena,,Asia,Japan,Chiba,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",3,growing,TOMORROW X TOGETHER_Japan,2022,9,3,Thu,Fri,0
+6067.0,reported,concert hall,,Asia,Indonesia,Tangerang,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",3,growing,TOMORROW X TOGETHER_Indonesia,2022,10,4,Wed,Wed,0
+15999.0,reported,arena,15000.0,Asia,Philippines,Pasay,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",3,growing,TOMORROW X TOGETHER_Philippines,2022,10,4,Sat,Sun,1
+8588.0,reported,arena,12000.0,Asia,Thailand,Bangkok,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",3,growing,TOMORROW X TOGETHER_Thailand,2022,10,4,Thu,Fri,0
+21445.0,reported,arena,15000.0,Asia,South Korea,Seoul,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",4,growing,TOMORROW X TOGETHER_South Korea,2023,3,1,Sat,Sun,1
+7830.0,reported,arena,9000.0,Asia,Singapore,Singapore,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",4,growing,TOMORROW X TOGETHER_Singapore,2023,4,2,Sat,Sat,1
+16042.0,reported,concert hall,,Asia,Taiwan,Taipei,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",4,growing,TOMORROW X TOGETHER_Taiwan,2023,4,2,Tue,Wed,0
+17204.0,reported,arena,16000.0,Asia,Japan,Osaka,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",4,growing,TOMORROW X TOGETHER_Japan,2023,4,2,Fri,Sat,1
+40390.0,reported,arena,22500.0,Asia,Japan,Saitama,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",4,growing,TOMORROW X TOGETHER_Japan,2023,4,2,Tue,Wed,0
+22497.0,reported,arena,17000.0,Asia,Japan,Yokohama,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",4,growing,TOMORROW X TOGETHER_Japan,2023,4,2,Tue,Wed,0
+27234.0,reported,concert hall,15000.0,Asia,Japan,Nagoya,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",4,growing,TOMORROW X TOGETHER_Japan,2023,4,2,Sat,Sun,1
+12662.0,reported,arena,18504.0,North America,United States,Charlotte,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",4,growing,TOMORROW X TOGETHER_United States,2023,5,2,Sat,Sat,1
+22506.0,reported,arena,19000.0,North America,United States,New York,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",4,growing,TOMORROW X TOGETHER_United States,2023,5,2,Tue,Wed,0
+12073.0,reported,arena,20356.0,North America,United States,Washington,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",4,growing,TOMORROW X TOGETHER_United States,2023,5,2,Tue,Tue,0
+17804.0,reported,arena,13100.0,North America,United States,Duluth,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",4,growing,TOMORROW X TOGETHER_United States,2023,5,2,Fri,Sat,1
+24456.0,reported,arena,19000.0,North America,United States,San Antonio,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",4,growing,TOMORROW X TOGETHER_United States,2023,5,2,Tue,Wed,0
+46757.0,reported,stadium,22000.0,North America,United States,Los Angeles,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",4,growing,TOMORROW X TOGETHER_United States,2023,5,2,Sat,Sun,1
+71757.0,reported,stadium,55000.0,Asia,Japan,Osaka,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",4,growing,TOMORROW X TOGETHER_Japan,2023,7,3,Sat,Sun,1
+7231.0,reported,arena,15000.0,Asia,Indonesia,Jakarta,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",4,growing,TOMORROW X TOGETHER_Indonesia,2023,8,3,Wed,Wed,0
+10886.0,reported,arena,55000.0,Asia,Philippines,Bulacan,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",4,growing,TOMORROW X TOGETHER_Philippines,2023,8,3,Sun,Sun,1
+25042.0,reported,stadium,16744.0,Asia,South Korea,Seoul,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",4,growing,TOMORROW X TOGETHER_South Korea,2023,12,4,Sat,Sun,1
+32125.0,reported,arena,15000.0,Asia,South Korea,Seoul,3,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",5,growing,TOMORROW X TOGETHER_South Korea,2024,5,2,Fri,Sun,1
+10691.0,reported,arena,21000.0,North America,United States,Tacoma,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",5,growing,TOMORROW X TOGETHER_United States,2024,5,2,Tue,Tue,0
+15662.0,reported,stadium,64829.0,North America,United States,Oakland,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",5,growing,TOMORROW X TOGETHER_United States,2024,5,2,Sat,Sat,1
+23849.0,reported,stadium,20000.0,North America,United States,Los Angeles,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",5,growing,TOMORROW X TOGETHER_United States,2024,5,2,Tue,Wed,0
+21734.0,reported,stadium,41168.0,North America,United States,Houston,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",5,growing,TOMORROW X TOGETHER_United States,2024,5,2,Sun,Sun,1
+10072.0,reported,arena,18000.0,North America,United States,Atlanta,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",5,growing,TOMORROW X TOGETHER_United States,2024,5,2,Wed,Wed,0
+24775.0,reported,theater,5600.0,North America,United States,New York,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",5,growing,TOMORROW X TOGETHER_United States,2024,6,2,Sat,Sun,1
+21446.0,reported,arena,22000.0,North America,United States,Rosemont,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",5,growing,TOMORROW X TOGETHER_United States,2024,6,2,Wed,Thu,0
+13169.0,reported,arena,20356.0,North America,United States,Washington,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",5,growing,TOMORROW X TOGETHER_United States,2024,6,2,Sat,Sat,1
+71611.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",5,growing,TOMORROW X TOGETHER_Japan,2024,7,3,Wed,Thu,0
+53645.0,reported,stadium,55000.0,Asia,Japan,Osaka,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",5,growing,TOMORROW X TOGETHER_Japan,2024,7,3,Sat,Sun,1
+46054.0,reported,stadium,36418.0,Asia,Japan,Nagoya,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",5,growing,TOMORROW X TOGETHER_Japan,2024,8,3,Sun,Mon,1
+21293.0,reported,arena,16000.0,Asia,Macau,Macau,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",5,growing,TOMORROW X TOGETHER_Macau,2024,8,3,Fri,Sat,1
+8183.0,reported,arena,9000.0,Asia,Singapore,Singapore,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",5,growing,TOMORROW X TOGETHER_Singapore,2024,9,3,Sat,Sat,1
+54074.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",5,growing,TOMORROW X TOGETHER_Japan,2024,9,3,Sat,Sun,1
+4593.0,reported,concert hall,,Asia,Indonesia,Tangerang,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",5,growing,TOMORROW X TOGETHER_Indonesia,2024,10,4,Wed,Wed,0
+18160.0,reported,arena,15000.0,Asia,Taiwan,Taoyuan,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",5,growing,TOMORROW X TOGETHER_Taiwan,2024,10,4,Sat,Sun,1
+31582.0,reported,arena,15000.0,Asia,South Korea,Seoul,3,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",5,growing,TOMORROW X TOGETHER_South Korea,2024,11,4,Fri,Sun,1
+73748.0,reported,stadium,55000.0,Asia,Japan,Osaka,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",5,growing,TOMORROW X TOGETHER_Japan,2024,11,4,Sat,Sun,1
+24625.0,reported,arena,15000.0,Asia,South Korea,Incheon,3,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_South Korea,2025,3,1,Fri,Sun,1
+36000.0,reported,arena,20000.0,Asia,Japan,Yokohama,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_Japan,2025,3,1,Wed,Thu,0
+10453.0,reported,arena,17960.0,Europe,Spain,Barcelona,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_Spain,2025,3,1,Thu,Thu,0
+15581.0,reported,arena,20000.0,Europe,England,London,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_England,2025,3,1,Tue,Tue,0
+11951.0,reported,arena,17000.0,Europe,Germany,Berlin,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_Germany,2025,3,1,Thu,Thu,0
+14153.0,reported,arena,20300.0,Europe,France,Paris,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_France,2025,3,1,Sun,Sun,1
+13055.0,reported,arena,17000.0,Europe,Netherlands,Amsterdam,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_Netherlands,2025,4,2,Tue,Tue,0
+14546.0,reported,arena,,Asia,Japan,Kagawa,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_Japan,2025,4,2,Sat,Sun,1
+16992.0,reported,concert hall,10000.0,Asia,Japan,Nagoya,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_Japan,2025,4,2,Fri,Sat,1
+26250.0,reported,arena,15000.0,Asia,Japan,Fukuoka,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_Japan,2025,4,2,Tue,Wed,0
+31365.0,reported,arena,16000.0,Asia,Macau,Macau,3,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_Macau,2025,5,2,Fri,Sun,1
+15246.0,reported,arena,16000.0,Asia,Japan,Osaka,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_Japan,2025,5,2,Sat,Sun,1
+22848.0,reported,arena,15000.0,Asia,Japan,Tokyo,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_Japan,2025,5,2,Sat,Sun,1
+30599.0,reported,stadium,16744.0,Asia,South Korea,Seoul,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_South Korea,2025,8,3,Fri,Sat,1
+10119.0,reported,arena,19190.0,North America,United States,San Jose,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_United States,2025,9,3,Tue,Tue,0
+16987.0,reported,stadium,22000.0,North America,United States,Los Angeles,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_United States,2025,9,3,Fri,Fri,1
+10193.0,reported,arena,21000.0,North America,United States,Dallas,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_United States,2025,9,3,Tue,Tue,0
+16466.0,reported,arena,22000.0,North America,United States,Rosemont,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_United States,2025,9,3,Sun,Mon,1
+9753.0,reported,arena,18000.0,North America,United States,Atlanta,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_United States,2025,9,3,Thu,Thu,0
+10018.0,reported,arena,20356.0,North America,United States,Washington,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_United States,2025,9,3,Sun,Sun,1
+18656.0,reported,arena,17000.0,North America,United States,Newark,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_United States,2025,10,4,Wed,Thu,0
+59061.0,reported,stadium,31552.0,Asia,Japan,Saitama,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_Japan,2025,11,4,Sat,Sun,1
+66209.0,reported,stadium,36418.0,Asia,Japan,Nagoya,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_Japan,2025,12,4,Sat,Sun,1
+49062.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_Japan,2025,12,4,Sat,Sun,1
+,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,3,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_Hong Kong,2026,1,1,Fri,Sun,1
+,reported,arena,9000.0,Asia,Singapore,Singapore,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_Singapore,2026,1,1,Sat,Sun,1
+,reported,stadium,55000.0,Asia,Japan,Tokyo,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_Japan,2026,1,1,Wed,Thu,0
+,reported,stadium,59833.0,Asia,Taiwan,Taipei,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_Taiwan,2026,1,1,Sat,Sun,1
+,reported,stadium,55000.0,Asia,Japan,Osaka,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_Japan,2026,2,1,Sat,Sun,1
+,reported,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established,TOMORROW X TOGETHER_Malaysia,2026,2,1,Sat,Sat,1

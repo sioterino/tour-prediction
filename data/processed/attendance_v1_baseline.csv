@@ -1,0 +1,1170 @@
+attendance,reporting_status,venue_type,venue_capacity,continent,country,city,show_nights
+7493.0,parcial,arena,11069.0,Asia,South Korea,Seoul,2
+,unreported,arena,16000.0,Asia,Japan,Osaka,4
+,unreported,arena,12898.0,Asia,Japan,Tokyo,2
+,unreported,arena,22500.0,Asia,Japan,Saitama,2
+,unreported,arena,10000.0,Asia,Japan,Nagoya,2
+,unreported,concert hall,,Asia,Indonesia,Tangerang,1
+,unreported,concert hall,3500.0,Asia,Thailand,Bangkok,2
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,2
+9452.0,reported,stadium,20000.0,North America,United States,Los Angeles,1
+,unreported,theater,4000.0,North America,United States,Irving,1
+,unreported,theater,4605.0,North America,United States,Miami,1
+3593.0,reported,theater,4665.0,North America,United States,Atlanta,1
+2900.0,reported,theater,,North America,United States,Oxon Hill,1
+3948.0,reported,theater,4400.0,North America,United States,Rosemont,1
+4061.0,reported,concert hall,5007.0,North America,United States,Boston,1
+6654.0,reported,arena,20000.0,North America,United States,New York,1
+8550.0,reported,arena,26000.0,North America,Mexico,Mexico City,1
+,unreported,concert hall,8000.0,South America,Brazil,São Paulo,1
+4151.0,reported,theater,4500.0,South America,Chile,Santiago,1
+,unreported,concert hall,4900.0,Europe,Germany,Berlin,1
+,unreported,arena,20000.0,Europe,England,London,1
+,unreported,concert hall,4600.0,Europe,France,Paris,1
+12600.0,reported,arena,11069.0,Asia,South Korea,Seoul,2
+10293.0,reported,arena,15000.0,Asia,Japan,Fukuoka,1
+15997.0,reported,concert hall,10000.0,Asia,Japan,Nagoya,2
+38281.0,reported,arena,22500.0,Asia,Japan,Saitama,2
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1
+25872.0,reported,arena,16000.0,Asia,Japan,Osaka,2
+12155.0,reported,arena,15000.0,Asia,Japan,Fukuoka,2
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2
+,unreported,arena,15000.0,Asia,Taiwan,Taoyuan,3
+93639.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2
+,unreported,arena,15000.0,Asia,Indonesia,Jakarta,1
+20053.0,reported,arena,18000.0,Oceania,Australia,Sydney,2
+10783.0,reported,arena,14820.0,Oceania,Australia,Melbourne,1
+,unreported,concert hall,,Asia,Macau,Macau,2
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,2
+5134.0,reported,arena,7141.0,North America,United States,Kent,1
+11975.0,reported,arena,19596.0,North America,United States,Oakland,1
+12170.0,reported,arena,17500.0,North America,United States,Inglewood,1
+10287.0,reported,arena,26000.0,North America,Mexico,Mexico City,1
+10784.0,reported,arena,17030.0,North America,United States,Orlando,1
+11384.0,reported,arena,18504.0,North America,United States,Charlotte,1
+11504.0,reported,arena,17000.0,North America,United States,Newark,1
+10755.0,reported,arena,19800.0,North America,Canada,Toronto,1
+13077.0,reported,arena,23500.0,North America,United States,Chicago,1
+9192.0,reported,arena,12500.0,Europe,England,London,1
+,unreported,arena,9000.0,Europe,France,Paris,1
+4000.0,reported,concert hall,6000.0,Europe,Netherlands,Amsterdam,1
+3045.0,reported,concert hall,4800.0,Europe,Germany,Frankfurt,1
+8100.0,reported,arena,15000.0,Europe,Spain,Madrid,1
+19855.0,parcial,arena,15000.0,Asia,South Korea,Seoul,2
+29092.0,parcial,arena,15000.0,Asia,South Korea,Seoul,3
+,unreported,arena,15000.0,Asia,Japan,Fukuoka,2
+,unreported,arena,15000.0,Asia,Japan,Tokyo,3
+,unreported,arena,17000.0,Asia,Japan,Nagoya,2
+,unreported,arena,12898.0,Asia,Japan,Tokyo,2
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,2
+,unreported,arena,16000.0,Asia,Japan,Osaka,2
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2
+,unreported,arena,16000.0,Asia,Macau,Macau,2
+,unreported,concert hall,,Asia,Indonesia,Tangerang,1
+,unreported,stadium,55000.0,Asia,Japan,Osaka,2
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,2
+,unreported,stadium,16744.0,Asia,South Korea,Seoul,2
+,unreported,stadium,59833.0,Asia,Taiwan,Taipei,1
+,unreported,stadium,40000.0,South America,Brazil,São Paulo,1
+,unreported,arena,15500.0,South America,Chile,Santiago,1
+,unreported,concert hall,30000.0,South America,Peru,Lima,1
+,unreported,arena,26000.0,North America,Mexico,Mexico City,1
+,unreported,arena,18000.0,North America,Canada,Hamilton,1
+5494.0,parcial,arena,19000.0,North America,United States,New York,1
+5060.0,parcial,arena,20356.0,North America,United States,Washington,1
+5806.0,parcial,arena,18000.0,North America,United States,Atlanta,1
+6767.0,parcial,arena,20000.0,North America,United States,Miami,1
+7430.0,unreported,arena,21000.0,North America,United States,Dallas,1
+9187.0,unreported,arena,18300.0,North America,United States,Inglewood,1
+,unreported,arena,19596.0,North America,United States,Oakland,1
+,unreported,arena,17200.0,North America,United States,Seattle,1
+,unreported,arena,19000.0,North America,Canada,Vancouver,1
+,unreported,arena,21000.0,Europe,England,Manchester,1
+,unreported,arena,20000.0,Europe,England,London,1
+,unreported,arena,17000.0,Europe,Netherlands,Amsterdam,1
+,unreported,arena,16000.0,Europe,Sweden,Stockholm,1
+,unreported,arena,17000.0,Europe,Denmark,Copenhagen,1
+,unreported,arena,17000.0,Europe,Germany,Berlin,1
+,unreported,arena,16000.0,Europe,Italy,Milan,1
+,unreported,arena,17960.0,Europe,Spain,Barcelona,1
+,unreported,arena,20300.0,Europe,France,Paris,1
+16706.0,parcial,arena,15000.0,Asia,South Korea,Seoul,2
+,unreported,arena,17000.0,North America,United States,Newark,1
+,unreported,arena,17500.0,North America,United States,Inglewood,1
+24918.0,reported,arena,12141.0,Asia,Japan,Yokohama,3
+,unreported,concert hall,15000.0,Asia,Japan,Nagoya,2
+,unreported,arena,16000.0,Asia,Japan,Osaka,2
+40936.0,reported,arena,20000.0,Asia,Japan,Yokohama,3
+,unreported,arena,10000.0,Asia,Japan,Fukuoka,2
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2
+,unreported,concert hall,2000.0,Asia,Vietnam,Ho Chi Minh City,1
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,2
+,unreported,concert hall,,Asia,Indonesia,Tangerang,1
+,unreported,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1
+,unreported,arena,15000.0,Asia,Taiwan,Taoyuan,2
+,unreported,arena,19800.0,North America,Canada,Toronto,1
+3636.0,reported,arena,22000.0,North America,United States,Rosemont,1
+5083.0,reported,arena,18000.0,North America,United States,Atlanta,1
+5886.0,reported,arena,14000.0,North America,United States,Fort Worth,1
+6336.0,reported,arena,19596.0,North America,United States,Oakland,1
+7085.0,reported,arena,17200.0,North America,United States,Seattle,1
+21125.0,reported,stadium,65599.0,Asia,South Korea,Seoul,2
+29241.0,reported,arena,12000.0,Asia,Thailand,Bangkok,3
+16260.0,reported,concert hall,,Asia,Indonesia,Tangerang,2
+9690.0,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,1
+8469.0,reported,arena,15000.0,Asia,Philippines,Pasay,1
+8076.0,reported,arena,9000.0,Asia,Singapore,Singapore,1
+15504.0,reported,arena,13000.0,Asia,Malaysia,Kuala Lumpur,2
+8774.0,reported,arena,15000.0,Asia,Taiwan,Taoyuan,1
+12245.0,reported,arena,17500.0,North America,United States,Inglewood,1
+11417.0,reported,arena,22000.0,North America,United States,Rosemont,1
+10704.0,reported,arena,18000.0,North America,Canada,Hamilton,1
+22944.0,reported,arena,17000.0,North America,United States,Newark,2
+9180.0,reported,arena,13100.0,North America,United States,Duluth,1
+9107.0,reported,arena,13500.0,North America,United States,Fort Worth,1
+,unreported,arena,13500.0,North America,United States,Fort Worth,1
+5272.0,reported,concert hall,6000.0,Europe,Netherlands,Amsterdam,1
+5424.0,reported,arena,21000.0,Europe,England,Manchester,1
+9968.0,reported,arena,12500.0,Europe,England,London,1
+7722.0,reported,arena,12000.0,Europe,Germany,Berlin,1
+6224.0,reported,arena,9000.0,Europe,France,Paris,1
+8344.0,reported,arena,17960.0,Europe,Spain,Barcelona,1
+10081.0,reported,arena,14000.0,Asia,Macau,Macau,1
+12173.0,reported,arena,14820.0,Oceania,Australia,Melbourne,1
+14317.0,reported,arena,18000.0,Oceania,Australia,Sydney,1
+28776.0,reported,arena,12000.0,Asia,Thailand,Bangkok,3
+50369.0,reported,stadium,55000.0,Asia,Japan,Tokyo,1
+81931.0,reported,stadium,55000.0,Asia,Japan,Osaka,2
+38846.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,1
+20060.0,reported,arena,15000.0,Asia,South Korea,Seoul,2
+23528.0,reported,arena,21000.0,North America,United States,Dallas,2
+23480.0,reported,arena,19000.0,North America,United States,Houston,2
+23434.0,reported,arena,18000.0,North America,United States,Atlanta,2
+23990.0,reported,arena,18000.0,North America,Canada,Hamilton,2
+25582.0,reported,arena,23500.0,North America,United States,Chicago,2
+23928.0,reported,arena,17000.0,North America,United States,Newark,2
+46295.0,reported,stadium,22000.0,North America,United States,Los Angeles,2
+35440.0,reported,arena,20000.0,Europe,England,London,2
+17208.0,reported,arena,17960.0,Europe,Spain,Barcelona,1
+15899.0,reported,arena,20000.0,Europe,Germany,Cologne,1
+30731.0,reported,arena,20300.0,Europe,France,Paris,2
+15525.0,reported,arena,17000.0,Europe,Denmark,Copenhagen,1
+26638.0,reported,arena,17000.0,Europe,Germany,Berlin,2
+14641.0,reported,arena,17000.0,Europe,Netherlands,Amsterdam,1
+66211.0,reported,stadium,35000.0,Asia,Thailand,Bangkok,2
+32312.0,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,3
+26578.0,reported,concert hall,,Middle East,Saudi Arabia,Riyadh,1
+22209.0,reported,amphitheater,40000.0,Middle East,United Arab Emirates,Abu Dhabi,1
+62642.0,reported,stadium,90000.0,Asia,Malaysia,Kuala Lumpur,1
+113740.0,reported,stadium,77193.0,Asia,Indonesia,Jakarta,2
+101096.0,reported,stadium,55000.0,Asia,Taiwan,Kaohsiung,2
+92720.0,reported,arena,55000.0,Asia,Philippines,Bulacan,2
+100809.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2
+113498.0,reported,stadium,65000.0,North America,Mexico,Mexico City,2
+97977.0,reported,stadium,55000.0,Asia,Singapore,Singapore,2
+23267.0,reported,arena,16000.0,Asia,Macau,Macau,2
+81108.0,reported,stadium,51560.0,Asia,Thailand,Bangkok,2
+81996.0,reported,stadium,55000.0,Asia,Japan,Osaka,2
+23145.0,reported,arena,14820.0,Oceania,Australia,Melbourne,2
+25926.0,reported,arena,18000.0,Oceania,Australia,Sydney,2
+,unreported,,,Oceania,New Zealand,Auckland,1
+52781.0,reported,stadium,81338.0,Europe,France,Paris,1
+67443.0,reported,stadium,50000.0,Asia,Vietnam,Hanoi,2
+96570.0,reported,stadium,82500.0,North America,United States,East Rutherford,2
+44171.0,reported,stadium,65000.0,North America,United States,Las Vegas,1
+38390.0,reported,stadium,45000.0,North America,United States,San Francisco,1
+48824.0,reported,stadium,56000.0,North America,United States,Los Angeles,1
+35391.0,reported,stadium,16744.0,Asia,South Korea,Seoul,2
+75340.0,parcial,stadium,41311.0,Asia,South Korea,Goyang,2
+89981.0,parcial,stadium,70240.0,North America,United States,Inglewood,2
+48915.0,parcial,stadium,62500.0,North America,United States,Chicago,1
+,unreported,stadium,50000.0,North America,Canada,Toronto,2
+73608.0,parcial,stadium,41922.0,North America,United States,New York,2
+,unreported,stadium,81338.0,Europe,France,Paris,2
+,unreported,stadium,80000.0,Europe,Italy,Milan,1
+,unreported,stadium,55926.0,Europe,Spain,Barcelona,1
+,unreported,stadium,90000.0,Europe,England,London,2
+,unreported,stadium,55000.0,Asia,Taiwan,Kaohsiung,2
+,unreported,stadium,51560.0,Asia,Thailand,Bangkok,3
+,unreported,stadium,77193.0,Asia,Indonesia,Jakarta,2
+,unreported,arena,55000.0,Asia,Philippines,Bulacan,2
+,unreported,stadium,55000.0,Asia,Singapore,Singapore,3
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,3
+,unreported,stadium,45995.0,Asia,Hong Kong,Hong Kong,3
+9869.0,missing,arena,11069.0,Asia,South Korea,Seoul,2
+,unreported,stadium,13000.0,Asia,Taiwan,Taipei,2
+,unreported,concert hall,3500.0,Asia,Thailand,Bangkok,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2
+5244.0,reported,arena,8500.0,North America,United States,San Francisco,1
+6360.0,reported,arena,7100.0,North America,United States,Los Angeles,1
+,unreported,concert hall,6350.0,North America,United States,Grand Prairie,1
+5175.0,reported,theater,5600.0,North America,United States,New York,1
+2732.0,unreported,theater,4665.0,North America,United States,Atlanta,1
+4292.0,reported,theater,4400.0,North America,United States,Rosemont,1
+9438.0,unreported,arena,12500.0,Europe,England,London,1
+,unreported,concert hall,6000.0,Europe,Netherlands,Amsterdam,1
+,unreported,arena,9000.0,Europe,France,Paris,1
+8232.0,reported,arena,8400.0,Europe,Belgium,Brussels,1
+,unreported,concert hall,4500.0,Europe,Germany,Berlin,2
+,unreported,concert hall,2448.0,Asia,Japan,Tokyo,2
+,unreported,arena,16000.0,Asia,Macau,Macau,2
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1
+15425.0,parcial,arena,15000.0,Asia,South Korea,Seoul,2
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,3
+5322.0,parcial,arena,21000.0,North America,United States,Tacoma,1
+,unreported,arena,19596.0,North America,United States,Oakland,1
+7177.0,parcial,theater,10935.0,North America,United States,Anaheim,1
+,unreported,arena,19000.0,North America,United States,Houston,1
+7027.0,parcial,arena,22000.0,North America,United States,Rosemont,1
+5475.0,parcial,arena,19000.0,North America,United States,New York,1
+,unreported,stadium,13000.0,Asia,Taiwan,Taipei,3
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,1
+,unreported,arena,16000.0,Asia,Macau,Macau,3
+,unreported,arena,14820.0,Oceania,Australia,Melbourne,1
+,unreported,arena,18000.0,Oceania,Australia,Sydney,1
+,unreported,arena,15000.0,Asia,Japan,Tokyo,2
+5266.0,parcial,arena,6500.0,Asia,South Korea,Seoul,2
+,unreported,theater,6000.0,North America,United States,Inglewood,1
+,unreported,theater,5000.0,North America,United States,Phoenix,1
+,unreported,theater,4000.0,North America,United States,Irving,1
+,unreported,concert hall,6400.0,North America,United States,Sugar Land,1
+,unreported,theater,4665.0,North America,United States,Atlanta,1
+,unreported,theater,4400.0,North America,United States,Rosemont,1
+,unreported,concert hall,5007.0,North America,United States,Boston,1
+,unreported,theater,5600.0,North America,United States,New York,1
+,unreported,arena,15000.0,Asia,Philippines,Pasay,2
+,unreported,concert hall,5000.0,Asia,Singapore,Singapore,1
+,unreported,arena,3750.0,Asia,Indonesia,Jakarta,1
+,unreported,arena,,Asia,Japan,Chiba,2
+,unreported,arena,15000.0,Asia,Taiwan,Taoyuan,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2
+,unreported,concert hall,3500.0,Asia,Thailand,Bangkok,1
+7406.0,missing,arena,11069.0,Asia,South Korea,Seoul,2
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,1
+5108.0,reported,arena,13280.0,Oceania,New Zealand,Auckland,1
+,unreported,concert hall,2500.0,Oceania,Australia,Sydney,1
+,unreported,arena,7500.0,Oceania,Australia,Melbourne,1
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1
+5639.0,reported,theater,7500.0,North America,Mexico,Mexico City,1
+13101.0,reported,arena,15500.0,South America,Chile,Santiago,1
+,unreported,arena,12500.0,Europe,England,London,1
+,unreported,arena,9000.0,Europe,France,Paris,1
+,unreported,arena,12000.0,Europe,Germany,Berlin,1
+,unreported,concert hall,6000.0,Europe,Netherlands,Amsterdam,1
+,unreported,arena,14000.0,Europe,Spain,Madrid,1
+,unreported,arena,12898.0,Asia,Japan,Tokyo,3
+,unreported,arena,16000.0,Asia,Japan,Osaka,1
+,unreported,concert hall,7000.0,North America,United States,Seattle,1
+,unreported,arena,19596.0,North America,United States,Oakland,1
+,unreported,arena,17500.0,North America,United States,Inglewood,1
+,unreported,concert hall,6400.0,North America,United States,Sugar Land,1
+,unreported,theater,4000.0,North America,United States,Irving,1
+4098.0,reported,theater,4665.0,North America,United States,Atlanta,1
+6688.0,reported,arena,15000.0,North America,United States,Fairfax,1
+8040.0,reported,arena,17000.0,North America,United States,Newark,1
+,unreported,theater,4400.0,North America,United States,Rosemont,1
+,unreported,concert hall,,North America,Canada,Toronto,2
+,unreported,stadium,13000.0,Asia,Taiwan,Taipei,1
+,unreported,arena,15000.0,Asia,Philippines,Pasay,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,1
+12334.0,parcial,arena,11069.0,Asia,South Korea,Seoul,3
+,unreported,arena,10300.0,Oceania,Australia,Melbourne,1
+,unreported,concert hall,2500.0,Oceania,Australia,Sydney,1
+,unreported,arena,13280.0,Oceania,New Zealand,Auckland,1
+,unreported,arena,10000.0,Asia,Japan,Tokyo,2
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,1
+,unreported,arena,15000.0,Asia,Taiwan,Kaohsiung,1
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,1
+,unreported,arena,15000.0,Asia,Philippines,Pasay,1
+9989.0,reported,arena,11069.0,Asia,South Korea,Seoul,2
+24387.0,reported,arena,20000.0,Asia,Japan,Yokohama,2
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,1
+18851.0,reported,arena,15000.0,Asia,Japan,Fukuoka,2
+20748.0,reported,arena,16000.0,Asia,Japan,Osaka,2
+,unreported,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1
+,unreported,arena,15000.0,Asia,Taiwan,Taoyuan,2
+,unreported,arena,17500.0,North America,United States,Inglewood,1
+12063.0,reported,arena,19596.0,North America,United States,Oakland,1
+7320.0,reported,arena,14000.0,North America,United States,Fort Worth,1
+7154.0,reported,arena,18000.0,North America,United States,Atlanta,1
+7438.0,reported,arena,22000.0,North America,United States,Rosemont,1
+11617.0,reported,arena,17000.0,North America,United States,Newark,1
+,unreported,arena,20300.0,Europe,France,Paris,1
+,unreported,arena,17960.0,Europe,Spain,Barcelona,1
+,unreported,arena,17000.0,Europe,Germany,Berlin,1
+,unreported,arena,17000.0,Europe,Netherlands,Amsterdam,1
+,unreported,arena,20000.0,Europe,England,London,1
+,unreported,arena,26000.0,North America,Mexico,Mexico City,1
+,unreported,concert hall,8000.0,South America,Brazil,São Paulo,1
+6414.0,reported,arena,15500.0,South America,Chile,Santiago,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2
+,unreported,arena,15000.0,Asia,Philippines,Pasay,1
+,unreported,arena,14820.0,Oceania,Australia,Melbourne,1
+12181.0,reported,arena,18000.0,Oceania,Australia,Sydney,1
+16776.0,parcial,arena,15000.0,Asia,South Korea,Seoul,2
+,unreported,concert hall,,Asia,Indonesia,Tangerang,1
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,2
+28543.0,parcial,arena,15000.0,Asia,South Korea,Seoul,3
+,unreported,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1
+,unreported,stadium,55000.0,Asia,Japan,Osaka,2
+,unreported,arena,15000.0,Asia,Philippines,Pasay,1
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1
+,unreported,arena,14000.0,Asia,Macau,Macau,2
+,unreported,arena,18000.0,Oceania,Australia,Sydney,1
+,unreported,arena,14820.0,Oceania,Australia,Melbourne,1
+,unreported,arena,13280.0,Oceania,New Zealand,Auckland,1
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,1
+8237.0,parcial,arena,19800.0,North America,Canada,Toronto,1
+9373.0,parcial,arena,15000.0,North America,Canada,Montreal,1
+7348.0,parcial,arena,17000.0,North America,United States,Newark,1
+4456.0,parcial,arena,16223.0,North America,United States,Austin,1
+7745.0,parcial,arena,17500.0,North America,United States,Inglewood,1
+6645.0,parcial,arena,19596.0,North America,United States,Oakland,1
+8055.0,parcial,arena,17200.0,North America,United States,Seattle,1
+8434.0,parcial,arena,19000.0,North America,Canada,Vancouver,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2
+,unreported,stadium,13000.0,Asia,Taiwan,Taipei,2
+10503.0,reported,arena,11069.0,Asia,South Korea,Seoul,2
+17009.0,reported,arena,10000.0,Asia,Japan,Nagoya,2
+24348.0,reported,arena,12898.0,Asia,Japan,Tokyo,2
+20056.0,reported,arena,16000.0,Asia,Japan,Osaka,2
+11200.0,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,2
+2625.0,reported,theater,2500.0,Asia,Indonesia,Jakarta,1
+,unreported,concert hall,3500.0,Asia,Thailand,Bangkok,2
+8507.0,reported,arena,15000.0,Asia,South Korea,Incheon,2
+14161.0,reported,concert hall,15000.0,Asia,Japan,Nagoya,2
+16340.0,reported,arena,16000.0,Asia,Japan,Osaka,2
+16722.0,reported,concert hall,,Asia,Japan,Fukuoka,2
+52947.0,reported,arena,22500.0,Asia,Japan,Saitama,3
+18333.0,reported,arena,15000.0,Asia,Taiwan,Taoyuan,2
+19584.0,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,2
+9043.0,reported,arena,15000.0,Asia,Philippines,Pasay,1
+8696.0,reported,concert hall,3500.0,Asia,Thailand,Bangkok,2
+6717.0,reported,arena,9000.0,Asia,Singapore,Singapore,1
+10178.0,reported,arena,17000.0,North America,United States,Newark,1
+5798.0,reported,arena,10387.0,North America,United States,Chicago,1
+3469.0,reported,concert hall,6350.0,North America,United States,Grand Prairie,1
+11385.0,reported,arena,17500.0,North America,United States,Inglewood,1
+4701.0,reported,arena,8500.0,North America,United States,San Francisco,1
+12335.0,reported,arena,17200.0,North America,United States,Seattle,1
+7540.0,reported,arena,12000.0,North America,United States,Las Vegas,1
+13189.0,reported,arena,22300.0,North America,Mexico,Mexico City,1
+73236.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2
+10474.0,reported,arena,11069.0,Asia,South Korea,Seoul,2
+,unreported,arena,15000.0,Asia,South Korea,Incheon,2
+,unreported,arena,16000.0,Asia,Japan,Osaka,2
+,unreported,arena,17000.0,Asia,Japan,Yokohama,3
+,unreported,arena,10000.0,Asia,Japan,Shizuoka,2
+,unreported,arena,7063.0,Asia,Japan,Miyagi,2
+,unreported,arena,15000.0,Asia,Japan,Fukuoka,2
+,unreported,stadium,20000.0,North America,United States,Los Angeles,1
+,unreported,arena,21000.0,North America,United States,Tacoma,1
+,unreported,arena,19190.0,North America,United States,San Jose,1
+,unreported,arena,12565.0,North America,United States,Phoenix,1
+,unreported,arena,14000.0,North America,United States,Fort Worth,1
+,unreported,arena,17030.0,North America,United States,Orlando,1
+,unreported,arena,23500.0,North America,United States,Chicago,1
+,unreported,arena,20356.0,North America,United States,Washington,1
+,unreported,arena,17000.0,North America,United States,Newark,1
+,unreported,arena,20000.0,Europe,England,London,1
+,unreported,arena,17000.0,Europe,Netherlands,Amsterdam,1
+,unreported,arena,20300.0,Europe,France,Paris,1
+,unreported,arena,17000.0,Europe,Denmark,Copenhagen,1
+,unreported,arena,17000.0,Europe,Germany,Berlin,1
+,unreported,arena,15000.0,Asia,Taiwan,Taoyuan,2
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1
+,unreported,arena,15000.0,Asia,Philippines,Pasay,2
+67865.0,reported,stadium,31552.0,Asia,Japan,Saitama,2
+79230.0,reported,stadium,55000.0,Asia,Japan,Osaka,2
+98449.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2
+11574.0,parcial,arena,15000.0,Asia,South Korea,Incheon,2
+,unreported,arena,14000.0,Europe,Spain,Madrid,1
+,unreported,concert hall,6000.0,Europe,Netherlands,Amsterdam,1
+,unreported,concert hall,2000.0,Europe,France,Paris,1
+,unreported,concert hall,4800.0,Europe,Germany,Frankfurt,1
+,unreported,concert hall,5039.0,Europe,England,London,1
+,unreported,concert hall,,North America,Canada,Toronto,1
+,unreported,theater,2700.0,North America,United States,New York,1
+2808.0,parcial,theater,,North America,United States,Oxon Hill,1
+3738.0,parcial,theater,4000.0,North America,United States,Irving,1
+3040.0,parcial,concert hall,3040.0,North America,United States,Oakland,1
+5428.0,parcial,theater,6000.0,North America,United States,Inglewood,1
+,unreported,arena,6000.0,Asia,Thailand,Bangkok,1
+,unreported,concert hall,5000.0,Asia,Singapore,Singapore,1
+,unreported,arena,15000.0,Asia,Taiwan,Kaohsiung,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,1
+,unreported,arena,10000.0,Asia,Japan,Tokyo,2
+23622.0,reported,arena,15000.0,Asia,South Korea,Seoul,2
+8044.0,reported,arena,12000.0,Asia,Thailand,Bangkok,1
+8594.0,reported,arena,15000.0,Asia,Philippines,Pasay,1
+8514.0,reported,arena,9000.0,Asia,Singapore,Singapore,1
+11827.0,reported,arena,17500.0,North America,United States,Inglewood,1
+7942.0,reported,arena,26000.0,North America,Mexico,Mexico City,1
+10297.0,reported,arena,17000.0,North America,United States,Newark,1
+5911.0,reported,arena,10387.0,North America,United States,Chicago,1
+8113.0,reported,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1
+8753.0,reported,arena,10024.0,Asia,Japan,Sapporo,1
+42158.0,reported,arena,,Asia,Japan,Chiba,3
+23860.0,reported,arena,16000.0,Asia,Japan,Osaka,2
+12866.0,reported,arena,7063.0,Asia,Japan,Miyagi,2
+18000.0,reported,concert hall,15000.0,Asia,Japan,Nagoya,3
+23646.0,reported,arena,15000.0,Asia,Japan,Fukuoka,2
+20000.0,reported,arena,10000.0,Asia,Japan,Shizuoka,2
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,2
+,unreported,stadium,55000.0,Asia,Japan,Osaka,2
+,unreported,arena,15000.0,Asia,South Korea,Seoul,1
+8874.0,reported,arena,15000.0,Asia,South Korea,Seoul,2
+25507.0,reported,arena,17500.0,North America,United States,Inglewood,2
+12891.0,reported,arena,19596.0,North America,United States,Oakland,1
+10357.0,reported,arena,14000.0,North America,United States,Fort Worth,1
+11596.0,reported,arena,18000.0,North America,United States,Atlanta,1
+26768.0,reported,arena,19000.0,North America,United States,New York,2
+146961.0,reported,stadium,55000.0,Asia,Japan,Tokyo,3
+46710.0,reported,stadium,22000.0,North America,United States,Los Angeles,2
+24178.0,reported,arena,12898.0,Asia,Japan,Tokyo,2
+34704.0,reported,arena,16000.0,Asia,Japan,Osaka,3
+16329.0,reported,arena,15000.0,Asia,South Korea,Seoul,2
+22919.0,reported,arena,18000.0,Oceania,Australia,Sydney,2
+22581.0,reported,arena,14820.0,Oceania,Australia,Melbourne,2
+102239.0,reported,stadium,47853.0,Asia,Japan,Osaka,2
+108131.0,reported,stadium,49970.0,Asia,Japan,Tokyo,2
+48345.0,reported,stadium,70240.0,North America,United States,Inglewood,1
+23703.0,reported,arena,19596.0,North America,United States,Oakland,2
+18023.0,reported,arena,21000.0,North America,United States,Tacoma,1
+24925.0,reported,stadium,40300.0,North America,United States,Arlington,1
+19605.0,reported,arena,19000.0,North America,United States,Houston,2
+22263.0,reported,arena,23500.0,North America,United States,Chicago,2
+27648.0,reported,arena,19800.0,North America,Canada,Toronto,2
+47907.0,reported,stadium,82500.0,North America,United States,East Rutherford,1
+28568.0,reported,stadium,41108.0,North America,United States,Atlanta,1
+18258.0,reported,arena,9000.0,Asia,Singapore,Singapore,2
+28148.0,reported,arena,20000.0,Europe,England,London,2
+13523.0,reported,arena,20300.0,Europe,France,Paris,1
+22099.0,reported,arena,17000.0,Europe,Germany,Berlin,2
+21123.0,reported,arena,12000.0,Asia,Thailand,Bangkok,2
+86930.0,reported,arena,55000.0,Asia,Philippines,Bulacan,2
+24636.0,reported,stadium,56347.0,Oceania,Australia,Melbourne,1
+76543.0,reported,stadium,36418.0,Asia,Japan,Nagoya,2
+21964.0,reported,arena,82000.0,Asia,Indonesia,Jakarta,1
+81709.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,2
+114049.0,reported,stadium,65000.0,North America,Mexico,Mexico City,2
+65984.0,reported,stadium,55000.0,South America,Brazil,São Paulo,2
+39880.0,reported,stadium,65000.0,North America,United States,Las Vegas,1
+102093.0,reported,stadium,47853.0,Asia,Japan,Osaka,2
+112289.0,reported,stadium,49970.0,Asia,Japan,Tokyo,2
+137866.0,reported,stadium,72327.0,Asia,Japan,Yokohama,2
+24422.0,reported,arena,15000.0,Asia,South Korea,Incheon,2
+94657.0,reported,stadium,55000.0,Asia,Japan,Osaka,2
+96391.0,reported,stadium,36418.0,Asia,Japan,Nagoya,2
+90795.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,2
+107584.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2
+27390.0,reported,arena,14000.0,Asia,Macau,Macau,2
+,unreported,arena,55000.0,Asia,Philippines,Bulacan,1
+22727.0,reported,arena,9000.0,Asia,Singapore,Singapore,2
+,unreported,stadium,20000.0,Asia,Malaysia,Kuala Lumpur,1
+29572.0,reported,arena,18000.0,Oceania,Australia,Sydney,2
+27368.0,reported,arena,14820.0,Oceania,Australia,Melbourne,2
+,unreported,stadium,55000.0,Asia,Taiwan,Kaohsiung,2
+,unreported,stadium,45995.0,Asia,Hong Kong,Hong Kong,2
+25919.0,reported,arena,12000.0,Asia,Thailand,Bangkok,2
+,unreported,arena,19000.0,North America,Canada,Vancouver,2
+28096.0,reported,arena,17200.0,North America,United States,Seattle,2
+,unreported,arena,19596.0,North America,United States,Oakland,2
+,unreported,arena,17500.0,North America,United States,Inglewood,4
+14272.0,reported,arena,12565.0,North America,United States,Phoenix,1
+28797.0,reported,arena,21000.0,North America,United States,Dallas,2
+31339.0,reported,arena,20356.0,North America,United States,Washington,2
+42776.0,reported,arena,19000.0,North America,United States,New York,3
+,unreported,arena,21000.0,North America,United States,Philadelphia,1
+15084.0,reported,arena,18000.0,North America,United States,Atlanta,1
+19334.0,reported,arena,15000.0,North America,Canada,Montreal,1
+30146.0,reported,arena,18000.0,North America,Canada,Hamilton,2
+,unreported,stadium,59833.0,Asia,Taiwan,Taipei,3
+31835.0,unreported,arena,17030.0,North America,United States,Orlando,2
+16500.0,reported,arena,18504.0,North America,United States,Charlotte,1
+29310.0,reported,arena,20000.0,North America,United States,Boston,2
+,unreported,arena,23500.0,North America,United States,Chicago,2
+,unreported,arena,22000.0,North America,United States,Detroit,1
+,unreported,arena,20554.0,North America,United States,Saint Paul,1
+,unreported,arena,21000.0,North America,United States,Denver,1
+26359.0,reported,arena,16223.0,North America,United States,Austin,2
+,unreported,stadium,67750.0,Asia,Japan,Tokyo,3
+,unreported,arena,20100.0,Europe,Portugal,Lisbon,1
+,unreported,arena,17960.0,Europe,Spain,Barcelona,1
+,unreported,arena,20300.0,Europe,France,Paris,2
+,unreported,arena,15657.0,Europe,Italy,Turin,1
+,unreported,arena,17000.0,Europe,Germany,Berlin,1
+,unreported,arena,20000.0,Europe,Germany,Cologne,1
+,unreported,arena,17000.0,Europe,Netherlands,Amsterdam,2
+,unreported,arena,20000.0,Europe,England,London,2
+1729.0,reported,concert hall,,Asia,Thailand,Bangkok,1
+8100.0,reported,concert hall,15000.0,Asia,Japan,Nagoya,1
+20794.0,reported,arena,15000.0,Asia,Japan,Tokyo,2
+19222.0,reported,arena,15000.0,Asia,Japan,Fukuoka,2
+14923.0,reported,arena,11069.0,Asia,South Korea,Seoul,2
+7411.0,reported,concert hall,,Asia,Indonesia,Tangerang,1
+5589.0,reported,concert hall,,Asia,Taiwan,Taipei,1
+18301.0,reported,arena,10000.0,Asia,Japan,Kobe,2
+4402.0,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,1
+54318.0,reported,arena,22500.0,Asia,Japan,Saitama,2
+29414.0,reported,arena,19000.0,North America,United States,New York,2
+13286.0,reported,arena,17000.0,North America,United States,Newark,1
+36652.0,reported,arena,22000.0,North America,United States,Rosemont,3
+42492.0,reported,arena,17500.0,North America,United States,Inglewood,3
+27149.0,reported,arena,19596.0,North America,United States,Oakland,2
+27746.0,reported,concert hall,,Asia,Indonesia,Tangerang,3
+26809.0,reported,arena,12141.0,Asia,Japan,Yokohama,3
+36107.0,reported,arena,12000.0,Asia,Thailand,Bangkok,3
+27340.0,reported,arena,9000.0,Asia,Singapore,Singapore,3
+14715.0,reported,arena,11069.0,Asia,South Korea,Seoul,2
+38523.0,reported,arena,15000.0,Asia,South Korea,Seoul,3
+9312.0,reported,concert hall,2452.0,Asia,South Korea,Seoul,3
+9312.0,reported,arena,10387.0,North America,United States,Chicago,1
+7764.0,reported,arena,13100.0,North America,United States,Duluth,1
+11148.0,reported,arena,17000.0,North America,United States,Newark,1
+6269.0,reported,concert hall,6350.0,North America,United States,Grand Prairie,1
+19868.0,reported,arena,17500.0,North America,United States,Inglewood,2
+14052.0,reported,arena,14000.0,Europe,Spain,Madrid,2
+18633.0,reported,arena,12500.0,Europe,England,London,2
+12224.0,reported,arena,20300.0,Europe,France,Paris,1
+20843.0,reported,arena,17000.0,Europe,Germany,Berlin,2
+4904.0,reported,concert hall,6000.0,Europe,Netherlands,Amsterdam,1
+28635.0,reported,arena,12141.0,Asia,Japan,Yokohama,3
+10191.0,reported,arena,11069.0,Asia,South Korea,Seoul,2
+7940.0,reported,arena,19596.0,North America,United States,Oakland,1
+23396.0,reported,theater,10935.0,North America,United States,Anaheim,2
+9129.0,reported,arena,19000.0,North America,United States,Glendale,1
+11023.0,reported,arena,14000.0,North America,United States,Fort Worth,1
+6421.0,reported,arena,10387.0,North America,United States,Chicago,1
+21489.0,reported,arena,18000.0,North America,United States,Atlanta,2
+21559.0,reported,arena,17000.0,North America,United States,Newark,2
+10971.0,reported,arena,18000.0,North America,Canada,Hamilton,1
+28921.0,reported,arena,,Asia,Japan,Chiba,2
+11343.0,reported,arena,17000.0,Europe,Netherlands,Amsterdam,1
+,unreported,arena,17000.0,Europe,Germany,Berlin,2
+10174.0,reported,arena,15000.0,Europe,Belgium,Brussels,1
+,unreported,arena,20000.0,Europe,England,London,1
+9172.0,reported,arena,15000.0,Europe,Spain,Madrid,1
+9041.0,reported,arena,17000.0,Europe,Denmark,Copenhagen,1
+19120.0,reported,arena,20300.0,Europe,France,Paris,2
+10093.0,reported,arena,11069.0,Asia,South Korea,Seoul,2
+22271.0,reported,arena,15000.0,Asia,Japan,Tokyo,2
+12000.0,reported,arena,8000.0,Asia,Japan,Kobe,2
+,unreported,concert hall,,Asia,Taiwan,Taipei,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,1
+,unreported,concert hall,40000.0,Middle East,Saudi Arabia,Jeddah,1
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,1
+17129.0,reported,arena,22300.0,North America,Mexico,Mexico City,1
+,unreported,stadium,55000.0,South America,Brazil,São Paulo,1
+13665.0,reported,arena,15500.0,South America,Chile,Santiago,1
+,unreported,arena,7000.0,South America,Colombia,Bogotá,1
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1
+,unreported,arena,9679.0,Asia,Philippines,Manila,1
+12847.0,reported,arena,11069.0,Asia,South Korea,Seoul,2
+45200.0,reported,arena,22500.0,Asia,Japan,Saitama,2
+13661.0,reported,arena,21000.0,North America,United States,Tacoma,1
+11001.0,reported,arena,19596.0,North America,United States,Oakland,1
+38145.0,reported,stadium,22000.0,North America,United States,Los Angeles,2
+10763.0,reported,arena,12565.0,North America,United States,Phoenix,1
+27938.0,reported,stadium,40300.0,North America,United States,Arlington,1
+18865.0,reported,arena,13100.0,North America,United States,Duluth,2
+28467.0,reported,stadium,41922.0,North America,United States,New York,1
+12766.0,reported,arena,20356.0,North America,United States,Washington,1
+10322.0,reported,arena,19800.0,North America,Canada,Toronto,1
+20286.0,reported,arena,22000.0,North America,United States,Rosemont,2
+10894.0,reported,arena,16000.0,Europe,France,Lyon,1
+9514.0,reported,arena,15800.0,Europe,Italy,Milan,1
+9607.0,reported,arena,13000.0,Europe,Switzerland,Zürich,1
+22129.0,reported,arena,20000.0,Europe,England,London,2
+11836.0,reported,arena,21000.0,Europe,England,Manchester,1
+13663.0,reported,arena,17000.0,Europe,Netherlands,Amsterdam,1
+13765.0,reported,arena,17960.0,Europe,Spain,Barcelona,1
+14156.0,reported,arena,20000.0,Europe,Germany,Cologne,1
+11862.0,reported,arena,17000.0,Europe,Denmark,Copenhagen,1
+24479.0,reported,arena,17000.0,Europe,Germany,Berlin,2
+29225.0,reported,arena,45000.0,Europe,France,Paris,1
+9809.0,reported,arena,15000.0,Europe,Belgium,Brussels,1
+23280.0,reported,arena,15000.0,Asia,South Korea,Seoul,2
+,unreported,arena,15000.0,Asia,South Korea,Incheon,2
+10144.0,reported,arena,18000.0,North America,United States,Atlanta,1
+24694.0,reported,stadium,41922.0,North America,United States,New York,1
+9502.0,reported,arena,13000.0,North America,United States,Baltimore,1
+8558.0,reported,arena,20000.0,North America,United States,Nashville,1
+19877.0,reported,arena,17030.0,North America,United States,Orlando,2
+20186.0,reported,stadium,41649.0,North America,United States,Chicago,1
+12623.0,reported,arena,21000.0,North America,United States,Tacoma,1
+10591.0,reported,arena,19190.0,North America,United States,San Jose,1
+36631.0,reported,stadium,22000.0,North America,United States,Los Angeles,2
+8666.0,reported,arena,19000.0,North America,United States,Glendale,1
+29845.0,reported,stadium,40300.0,North America,United States,Arlington,1
+28134.0,reported,stadium,65000.0,North America,Mexico,Mexico City,1
+,unreported,arena,22500.0,Asia,Japan,Saitama,3
+,unreported,concert hall,15000.0,Asia,Japan,Nagoya,2
+,unreported,arena,10000.0,Asia,Japan,Kobe,2
+,unreported,arena,15000.0,Asia,Taiwan,Taoyuan,1
+,unreported,concert hall,,Asia,Indonesia,Tangerang,1
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1
+,unreported,arena,14820.0,Oceania,Australia,Melbourne,2
+,unreported,arena,18000.0,Oceania,Australia,Sydney,2
+,unreported,arena,9679.0,Asia,Philippines,Manila,1
+,unreported,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1
+,unreported,arena,14000.0,Asia,Macau,Macau,1
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,1
+11552.0,reported,arena,15000.0,Asia,South Korea,Incheon,2
+2243.0,reported,concert hall,2448.0,Asia,Japan,Tokyo,1
+2099.0,reported,concert hall,,Asia,Japan,Nagoya,1
+7458.0,reported,concert hall,,Asia,Japan,Osaka,2
+2056.0,reported,concert hall,2710.0,Asia,Japan,Sendai,1
+4384.0,reported,concert hall,2316.0,Asia,Japan,Fukuoka,2
+16479.0,reported,concert hall,6000.0,Asia,Japan,Yokohama,3
+3869.0,reported,concert hall,,Asia,Singapore,Tampines,1
+3109.0,reported,arena,9679.0,Asia,Philippines,Manila,1
+,unreported,concert hall,3500.0,Asia,Thailand,Bangkok,1
+4472.0,reported,concert hall,,Asia,Taiwan,Taipei,1
+4917.0,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,1
+3931.0,reported,arena,7166.0,Asia,Indonesia,Jakarta,1
+27000.0,reported,arena,10000.0,Asia,Japan,Tokyo,3
+31280.0,reported,arena,15000.0,Asia,South Korea,Seoul,3
+,unreported,stadium,16744.0,Asia,South Korea,Seoul,2
+,unreported,arena,15500.0,South America,Chile,Santiago,2
+15327.0,reported,theater,7000.0,South America,Brazil,São Paulo,2
+22612.0,reported,arena,17000.0,North America,United States,Newark,2
+,unreported,arena,22000.0,North America,United States,Rosemont,1
+,unreported,theater,10935.0,North America,United States,Anaheim,2
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,2
+,unreported,concert hall,,Asia,Indonesia,Tangerang,1
+,unreported,arena,15000.0,Asia,Philippines,Pasay,2
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2
+11023.0,reported,arena,18000.0,Oceania,Australia,Sydney,1
+,unreported,arena,16000.0,Asia,Japan,Osaka,3
+,unreported,arena,10000.0,Asia,Japan,Hiroshima,1
+,unreported,arena,10000.0,Asia,Japan,Nagoya,2
+,unreported,arena,22500.0,Asia,Japan,Saitama,3
+,unreported,arena,15000.0,Asia,Japan,Fukuoka,2
+,unreported,arena,10024.0,Asia,Japan,Sapporo,2
+,unreported,stadium,55000.0,Asia,Japan,Osaka,2
+,unreported,arena,15000.0,Asia,Taiwan,Taoyuan,2
+,unreported,arena,14000.0,Asia,Macau,Macau,1
+,unreported,stadium,16744.0,Asia,South Korea,Seoul,3
+85366.0,reported,stadium,65599.0,Asia,South Korea,Seoul,2
+56220.0,reported,stadium,20000.0,North America,United States,Los Angeles,4
+10743.0,reported,arena,19596.0,North America,United States,Oakland,1
+17452.0,reported,arena,13500.0,North America,United States,Fort Worth,2
+35574.0,reported,arena,18000.0,North America,Canada,Hamilton,3
+25236.0,reported,arena,17000.0,North America,United States,Newark,2
+27880.0,reported,arena,23500.0,North America,United States,Chicago,2
+34327.0,reported,stadium,41922.0,North America,United States,New York,1
+31475.0,reported,arena,20000.0,Europe,England,London,2
+13893.0,reported,arena,17000.0,Europe,Netherlands,Amsterdam,1
+24384.0,reported,arena,17000.0,Europe,Germany,Berlin,2
+28149.0,reported,arena,20300.0,Europe,France,Paris,2
+95939.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2
+109679.0,reported,stadium,55000.0,Asia,Japan,Osaka,3
+50144.0,reported,stadium,18000.0,Asia,Taiwan,Taoyuan,2
+79621.0,reported,stadium,36418.0,Asia,Japan,Nagoya,2
+39946.0,reported,stadium,55000.0,Asia,Singapore,Singapore,1
+72801.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,2
+46630.0,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,4
+68900.0,reported,stadium,51560.0,Asia,Thailand,Bangkok,2
+113040.0,reported,concert hall,,North America,United States,Pasadena,2
+98574.0,reported,stadium,62500.0,North America,United States,Chicago,2
+98574.0,reported,stadium,82500.0,North America,United States,East Rutherford,2
+84728.0,reported,stadium,55000.0,South America,Brazil,São Paulo,2
+114583.0,reported,stadium,90000.0,Europe,England,London,2
+107328.0,reported,stadium,81338.0,Europe,France,Paris,2
+101554.0,reported,stadium,47853.0,Asia,Japan,Osaka,2
+107153.0,reported,stadium,50889.0,Asia,Japan,Shizuoka,2
+31899.0,reported,stadium,58398.0,Middle East,Saudi Arabia,Riyadh,1
+129268.0,reported,stadium,65599.0,Asia,South Korea,Seoul,3
+106294.0,reported,stadium,70240.0,North America,United States,Inglewood,2
+107458.0,reported,stadium,70240.0,North America,United States,Inglewood,2
+44696.0,reported,stadium,65599.0,Asia,South Korea,Seoul,3
+99277.0,reported,stadium,65000.0,North America,United States,Las Vegas,2
+100420.0,reported,stadium,65000.0,North America,United States,Las Vegas,2
+127218.0,reported,stadium,41311.0,Asia,South Korea,Goyang,3
+96178.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2
+194335.0,reported,stadium,69218.0,North America,United States,Tampa,3
+97722.0,reported,stadium,45971.0,North America,United States,El Paso,2
+145763.0,reported,stadium,65000.0,North America,Mexico,Mexico City,3
+170721.0,parcial,stadium,50424.0,North America,United States,Stanford,3
+241820.0,parcial,stadium,65000.0,North America,United States,Las Vegas,4
+,unreported,stadium,60000.0,Europe,Spain,Madrid,2
+,unreported,stadium,50093.0,Europe,Belgium,Brussels,2
+,unreported,stadium,62850.0,Europe,England,London,2
+,unreported,stadium,70000.0,Europe,Germany,Munich,2
+,unreported,stadium,81338.0,Europe,France,Paris,2
+162194.0,parcial,stadium,82500.0,North America,United States,East Rutherford,2
+138276.0,parcial,stadium,64628.0,North America,United States,Foxborough,2
+,unreported,stadium,70745.0,North America,United States,Baltimore,2
+,unreported,stadium,100000.0,North America,United States,Arlington,2
+101094.0,parcial,stadium,50000.0,North America,Canada,Toronto,2
+124242.0,parcial,stadium,62500.0,North America,United States,Chicago,2
+287800.0,parcial,stadium,70240.0,North America,United States,Inglewood,4
+,unreported,stadium,72039.0,South America,Brazil,São Paulo,3
+,unreported,stadium,55000.0,Asia,Singapore,Singapore,4
+7966.0,reported,arena,6500.0,Asia,South Korea,Seoul,2
+19826.0,reported,theater,10935.0,North America,United States,Anaheim,2
+10043.0,reported,arena,14000.0,North America,United States,Fort Worth,1
+6122.0,reported,concert hall,6400.0,North America,United States,Sugar Land,1
+8515.0,reported,arena,13100.0,North America,United States,Duluth,1
+5961.0,reported,arena,10387.0,North America,United States,Chicago,1
+5577.0,reported,theater,5960.0,North America,United States,New York,1
+17019.0,reported,arena,10000.0,Asia,Japan,Nagoya,2
+18800.0,reported,arena,16000.0,Asia,Japan,Osaka,2
+22723.0,reported,arena,17000.0,Asia,Japan,Yokohama,2
+80371.0,reported,stadium,55000.0,Asia,Japan,Osaka,2
+19400.0,reported,arena,12000.0,Asia,Thailand,Bangkok,2
+25650.0,reported,arena,15000.0,Asia,Philippines,Pasay,3
+15376.0,reported,arena,15000.0,Asia,South Korea,Seoul,2
+60495.0,reported,stadium,55000.0,Asia,Japan,Osaka,2
+76571.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2
+22446.0,reported,stadium,27000.0,North America,United States,Carson,1
+8551.0,reported,arena,19000.0,North America,United States,Glendale,1
+9405.0,reported,arena,19000.0,North America,United States,Houston,1
+11687.0,reported,arena,21000.0,North America,United States,Dallas,1
+20052.0,reported,arena,17000.0,North America,United States,Newark,2
+12748.0,reported,arena,23500.0,North America,United States,Chicago,1
+15712.0,reported,arena,15000.0,Asia,Taiwan,Taoyuan,2
+17374.0,reported,arena,9000.0,Asia,Singapore,Singapore,2
+31363.0,reported,arena,16000.0,Asia,Macau,Macau,3
+23764.0,reported,stadium,20000.0,Asia,Philippines,New Clark City,1
+25077.0,reported,arena,15000.0,Asia,South Korea,Seoul,3
+11108.0,reported,theater,10935.0,North America,United States,Anaheim,1
+11950.0,reported,arena,19596.0,North America,United States,Oakland,1
+15684.0,reported,arena,21000.0,North America,United States,Tacoma,1
+11428.0,reported,arena,22000.0,North America,United States,Rosemont,1
+12224.0,reported,arena,19000.0,North America,United States,New York,1
+51649.0,reported,arena,22500.0,Asia,Japan,Saitama,3
+20323.0,reported,arena,15000.0,Asia,Japan,Fukuoka,2
+13639.0,reported,arena,10000.0,Asia,Japan,Hiroshima,2
+21071.0,reported,arena,16500.0,Asia,Indonesia,Jakarta,2
+23011.0,reported,concert hall,15000.0,Asia,Japan,Nagoya,2
+15689.0,reported,arena,7063.0,Asia,Japan,Miyagi,2
+16640.0,reported,stadium,41311.0,Asia,South Korea,Goyang,2
+59948.0,reported,stadium,31552.0,Asia,Japan,Saitama,2
+50345.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,2
+75981.0,reported,stadium,55000.0,Asia,Japan,Osaka,2
+19482.0,reported,stadium,25000.0,Asia,Philippines,Bulacan,1
+29882.0,reported,stadium,51560.0,Asia,Thailand,Bangkok,1
+77820.0,reported,stadium,49970.0,Asia,Japan,Tokyo,2
+85868.0,reported,stadium,47853.0,Asia,Japan,Osaka,2
+22983.0,reported,arena,19000.0,North America,United States,New York,2
+12626.0,reported,arena,23500.0,North America,United States,Chicago,1
+18859.0,reported,arena,19000.0,North America,United States,Houston,2
+22298.0,reported,stadium,22000.0,North America,United States,Los Angeles,1
+15758.0,reported,arena,20000.0,Europe,England,London,1
+9576.0,reported,arena,21000.0,Europe,England,Manchester,1
+13460.0,reported,arena,17000.0,Europe,Netherlands,Amsterdam,1
+8363.0,reported,arena,15000.0,Europe,Belgium,Brussels,1
+12597.0,reported,arena,17000.0,Europe,Germany,Berlin,1
+12898.0,reported,arena,20300.0,Europe,France,Paris,1
+23718.0,reported,arena,9000.0,Asia,Singapore,Singapore,3
+28799.0,reported,arena,15000.0,Asia,South Korea,Seoul,3
+32280.0,missing,arena,15000.0,Asia,South Korea,Seoul,3
+,unreported,stadium,55000.0,South America,Brazil,São Paulo,1
+,unreported,stadium,32000.0,South America,Peru,Lima,1
+,unreported,arena,22300.0,North America,Mexico,Mexico City,3
+18818.0,parcial,arena,21000.0,North America,United States,Dallas,2
+,unreported,arena,19596.0,North America,United States,Oakland,2
+20956.0,parcial,,,North America,United States,San Diego,1
+,unreported,arena,21000.0,North America,United States,Tacoma,1
+,unreported,arena,20000.0,North America,United States,Las Vegas,1
+,unreported,,,Asia,Macau,Macau,2
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,2
+,unreported,stadium,36418.0,Asia,Japan,Nagoya,2
+,unreported,,,Asia,Indonesia,Jakarta,1
+,unreported,stadium,47500.0,Asia,Japan,Fukuoka,2
+,unreported,stadium,55000.0,Asia,Japan,Osaka,2
+,unreported,arena,16000.0,Europe,Italy,Milan,1
+,unreported,arena,45000.0,Europe,France,Paris,1
+,unreported,arena,17000.0,Europe,Netherlands,Amsterdam,1
+,unreported,arena,17000.0,Europe,Germany,Berlin,1
+,unreported,arena,20000.0,Europe,England,London,1
+,unreported,,,Asia,Singapore,Singapore,1
+,unreported,arena,15000.0,Asia,South Korea,Seoul,5
+,unreported,arena,18000.0,Asia,China,Shanghai,2
+,unreported,stadium,13000.0,Asia,Taiwan,Taipei,2
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,2
+,unreported,arena,19000.0,Asia,China,Beijing,2
+,unreported,stadium,30000.0,Asia,China,Chengdu,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2
+,unreported,stadium,42383.0,Asia,China,Xi'an,1
+,unreported,stadium,58680.0,Asia,China,Chongqing,1
+,unreported,arena,18000.0,Asia,China,Guangzhou,1
+,unreported,arena,15000.0,Asia,Japan,Fukuoka,2
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,3
+,unreported,stadium,55000.0,Asia,Japan,Osaka,3
+,unreported,arena,14000.0,Asia,Macau,Macau,1
+,unreported,arena,13000.0,Asia,China,Nanjing,1
+,unreported,arena,9000.0,Asia,Singapore,Singapore,2
+,unreported,arena,15000.0,Asia,Philippines,Pasay,2
+,unreported,concert hall,6350.0,North America,United States,Grand Prairie,1
+,unreported,arena,8000.0,North America,Canada,Vancouver,1
+,unreported,arena,16740.0,North America,United States,Los Angeles,1
+,unreported,theater,4400.0,North America,United States,Rosemont,1
+9919.0,reported,arena,17000.0,North America,United States,Newark,1
+,unreported,concert hall,,Asia,Indonesia,Tangerang,1
+,unreported,arena,18000.0,Asia,China,Dalian,1
+,unreported,stadium,25000.0,Asia,Malaysia,Kuala Lumpur,1
+,unreported,arena,15000.0,Asia,South Korea,Seoul,3
+,unreported,arena,15000.0,Asia,South Korea,Seoul,6
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,2
+,unreported,arena,10000.0,Asia,Japan,Hiroshima,2
+,unreported,arena,8000.0,Asia,China,Hangzhou,1
+,unreported,arena,15000.0,Asia,Japan,Fukuoka,3
+,unreported,arena,10024.0,Asia,Japan,Sapporo,2
+,unreported,arena,10000.0,Asia,Japan,Nagoya,3
+,unreported,stadium,13000.0,Asia,Taiwan,Taipei,2
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,2
+,unreported,stadium,55000.0,Asia,Japan,Osaka,3
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2
+,unreported,arena,9679.0,Asia,Philippines,Manila,2
+,unreported,stadium,25000.0,Asia,Malaysia,Kuala Lumpur,1
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1
+5999.0,reported,arena,17000.0,North America,United States,Newark,1
+,unreported,arena,22300.0,North America,Mexico,Mexico City,1
+8668.0,reported,arena,17500.0,North America,United States,Inglewood,1
+,unreported,stadium,65599.0,Asia,South Korea,Seoul,2
+,unreported,stadium,16744.0,Asia,South Korea,Seoul,3
+,unreported,arena,15000.0,Asia,Japan,Fukuoka,3
+,unreported,arena,22500.0,Asia,Japan,Saitama,2
+,unreported,stadium,13000.0,Asia,Taiwan,Taipei,2
+,unreported,stadium,55000.0,Asia,Japan,Osaka,2
+,unreported,arena,9000.0,Asia,Singapore,Singapore,1
+,unreported,arena,12000.0,Asia,Thailand,Bangkok,3
+,unreported,arena,15000.0,Asia,Philippines,Pasay,1
+,unreported,arena,14000.0,Asia,Hong Kong,Hong Kong,2
+,unreported,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1
+,unreported,stadium,16744.0,Asia,South Korea,Seoul,3
+,unreported,arena,14000.0,Asia,Macau,Macau,2
+68336.0,parcial,stadium,41311.0,Asia,South Korea,Goyang,2
+96830.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2
+,unreported,arena,55000.0,Asia,Philippines,Bulacan,1
+78632.0,reported,stadium,55000.0,Asia,Japan,Osaka,2
+31185.0,reported,arena,16000.0,Asia,Macau,Macau,3
+22140.0,reported,arena,18000.0,Oceania,Australia,Sydney,2
+21913.0,reported,arena,14820.0,Oceania,Australia,Melbourne,2
+31029.0,reported,stadium,13000.0,Asia,Taiwan,Taipei,3
+,unreported,arena,11000.0,Asia,Malaysia,Kuala Lumpur,2
+,unreported,arena,16500.0,Asia,Indonesia,Jakarta,2
+,unreported,stadium,51560.0,Asia,Thailand,Bangkok,1
+33245.0,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,3
+20714.0,reported,arena,17000.0,North America,United States,Newark,2
+13045.0,reported,arena,20000.0,North America,United States,Las Vegas,1
+,unreported,stadium,20000.0,North America,United States,Los Angeles,2
+,unreported,arena,45000.0,Europe,France,Paris,1
+,unreported,stadium,55000.0,Asia,Japan,Osaka,2
+,unreported,stadium,59833.0,Asia,Taiwan,Taipei,2
+,unreported,concert hall,,Asia,Vietnam,Hung Yen,2
+49139.0,parcial,stadium,16744.0,Asia,South Korea,Seoul,3
+37761.0,reported,arena,15000.0,Asia,South Korea,Seoul,3
+27169.0,reported,arena,20000.0,North America,United States,New York,2
+24756.0,reported,arena,22000.0,North America,United States,Rosemont,2
+33129.0,reported,arena,26000.0,North America,Mexico,Mexico City,2
+26809.0,reported,arena,19000.0,North America,United States,San Antonio,2
+24094.0,reported,arena,19596.0,North America,United States,Oakland,2
+42799.0,reported,stadium,22000.0,North America,United States,Los Angeles,2
+22138.0,reported,arena,15000.0,Asia,Philippines,Pasay,2
+38721.0,reported,arena,22500.0,Asia,Japan,Saitama,2
+19684.0,reported,arena,9000.0,Asia,Singapore,Singapore,2
+20104.0,reported,arena,16500.0,Asia,Indonesia,Jakarta,2
+25494.0,reported,arena,12000.0,Asia,Thailand,Bangkok,2
+19417.0,reported,arena,16000.0,Asia,Macau,Macau,2
+19403.0,reported,arena,15000.0,Asia,Taiwan,Taoyuan,2
+70153.0,reported,stadium,55000.0,Asia,Japan,Osaka,2
+52449.0,reported,stadium,41311.0,Asia,South Korea,Goyang,2
+19253.0,reported,stadium,41311.0,Asia,South Korea,Goyang,2
+10718.0,parcial,arena,11069.0,Asia,South Korea,Seoul,2
+42686.0,reported,arena,,Asia,Japan,Chiba,2
+82510.0,reported,stadium,55000.0,Asia,Japan,Osaka,2
+23753.0,reported,theater,10935.0,North America,United States,Anaheim,2
+23162.0,reported,arena,21000.0,North America,United States,Dallas,2
+22144.0,reported,arena,21500.0,North America,United States,Tampa,2
+23056.0,reported,arena,17000.0,North America,United States,Newark,2
+27917.0,reported,arena,20000.0,Europe,England,London,2
+22758.0,reported,arena,17000.0,Europe,Netherlands,Amsterdam,2
+38375.0,parcial,stadium,49084.0,Asia,South Korea,Incheon,2
+24800.0,parcial,arena,15000.0,Asia,South Korea,Seoul,2
+4844.0,parcial,theater,2400.0,Asia,Japan,Osaka,2
+5000.0,parcial,concert hall,2001.0,Asia,Japan,Hiroshima,2
+3414.0,parcial,concert hall,1700.0,Asia,Japan,Kanazawa,2
+4606.0,parcial,concert hall,2302.0,Asia,Japan,Sapporo,2
+4632.0,parcial,concert hall,2316.0,Asia,Japan,Fukuoka,2
+2400.0,parcial,concert hall,2000.0,Asia,Japan,Nagoya,1
+49921.0,parcial,arena,22500.0,Asia,Japan,Saitama,3
+5622.0,parcial,arena,17000.0,North America,United States,Newark,1
+3197.0,parcial,concert hall,3600.0,North America,United States,Atlanta,1
+5206.0,parcial,arena,8000.0,North America,United States,Miami,1
+6066.0,parcial,concert hall,6350.0,North America,United States,Grand Prairie,1
+4725.0,parcial,theater,5000.0,North America,United States,Phoenix,1
+6294.0,parcial,concert hall,6400.0,North America,United States,Sugar Land,1
+4199.0,parcial,theater,4400.0,North America,United States,Rosemont,1
+5812.0,parcial,theater,3036.0,North America,United States,San Jose,2
+6534.0,parcial,arena,7100.0,North America,United States,Los Angeles,1
+4118.0,parcial,concert hall,9250.0,North America,Canada,Toronto,1
+3228.0,parcial,arena,17500.0,North America,Canada,Vancouver,1
+2910.0,parcial,theater,3165.0,North America,Mexico,Mexico City,1
+10746.0,parcial,arena,9000.0,Asia,Singapore,Singapore,3
+4631.0,parcial,arena,12300.0,Europe,Russia,Saint Petersburg,1
+6186.0,parcial,arena,16500.0,Europe,Russia,Moscow,1
+6402.0,parcial,arena,12500.0,Europe,England,London,1
+3752.0,parcial,concert hall,6000.0,Europe,France,Paris,1
+4218.0,parcial,arena,9000.0,Asia,Singapore,Singapore,1
+24352.0,parcial,arena,16000.0,Asia,Japan,Osaka,2
+15000.0,parcial,arena,15000.0,Asia,Japan,Fukuoka,2
+5500.0,parcial,concert hall,10000.0,Asia,Japan,Niigata,1
+29646.0,parcial,arena,10000.0,Asia,Japan,Tokyo,3
+,unreported,,,North America,United States,New York,1
+,unreported,arena,13100.0,North America,United States,Duluth,1
+,unreported,arena,10387.0,North America,United States,Chicago,1
+,unreported,arena,19190.0,North America,United States,San Jose,1
+,unreported,arena,17500.0,North America,United States,Inglewood,1
+,unreported,concert hall,7000.0,North America,United States,Seattle,1
+36900.0,parcial,arena,15000.0,Asia,South Korea,Seoul,3
+23329.0,parcial,arena,16000.0,Asia,Japan,Osaka,2
+,unreported,concert hall,10000.0,Asia,Japan,Nagoya,1
+13000.0,parcial,concert hall,10000.0,Asia,Japan,Nagoya,2
+24155.0,parcial,arena,17000.0,Asia,Japan,Yokohama,2
+43500.0,parcial,arena,,Asia,Japan,Chiba,3
+4566.0,parcial,arena,7166.0,Asia,Indonesia,Jakarta,1
+8538.0,parcial,concert hall,3500.0,Asia,Thailand,Bangkok,2
+,unreported,arena,17000.0,North America,United States,Newark,1
+,unreported,arena,23500.0,North America,United States,Chicago,1
+,unreported,theater,4000.0,North America,United States,Irving,1
+4793.0,parcial,concert hall,6400.0,North America,United States,Sugar Land,1
+7233.0,parcial,arena,26000.0,North America,Mexico,Mexico City,1
+,unreported,arena,17500.0,North America,United States,Inglewood,1
+,unreported,arena,19190.0,North America,United States,San Jose,1
+3878.0,parcial,arena,7141.0,North America,United States,Kent,1
+7636.0,parcial,arena,15000.0,Asia,Philippines,Pasay,1
+,unreported,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1
+,unreported,arena,15000.0,Asia,Taiwan,Taoyuan,1
+,unreported,arena,15000.0,Europe,Spain,Madrid,1
+,unreported,concert hall,6000.0,Europe,France,Paris,1
+,unreported,arena,12500.0,Europe,England,London,1
+,unreported,arena,17000.0,Europe,Germany,Berlin,1
+34923.0,reported,stadium,16744.0,Asia,South Korea,Seoul,2
+8377.0,reported,arena,19000.0,North America,Canada,Vancouver,1
+8806.0,reported,arena,17200.0,North America,United States,Seattle,1
+12601.0,reported,arena,19596.0,North America,United States,Oakland,1
+12561.0,reported,arena,17500.0,North America,United States,Inglewood,1
+9124.0,reported,arena,19000.0,North America,United States,Houston,1
+9282.0,reported,arena,14000.0,North America,United States,Fort Worth,1
+12421.0,reported,arena,23500.0,North America,United States,Chicago,1
+11341.0,reported,arena,20356.0,North America,United States,Washington,1
+9503.0,reported,arena,18000.0,North America,United States,Atlanta,1
+9028.0,reported,arena,19000.0,North America,United States,New York,1
+13763.0,reported,arena,19800.0,North America,Canada,Toronto,1
+10717.0,reported,arena,17000.0,North America,United States,Newark,1
+17336.0,reported,concert hall,,Asia,Indonesia,Tangerang,2
+19270.0,reported,arena,12000.0,Asia,Thailand,Bangkok,2
+16956.0,reported,arena,15000.0,Asia,Philippines,Pasay,2
+8191.0,reported,arena,9000.0,Asia,Singapore,Singapore,1
+78593.0,reported,stadium,55000.0,Asia,Japan,Osaka,2
+93063.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2
+81644.0,reported,stadium,36418.0,Asia,Japan,Nagoya,2
+39480.0,reported,arena,55000.0,Asia,Philippines,Bulacan,1
+25079.0,reported,stadium,,Asia,Indonesia,Jakarta,1
+34341.0,reported,stadium,16744.0,Asia,South Korea,Seoul,2
+89119.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2
+61088.0,reported,stadium,31552.0,Asia,Japan,Saitama,2
+108239.0,reported,stadium,36418.0,Asia,Japan,Nagoya,3
+107848.0,reported,stadium,55000.0,Asia,Japan,Osaka,3
+68670.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,2
+59023.0,reported,stadium,51560.0,Asia,Thailand,Bangkok,2
+54035.0,reported,stadium,25000.0,Asia,Philippines,Bulacan,2
+37486.0,reported,stadium,16272.0,Asia,Macau,Macau,2
+56047.0,reported,stadium,29376.0,Asia,South Korea,Incheon,2
+71525.0,reported,stadium,66704.0,Asia,South Korea,Seoul,2
+100565.0,reported,stadium,47853.0,Asia,Japan,Osaka,2
+140328.0,reported,stadium,72327.0,Asia,Japan,Yokohama,2
+57421.0,reported,stadium,41311.0,Asia,South Korea,Goyang,2
+21808.0,reported,arena,22000.0,North America,United States,Rosemont,2
+25532.0,reported,arena,19000.0,North America,United States,New York,2
+25723.0,reported,arena,19000.0,North America,United States,San Antonio,2
+23409.0,reported,arena,19596.0,North America,United States,Oakland,2
+43069.0,reported,stadium,22000.0,North America,United States,Los Angeles,2
+76020.0,reported,stadium,36418.0,Asia,Japan,Nagoya,2
+87763.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2
+112150.0,reported,stadium,55000.0,Asia,Japan,Osaka,3
+106571.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,3
+57632.0,reported,stadium,25000.0,Asia,Philippines,Bulacan,2
+73985.0,reported,stadium,55000.0,Asia,Singapore,Singapore,2
+64819.0,reported,arena,82000.0,Asia,Indonesia,Jakarta,2
+68845.0,reported,stadium,51560.0,Asia,Thailand,Bangkok,2
+50053.0,reported,stadium,29376.0,Asia,South Korea,Incheon,2
+71192.0,reported,stadium,45995.0,Asia,Hong Kong,Hong Kong,2
+11319.0,reported,arena,21000.0,North America,United States,Tacoma,1
+26734.0,reported,stadium,22000.0,North America,United States,Los Angeles,2
+13220.0,reported,arena,16223.0,North America,United States,Austin,2
+15527.0,reported,arena,23000.0,North America,United States,Sunrise,2
+18437.0,reported,arena,20356.0,North America,United States,Washington,2
+,unreported,stadium,36418.0,Asia,Japan,Nagoya,3
+,unreported,stadium,55000.0,Asia,Japan,Osaka,3
+,unreported,stadium,55000.0,Asia,Japan,Tokyo,2
+,unreported,stadium,47500.0,Asia,Japan,Fukuoka,2
+,unreported,stadium,45995.0,Asia,Hong Kong,Hong Kong,2
+,unreported,stadium,55000.0,Asia,Singapore,Singapore,1
+,unreported,stadium,35000.0,Asia,Thailand,Bangkok,2
+,unreported,stadium,25000.0,Asia,Philippines,Bulacan,1
+,unreported,stadium,29376.0,Asia,South Korea,Incheon,2
+15693.0,reported,arena,11069.0,Asia,South Korea,Seoul,3
+12000.0,reported,arena,8000.0,Asia,Japan,Kobe,2
+21580.0,reported,arena,12898.0,Asia,Japan,Tokyo,2
+24186.0,reported,arena,17000.0,North America,United States,Newark,2
+12718.0,reported,arena,23500.0,North America,United States,Chicago,1
+24920.0,reported,arena,17500.0,North America,United States,Inglewood,2
+12507.0,reported,arena,19596.0,North America,United States,Oakland,1
+23522.0,reported,arena,17200.0,North America,United States,Seattle,2
+20026.0,reported,theater,10935.0,North America,United States,Anaheim,2
+21641.0,reported,arena,12898.0,Asia,Japan,Tokyo,2
+20231.0,reported,arena,15000.0,Asia,South Korea,Seoul,2
+15862.0,reported,arena,15000.0,Asia,Indonesia,Jakarta,2
+20817.0,reported,arena,12000.0,Asia,Thailand,Bangkok,2
+8813.0,reported,arena,9000.0,Asia,Singapore,Singapore,1
+56862.0,reported,arena,22500.0,Asia,Japan,Saitama,2
+23139.0,reported,arena,14820.0,Oceania,Australia,Melbourne,2
+23897.0,reported,arena,18000.0,Oceania,Australia,Sydney,2
+79331.0,reported,stadium,55000.0,Asia,Japan,Osaka,2
+17629.0,reported,arena,15000.0,Asia,Philippines,Pasay,2
+23019.0,reported,arena,18000.0,North America,United States,Atlanta,2
+22626.0,reported,arena,14000.0,North America,United States,Fort Worth,2
+45380.0,reported,stadium,22000.0,North America,United States,Los Angeles,2
+73789.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,2
+75516.0,reported,stadium,36418.0,Asia,Japan,Nagoya,2
+77833.0,reported,stadium,55000.0,Asia,Japan,Osaka,2
+31267.0,reported,stadium,16744.0,Asia,South Korea,Seoul,2
+95371.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2
+40907.0,reported,arena,15000.0,Asia,South Korea,Seoul,4
+31462.0,reported,stadium,55000.0,Asia,Singapore,Singapore,1
+27336.0,reported,stadium,56347.0,Oceania,Australia,Melbourne,1
+36589.0,reported,stadium,42500.0,Oceania,Australia,Sydney,1
+41273.0,reported,stadium,55000.0,Asia,Taiwan,Kaohsiung,1
+143575.0,reported,stadium,55000.0,Asia,Japan,Tokyo,3
+23047.0,reported,arena,55000.0,Asia,Philippines,Bulacan,1
+21277.0,reported,arena,16000.0,Asia,Macau,Macau,2
+114703.0,reported,stadium,55000.0,Asia,Japan,Osaka,3
+20600.0,reported,stadium,35000.0,Asia,Thailand,Bangkok,1
+9726.0,reported,arena,16500.0,Asia,Indonesia,Jakarta,1
+20922.0,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,2
+48229.0,reported,stadium,25000.0,South America,Chile,Santiago,2
+49063.0,reported,stadium,70000.0,South America,Brazil,Rio De Janeiro,1
+110479.0,reported,stadium,72039.0,South America,Brazil,São Paulo,2
+43806.0,reported,stadium,32000.0,South America,Peru,Lima,1
+109963.0,reported,stadium,65000.0,North America,Mexico,Mexico City,2
+207917.0,reported,stadium,50889.0,Asia,Japan,Shizuoka,4
+41264.0,reported,stadium,47368.0,North America,United States,Seattle,1
+33403.0,reported,stadium,45000.0,North America,United States,San Francisco,1
+79389.0,reported,stadium,70240.0,North America,United States,Inglewood,2
+68253.0,reported,stadium,40300.0,North America,United States,Arlington,2
+36732.0,reported,stadium,41108.0,North America,United States,Atlanta,1
+46766.0,reported,stadium,60219.0,North America,United States,Orlando,1
+63005.0,reported,stadium,41922.0,North America,United States,New York,2
+37095.0,reported,stadium,41373.0,North America,United States,Washington,1
+35799.0,reported,stadium,41649.0,North America,United States,Chicago,1
+49745.0,reported,stadium,50000.0,North America,Canada,Toronto,1
+43788.0,reported,stadium,71000.0,Europe,Netherlands,Amsterdam,1
+41631.0,reported,stadium,65000.0,Europe,Germany,Frankfurt,1
+89225.0,reported,stadium,62850.0,Europe,England,London,2
+49096.0,reported,stadium,60000.0,Europe,Spain,Madrid,1
+,unreported,stadium,60000.0,Europe,Spain,Madrid,1
+117382.0,reported,stadium,81338.0,Europe,France,Paris,2
+50374.0,reported,stadium,70634.0,Europe,Italy,Rome,1
+,unreported,stadium,29376.0,Asia,South Korea,Incheon,2
+22987.0,missing,arena,15000.0,Asia,South Korea,Seoul,3
+,unreported,concert hall,15000.0,Asia,Japan,Nagoya,2
+,unreported,arena,12141.0,Asia,Japan,Yokohama,2
+,unreported,arena,8000.0,Asia,Japan,Kobe,2
+2020.0,reported,theater,5600.0,North America,United States,New York,1
+1116.0,reported,theater,3600.0,North America,United States,Chicago,1
+564.0,reported,theater,1050.0,North America,United States,Atlanta,1
+,unreported,concert hall,3040.0,North America,United States,Oakland,1
+1186.0,reported,theater,2000.0,North America,United States,Los Angeles,1
+787.0,reported,theater,,North America,United States,Tacoma,1
+,unreported,arena,10000.0,Asia,Japan,Tokyo,2
+,unreported,concert hall,,Asia,Macau,Macau,1
+,unreported,concert hall,,Asia,Malaysia,Kuala Lumpur,1
+,unreported,arena,15000.0,Asia,Taiwan,Taoyuan,1
+,unreported,concert hall,8000.0,Asia,Thailand,Bangkok,1
+,unreported,concert hall,,Asia,Indonesia,Tangerang,1
+10267.0,reported,arena,11069.0,Asia,South Korea,Seoul,2
+4340.0,reported,theater,4400.0,North America,United States,Rosemont,1
+5239.0,reported,theater,5600.0,North America,United States,New York,1
+4509.0,reported,theater,4665.0,North America,United States,Atlanta,1
+6202.0,reported,concert hall,6350.0,North America,United States,Grand Prairie,1
+6250.0,reported,concert hall,6400.0,North America,United States,Sugar Land,1
+5168.0,reported,arena,8500.0,North America,United States,San Francisco,1
+13562.0,reported,arena,7100.0,North America,United States,Los Angeles,2
+12117.0,reported,arena,7056.0,Asia,Japan,Osaka,2
+12290.0,reported,arena,,Asia,Japan,Chiba,2
+6067.0,reported,concert hall,,Asia,Indonesia,Tangerang,1
+15999.0,reported,arena,15000.0,Asia,Philippines,Pasay,2
+8588.0,reported,arena,12000.0,Asia,Thailand,Bangkok,2
+21445.0,reported,arena,15000.0,Asia,South Korea,Seoul,2
+7830.0,reported,arena,9000.0,Asia,Singapore,Singapore,1
+16042.0,reported,concert hall,,Asia,Taiwan,Taipei,2
+17204.0,reported,arena,16000.0,Asia,Japan,Osaka,2
+40390.0,reported,arena,22500.0,Asia,Japan,Saitama,2
+22497.0,reported,arena,17000.0,Asia,Japan,Yokohama,2
+27234.0,reported,concert hall,15000.0,Asia,Japan,Nagoya,2
+12662.0,reported,arena,18504.0,North America,United States,Charlotte,1
+22506.0,reported,arena,19000.0,North America,United States,New York,2
+12073.0,reported,arena,20356.0,North America,United States,Washington,1
+17804.0,reported,arena,13100.0,North America,United States,Duluth,2
+24456.0,reported,arena,19000.0,North America,United States,San Antonio,2
+46757.0,reported,stadium,22000.0,North America,United States,Los Angeles,2
+71757.0,reported,stadium,55000.0,Asia,Japan,Osaka,2
+7231.0,reported,arena,15000.0,Asia,Indonesia,Jakarta,1
+10886.0,reported,arena,55000.0,Asia,Philippines,Bulacan,1
+25042.0,reported,stadium,16744.0,Asia,South Korea,Seoul,2
+32125.0,reported,arena,15000.0,Asia,South Korea,Seoul,3
+10691.0,reported,arena,21000.0,North America,United States,Tacoma,1
+15662.0,reported,stadium,64829.0,North America,United States,Oakland,1
+23849.0,reported,stadium,20000.0,North America,United States,Los Angeles,2
+21734.0,reported,stadium,41168.0,North America,United States,Houston,1
+10072.0,reported,arena,18000.0,North America,United States,Atlanta,1
+24775.0,reported,theater,5600.0,North America,United States,New York,2
+21446.0,reported,arena,22000.0,North America,United States,Rosemont,2
+13169.0,reported,arena,20356.0,North America,United States,Washington,1
+71611.0,reported,stadium,55000.0,Asia,Japan,Tokyo,2
+53645.0,reported,stadium,55000.0,Asia,Japan,Osaka,2
+46054.0,reported,stadium,36418.0,Asia,Japan,Nagoya,2
+21293.0,reported,arena,16000.0,Asia,Macau,Macau,2
+8183.0,reported,arena,9000.0,Asia,Singapore,Singapore,1
+54074.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,2
+4593.0,reported,concert hall,,Asia,Indonesia,Tangerang,1
+18160.0,reported,arena,15000.0,Asia,Taiwan,Taoyuan,2
+31582.0,reported,arena,15000.0,Asia,South Korea,Seoul,3
+73748.0,reported,stadium,55000.0,Asia,Japan,Osaka,2
+24625.0,reported,arena,15000.0,Asia,South Korea,Incheon,3
+36000.0,reported,arena,20000.0,Asia,Japan,Yokohama,2
+10453.0,reported,arena,17960.0,Europe,Spain,Barcelona,1
+15581.0,reported,arena,20000.0,Europe,England,London,1
+11951.0,reported,arena,17000.0,Europe,Germany,Berlin,1
+14153.0,reported,arena,20300.0,Europe,France,Paris,1
+13055.0,reported,arena,17000.0,Europe,Netherlands,Amsterdam,1
+14546.0,reported,arena,,Asia,Japan,Kagawa,2
+16992.0,reported,concert hall,10000.0,Asia,Japan,Nagoya,2
+26250.0,reported,arena,15000.0,Asia,Japan,Fukuoka,2
+31365.0,reported,arena,16000.0,Asia,Macau,Macau,3
+15246.0,reported,arena,16000.0,Asia,Japan,Osaka,2
+22848.0,reported,arena,15000.0,Asia,Japan,Tokyo,2
+30599.0,reported,stadium,16744.0,Asia,South Korea,Seoul,2
+10119.0,reported,arena,19190.0,North America,United States,San Jose,1
+16987.0,reported,stadium,22000.0,North America,United States,Los Angeles,1
+10193.0,reported,arena,21000.0,North America,United States,Dallas,1
+16466.0,reported,arena,22000.0,North America,United States,Rosemont,2
+9753.0,reported,arena,18000.0,North America,United States,Atlanta,1
+10018.0,reported,arena,20356.0,North America,United States,Washington,1
+18656.0,reported,arena,17000.0,North America,United States,Newark,2
+59061.0,reported,stadium,31552.0,Asia,Japan,Saitama,2
+66209.0,reported,stadium,36418.0,Asia,Japan,Nagoya,2
+49062.0,reported,stadium,47500.0,Asia,Japan,Fukuoka,2
+,reported,arena,14000.0,Asia,Hong Kong,Hong Kong,3
+,reported,arena,9000.0,Asia,Singapore,Singapore,2
+,reported,stadium,55000.0,Asia,Japan,Tokyo,2
+,reported,stadium,59833.0,Asia,Taiwan,Taipei,2
+,reported,stadium,55000.0,Asia,Japan,Osaka,2
+,reported,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1
