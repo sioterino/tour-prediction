@@ -24,6 +24,7 @@ def process_v3_artist_geo(dataframe: DataFrame) -> DataFrame:
     columns = [
         "attendance",
         "reporting_status",
+        "venue_name",
         "venue_type",
         "venue_capacity",
         "continent",

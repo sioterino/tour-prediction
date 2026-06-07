@@ -14,6 +14,7 @@ def process_v1_baseline(dataframe: DataFrame) -> DataFrame:
     columns = [
         "attendance",
         "reporting_status",
+        "venue_name",
         "venue_type",
         "venue_capacity",
         "continent",

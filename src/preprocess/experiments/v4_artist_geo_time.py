@@ -28,6 +28,7 @@ def process_v4_artist_geo_time(dataframe: DataFrame) -> DataFrame:
     columns = [
         "attendance",
         "reporting_status",
+        "venue_name",
         "venue_type",
         "venue_capacity",
         "continent",

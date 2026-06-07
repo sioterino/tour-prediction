@@ -22,6 +22,7 @@ def process_v2_artist(dataframe: DataFrame) -> DataFrame:
     columns = [
         "attendance",
         "reporting_status",
+        "venue_name",
         "venue_type",
         "venue_capacity",
         "continent",

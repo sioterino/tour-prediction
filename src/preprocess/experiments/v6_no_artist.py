@@ -34,6 +34,7 @@ def process_v6_no_artist(dataframe: DataFrame) -> DataFrame:
         "continent",
         "country",
         "city",
+        "venue_name",
         "venue_type",
         "venue_capacity",
         "show_nights",

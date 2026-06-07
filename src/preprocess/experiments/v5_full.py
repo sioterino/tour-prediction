@@ -36,6 +36,7 @@ def process_v5_full(dataframe: DataFrame) -> DataFrame:
         "continent",
         "country",
         "city",
+        "venue_name",
         "venue_type",
         "venue_capacity",
         "show_nights",
