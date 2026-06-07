@@ -1,0 +1,406 @@
+attendance,reporting_status,venue_name,venue_type,venue_capacity,continent,country,city,show_nights,artist_name,gender,generation,members,company,years_since_debut,artist_age_bucket
+36215.31907232983,unreported,Osaka-jō Hall,arena,16000.0,Asia,Japan,Osaka,4,aespa,female,4,4,"SM,KAKAO",2,rookie
+19546.309287020227,unreported,Yoyogi National Gymnasium,arena,12898.0,Asia,Japan,Tokyo,2,aespa,female,4,4,"SM,KAKAO",2,rookie
+42482.597758893055,unreported,Saitama Super Arena,arena,22500.0,Asia,Japan,Saitama,2,aespa,female,4,4,"SM,KAKAO",2,rookie
+17035.52078721296,unreported,Nippon Gaishi Hall,arena,10000.0,Asia,Japan,Nagoya,2,aespa,female,4,4,"SM,KAKAO",2,rookie
+10994.861645795905,unreported,ICE BSD,concert hall,,Asia,Indonesia,Tangerang,1,aespa,female,4,4,"SM,KAKAO",2,rookie
+10857.233888290459,unreported,IMPACT Thunder Dome,concert hall,3500.0,Asia,Thailand,Bangkok,2,aespa,female,4,4,"SM,KAKAO",2,rookie
+86792.31266475271,unreported,Tokyo Dome,stadium,55000.0,Asia,Japan,Tokyo,2,aespa,female,4,4,"SM,KAKAO",2,rookie
+3233.328196428571,unreported,Toyota Music Factory,theater,4000.0,North America,United States,Irving,1,aespa,female,4,4,"SM,KAKAO",2,rookie
+3943.526509379511,unreported,James L. Knight Center,theater,4605.0,North America,United States,Miami,1,aespa,female,4,4,"SM,KAKAO",2,rookie
+5849.154975015048,unreported,Espaço Unimed,concert hall,8000.0,South America,Brazil,São Paulo,1,aespa,female,4,4,"SM,KAKAO",2,rookie
+3620.6894558080817,unreported,Columbiahalle,concert hall,4900.0,Europe,Germany,Berlin,1,aespa,female,4,4,"SM,KAKAO",2,rookie
+10831.156778709686,unreported,The O2 Arena,arena,20000.0,Europe,England,London,1,aespa,female,4,4,"SM,KAKAO",2,rookie
+3764.7474558080826,unreported,Dôme,concert hall,4600.0,Europe,France,Paris,1,aespa,female,4,4,"SM,KAKAO",2,rookie
+7890.124700560515,unreported,Singapore Indoor Stadium,arena,9000.0,Asia,Singapore,Singapore,1,aespa,female,4,4,"SM,KAKAO",3,growing
+18235.354015169178,unreported,AsiaWorld–Expo,arena,14000.0,Asia,Hong Kong,Hong Kong,2,aespa,female,4,4,"SM,KAKAO",3,growing
+29662.57790876365,unreported,NTSU Arena,arena,15000.0,Asia,Taiwan,Taoyuan,3,aespa,female,4,4,"SM,KAKAO",3,growing
+9094.715155665523,unreported,Beach City International Stadium,arena,15000.0,Asia,Indonesia,Jakarta,1,aespa,female,4,4,"SM,KAKAO",3,growing
+19452.569467585065,unreported,Studio City,concert hall,,Asia,Macau,Macau,2,aespa,female,4,4,"SM,KAKAO",3,growing
+17294.368577599686,unreported,IMPACT Arena,arena,12000.0,Asia,Thailand,Bangkok,2,aespa,female,4,4,"SM,KAKAO",3,growing
+6886.829591343063,unreported,Zénith,arena,9000.0,Europe,France,Paris,1,aespa,female,4,4,"SM,KAKAO",4,growing
+19962.864235187477,unreported,Marine Messe,arena,15000.0,Asia,Japan,Fukuoka,2,aespa,female,4,4,"SM,KAKAO",4,growing
+29440.902380985877,unreported,Ariake Arena,arena,15000.0,Asia,Japan,Tokyo,3,aespa,female,4,4,"SM,KAKAO",4,growing
+22286.24334103002,unreported,Aichi International Arena,arena,17000.0,Asia,Japan,Nagoya,2,aespa,female,4,4,"SM,KAKAO",4,growing
+20546.38773708247,unreported,Yoyogi National Gymnasium,arena,12898.0,Asia,Japan,Tokyo,2,aespa,female,4,4,"SM,KAKAO",4,growing
+18919.39612355958,unreported,IMPACT Arena,arena,12000.0,Asia,Thailand,Bangkok,2,aespa,female,4,4,"SM,KAKAO",4,growing
+20110.810176470673,unreported,Osaka-jō Hall,arena,16000.0,Asia,Japan,Osaka,2,aespa,female,4,4,"SM,KAKAO",5,growing
+19774.893624375258,unreported,AsiaWorld–Expo,arena,14000.0,Asia,Hong Kong,Hong Kong,2,aespa,female,4,4,"SM,KAKAO",5,growing
+20199.29254586621,unreported,Galaxy Arena,arena,16000.0,Asia,Macau,Macau,2,aespa,female,4,4,"SM,KAKAO",5,growing
+12348.970481698692,unreported,ICE BSD,concert hall,,Asia,Indonesia,Tangerang,1,aespa,female,4,4,"SM,KAKAO",5,growing
+80532.07733152008,unreported,Kyocera Dome,stadium,55000.0,Asia,Japan,Osaka,2,aespa,female,4,4,"SM,KAKAO",5,growing
+89449.9645000498,unreported,Tokyo Dome,stadium,55000.0,Asia,Japan,Tokyo,2,aespa,female,4,4,"SM,KAKAO",5,growing
+30963.28769771627,unreported,Gocheok Sky Dome,stadium,16744.0,Asia,South Korea,Seoul,2,aespa,female,4,4,"SM,KAKAO",5,growing
+38129.31719068024,unreported,Taipei Dome,stadium,59833.0,Asia,Taiwan,Taipei,1,aespa,female,4,4,"SM,KAKAO",5,growing
+27047.624117141844,unreported,Mercado Livre Arena Pacaembu,stadium,40000.0,South America,Brazil,São Paulo,1,aespa,female,4,4,"SM,KAKAO",5,growing
+11032.484965785241,unreported,Movistar Arena,arena,15500.0,South America,Chile,Santiago,1,aespa,female,4,4,"SM,KAKAO",5,growing
+23717.507747114003,unreported,Costa 21,concert hall,30000.0,South America,Peru,Lima,1,aespa,female,4,4,"SM,KAKAO",5,growing
+11333.3949079625,unreported,Palacio de los Deportes,arena,26000.0,North America,Mexico,Mexico City,1,aespa,female,4,4,"SM,KAKAO",5,growing
+10883.867020282996,unreported,TD Coliseum,arena,18000.0,North America,Canada,Hamilton,1,aespa,female,4,4,"SM,KAKAO",5,growing
+11127.986819799791,unreported,Oakland Arena,arena,19596.0,North America,United States,Oakland,1,aespa,female,4,4,"SM,KAKAO",5,growing
+10790.083987238866,unreported,Climate Pledge Arena,arena,17200.0,North America,United States,Seattle,1,aespa,female,4,4,"SM,KAKAO",5,growing
+10858.671158957177,unreported,Rogers Arena,arena,19000.0,North America,Canada,Vancouver,1,aespa,female,4,4,"SM,KAKAO",5,growing
+11521.632952687147,unreported,AO Arena,arena,21000.0,Europe,England,Manchester,1,aespa,female,4,4,"SM,KAKAO",6,established
+13725.622830194472,unreported,The O2 Arena,arena,20000.0,Europe,England,London,1,aespa,female,4,4,"SM,KAKAO",6,established
+12756.342522727033,unreported,Ziggo Dome,arena,17000.0,Europe,Netherlands,Amsterdam,1,aespa,female,4,4,"SM,KAKAO",6,established
+11260.338098293629,unreported,Avicii Arena,arena,16000.0,Europe,Sweden,Stockholm,1,aespa,female,4,4,"SM,KAKAO",6,established
+12112.665029706966,unreported,Royal Arena,arena,17000.0,Europe,Denmark,Copenhagen,1,aespa,female,4,4,"SM,KAKAO",6,established
+12149.010410797508,unreported,Uber Arena,arena,17000.0,Europe,Germany,Berlin,1,aespa,female,4,4,"SM,KAKAO",6,established
+11190.567233200392,unreported,Unipol Dome,arena,16000.0,Europe,Italy,Milan,1,aespa,female,4,4,"SM,KAKAO",6,established
+12185.940483935743,unreported,Palau Sant Jordi,arena,17960.0,Europe,Spain,Barcelona,1,aespa,female,4,4,"SM,KAKAO",6,established
+12690.484270872808,unreported,Accor Arena,arena,20300.0,Europe,France,Paris,1,aespa,female,4,4,"SM,KAKAO",6,established
+6182.992490920255,unreported,Prudential Center,arena,17000.0,North America,United States,Newark,1,BABYMONSTER,female,5,7,YG,0,rookie
+6008.388854556617,unreported,Kia Forum,arena,17500.0,North America,United States,Inglewood,1,BABYMONSTER,female,5,7,YG,0,rookie
+19162.038722367168,unreported,Portmesse Nagoya,concert hall,15000.0,Asia,Japan,Nagoya,2,BABYMONSTER,female,5,7,YG,0,rookie
+19606.637357816355,unreported,Asue Arena,arena,16000.0,Asia,Japan,Osaka,2,BABYMONSTER,female,5,7,YG,1,rookie
+16301.528968544117,unreported,Fukuoka Kokusai Center,arena,10000.0,Asia,Japan,Fukuoka,2,BABYMONSTER,female,5,7,YG,1,rookie
+6900.87466529998,unreported,Singapore Indoor Stadium,arena,9000.0,Asia,Singapore,Singapore,1,BABYMONSTER,female,5,7,YG,1,rookie
+17497.109216139324,unreported,AsiaWorld–Expo,arena,14000.0,Asia,Hong Kong,Hong Kong,2,BABYMONSTER,female,5,7,YG,1,rookie
+2336.022125,unreported,Saigon Exhibition and Convention Center,concert hall,2000.0,Asia,Vietnam,Ho Chi Minh City,1,BABYMONSTER,female,5,7,YG,1,rookie
+17365.31172166731,unreported,IMPACT Arena,arena,12000.0,Asia,Thailand,Bangkok,2,BABYMONSTER,female,5,7,YG,1,rookie
+7635.5295985584635,unreported,ICE BSD,concert hall,,Asia,Indonesia,Tangerang,1,BABYMONSTER,female,5,7,YG,1,rookie
+6106.650827045369,unreported,Unifi Arena,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1,BABYMONSTER,female,5,7,YG,1,rookie
+18145.98860793574,unreported,NTSU Arena,arena,15000.0,Asia,Taiwan,Taoyuan,2,BABYMONSTER,female,5,7,YG,1,rookie
+6035.795563960027,unreported,Scotiabank Arena,arena,19800.0,North America,Canada,Toronto,1,BABYMONSTER,female,5,7,YG,1,rookie
+9188.12405494159,unreported,Fort Worth Convention Center,arena,13500.0,North America,United States,Fort Worth,1,BLACKPINK,female,3,4,YG,2,rookie
+14117.33870433104,unreported,,,,Oceania,New Zealand,Auckland,1,BLACKPINK,female,3,4,YG,6,established
+90960.37138989341,unreported,Rogers Stadium,stadium,50000.0,North America,Canada,Toronto,2,BLACKPINK,female,3,4,YG,8,established
+107778.51185519728,unreported,Stade de France,stadium,81338.0,Europe,France,Paris,2,BLACKPINK,female,3,4,YG,8,established
+47269.69897810114,unreported,Ippodromo La Maura,stadium,80000.0,Europe,Italy,Milan,1,BLACKPINK,female,3,4,YG,8,established
+43226.057259599474,unreported,Estadi Olímpic Lluís Companys,stadium,55926.0,Europe,Spain,Barcelona,1,BLACKPINK,female,3,4,YG,9,established
+107678.28526280599,unreported,Wembley Stadium,stadium,90000.0,Europe,England,London,2,BLACKPINK,female,3,4,YG,9,established
+92183.15365430339,unreported,National Stadium,stadium,55000.0,Asia,Taiwan,Kaohsiung,2,BLACKPINK,female,3,4,YG,9,established
+119860.62979931668,unreported,Rajamangala Stadium,stadium,51560.0,Asia,Thailand,Bangkok,3,BLACKPINK,female,3,4,YG,9,established
+106416.77195421592,unreported,Gelora Bung Karno Main Stadium,stadium,77193.0,Asia,Indonesia,Jakarta,2,BLACKPINK,female,3,4,YG,9,established
+90203.11686886095,unreported,Philippine Arena,arena,55000.0,Asia,Philippines,Bulacan,2,BLACKPINK,female,3,4,YG,9,established
+121711.75258460376,unreported,Singapore National Stadium,stadium,55000.0,Asia,Singapore,Singapore,3,BLACKPINK,female,3,4,YG,9,established
+131322.99472601793,unreported,Tokyo Dome,stadium,55000.0,Asia,Japan,Tokyo,3,BLACKPINK,female,3,4,YG,9,established
+111212.57670137295,unreported,Kai Tak Stadium,stadium,45995.0,Asia,Hong Kong,Hong Kong,3,BLACKPINK,female,3,4,YG,9,established
+30035.197439108608,unreported,Taipei Arena,stadium,13000.0,Asia,Taiwan,Taipei,2,i-dle,female,4,5,Cube,5,growing
+3006.537912337662,unreported,IMPACT Thunder Dome,concert hall,3500.0,Asia,Thailand,Bangkok,1,i-dle,female,4,5,Cube,5,growing
+19814.14900189936,unreported,AsiaWorld–Expo,arena,14000.0,Asia,Hong Kong,Hong Kong,2,i-dle,female,4,5,Cube,5,growing
+5593.7682556002,unreported,Texas Trust CU Theatre,concert hall,6350.0,North America,United States,Grand Prairie,1,i-dle,female,4,5,Cube,5,growing
+5001.580387212869,unreported,AFAS Live,concert hall,6000.0,Europe,Netherlands,Amsterdam,1,i-dle,female,4,5,Cube,5,growing
+7030.647566870396,unreported,Zénith,arena,9000.0,Europe,France,Paris,1,i-dle,female,4,5,Cube,5,growing
+12827.009422713536,unreported,Uber Eats Music Hall,concert hall,4500.0,Europe,Germany,Berlin,2,i-dle,female,4,5,Cube,5,growing
+12869.949149219705,unreported,Tachikawa Stage Garden,concert hall,2448.0,Asia,Japan,Tokyo,2,i-dle,female,4,5,Cube,5,growing
+20205.145329226045,unreported,Galaxy Arena,arena,16000.0,Asia,Macau,Macau,2,i-dle,female,4,5,Cube,5,growing
+8030.53103980367,unreported,Singapore Indoor Stadium,arena,9000.0,Asia,Singapore,Singapore,1,i-dle,female,4,5,Cube,5,growing
+30048.87449717524,unreported,AsiaWorld–Expo,arena,14000.0,Asia,Hong Kong,Hong Kong,3,i-dle,female,4,5,Cube,6,established
+11238.145024507703,unreported,Oakland Arena,arena,19596.0,North America,United States,Oakland,1,i-dle,female,4,5,Cube,6,established
+10844.349104909275,unreported,Toyota Center,arena,19000.0,North America,United States,Houston,1,i-dle,female,4,5,Cube,6,established
+33234.42195188254,unreported,Taipei Arena,stadium,13000.0,Asia,Taiwan,Taipei,3,i-dle,female,4,5,Cube,6,established
+8600.45822856795,unreported,IMPACT Arena,arena,12000.0,Asia,Thailand,Bangkok,1,i-dle,female,4,5,Cube,6,established
+30805.90916635329,unreported,Galaxy Arena,arena,16000.0,Asia,Macau,Macau,3,i-dle,female,4,5,Cube,6,established
+10175.687949695981,unreported,Rod Laver Arena,arena,14820.0,Oceania,Australia,Melbourne,1,i-dle,female,4,5,Cube,6,established
+11638.56171354959,unreported,Qudos Bank Arena,arena,18000.0,Oceania,Australia,Sydney,1,i-dle,female,4,5,Cube,6,established
+20905.46267891247,unreported,Ariake Arena,arena,15000.0,Asia,Japan,Tokyo,2,i-dle,female,4,5,Cube,8,established
+5096.24774011691,unreported,YouTube Theater,theater,6000.0,North America,United States,Inglewood,1,ITZY,female,4,5,JYP,3,growing
+4177.079723665225,unreported,Arizona Financial Theatre,theater,5000.0,North America,United States,Phoenix,1,ITZY,female,4,5,JYP,3,growing
+3300.967043650794,unreported,Toyota Music Factory,theater,4000.0,North America,United States,Irving,1,ITZY,female,4,5,JYP,3,growing
+5842.306080691776,unreported,Smart Financial Centre,concert hall,6400.0,North America,United States,Sugar Land,1,ITZY,female,4,5,JYP,3,growing
+4124.993652236653,unreported,Fox Theatre,theater,4665.0,North America,United States,Atlanta,1,ITZY,female,4,5,JYP,3,growing
+4195.82476533189,unreported,Rosemont Theatre,theater,4400.0,North America,United States,Rosemont,1,ITZY,female,4,5,JYP,3,growing
+4164.472890331891,unreported,MGM Music Hall,concert hall,5007.0,North America,United States,Boston,1,ITZY,female,4,5,JYP,3,growing
+5014.789153793511,unreported,The Theater,theater,5600.0,North America,United States,New York,1,ITZY,female,4,5,JYP,3,growing
+18919.06437787165,unreported,SM Mall of Asia Arena,arena,15000.0,Asia,Philippines,Pasay,2,ITZY,female,4,5,JYP,3,growing
+4374.458003427129,unreported,The Star Performing Arts Centre,concert hall,5000.0,Asia,Singapore,Singapore,1,ITZY,female,4,5,JYP,3,growing
+3236.2266150793653,unreported,Gelora Bung Karno Tennis Indoor Stadium,arena,3750.0,Asia,Indonesia,Jakarta,1,ITZY,female,4,5,JYP,3,growing
+20851.60211233025,unreported,Makuhari Messe,arena,,Asia,Japan,Chiba,2,ITZY,female,4,5,JYP,4,growing
+8445.029757252714,unreported,NTSU Arena,arena,15000.0,Asia,Taiwan,Taoyuan,1,ITZY,female,4,5,JYP,4,growing
+20015.13009181559,unreported,AsiaWorld–Expo,arena,14000.0,Asia,Hong Kong,Hong Kong,2,ITZY,female,4,5,JYP,4,growing
+3045.8913214285712,unreported,IMPACT Thunder Dome,concert hall,3500.0,Asia,Thailand,Bangkok,1,ITZY,female,4,5,JYP,4,growing
+7827.170186884894,unreported,IMPACT Arena,arena,12000.0,Asia,Thailand,Bangkok,1,ITZY,female,4,5,JYP,5,growing
+2815.1395790043293,unreported,ICC Sydney Theatre,concert hall,2500.0,Oceania,Australia,Sydney,1,ITZY,female,4,5,JYP,5,growing
+5811.803855222798,unreported,Margaret Court Arena,arena,7500.0,Oceania,Australia,Melbourne,1,ITZY,female,4,5,JYP,5,growing
+7987.520919355072,unreported,Singapore Indoor Stadium,arena,9000.0,Asia,Singapore,Singapore,1,ITZY,female,4,5,JYP,5,growing
+8210.87709656579,unreported,Wembley Arena,arena,12500.0,Europe,England,London,1,ITZY,female,4,5,JYP,5,growing
+6932.094267234398,unreported,Zénith,arena,9000.0,Europe,France,Paris,1,ITZY,female,4,5,JYP,5,growing
+7860.536248812356,unreported,Velodrom,arena,12000.0,Europe,Germany,Berlin,1,ITZY,female,4,5,JYP,5,growing
+4966.64497884346,unreported,AFAS Live,concert hall,6000.0,Europe,Netherlands,Amsterdam,1,ITZY,female,4,5,JYP,5,growing
+8236.142174557244,unreported,Palacio Vistalegre,arena,14000.0,Europe,Spain,Madrid,1,ITZY,female,4,5,JYP,5,growing
+29062.96824391529,unreported,Yoyogi National Gymnasium,arena,12898.0,Asia,Japan,Tokyo,3,ITZY,female,4,5,JYP,5,growing
+10814.853286383843,unreported,Osaka-jō Hall,arena,16000.0,Asia,Japan,Osaka,1,ITZY,female,4,5,JYP,5,growing
+5835.805108649929,unreported,WaMu Theater,concert hall,7000.0,North America,United States,Seattle,1,ITZY,female,4,5,JYP,5,growing
+11119.292177916148,unreported,Oakland Arena,arena,19596.0,North America,United States,Oakland,1,ITZY,female,4,5,JYP,5,growing
+10813.122765945414,unreported,Kia Forum,arena,17500.0,North America,United States,Inglewood,1,ITZY,female,4,5,JYP,5,growing
+5869.376497358442,unreported,Smart Financial Centre,concert hall,6400.0,North America,United States,Sugar Land,1,ITZY,female,4,5,JYP,5,growing
+3239.006876984127,unreported,Toyota Music Factory,theater,4000.0,North America,United States,Irving,1,ITZY,female,4,5,JYP,5,growing
+4208.993348665224,unreported,Rosemont Theatre,theater,4400.0,North America,United States,Rosemont,1,ITZY,female,4,5,JYP,5,growing
+21293.49202684474,unreported,Great Canadian Casino Resort,concert hall,,North America,Canada,Toronto,2,ITZY,female,4,5,JYP,5,growing
+15405.406799235758,unreported,Taipei Arena,stadium,13000.0,Asia,Taiwan,Taipei,1,ITZY,female,4,5,JYP,5,growing
+8468.697818881144,unreported,SM Mall of Asia Arena,arena,15000.0,Asia,Philippines,Pasay,1,ITZY,female,4,5,JYP,5,growing
+7538.758450442369,unreported,AsiaWorld–Expo,arena,14000.0,Asia,Hong Kong,Hong Kong,1,ITZY,female,4,5,JYP,5,growing
+7479.411532242942,unreported,John Cain Arena,arena,10300.0,Oceania,Australia,Melbourne,1,ITZY,female,4,5,JYP,7,established
+2678.167007575758,unreported,ICC Sydney Theatre,concert hall,2500.0,Oceania,Australia,Sydney,1,ITZY,female,4,5,JYP,7,established
+9040.785972661211,unreported,Spark Arena,arena,13280.0,Oceania,New Zealand,Auckland,1,ITZY,female,4,5,JYP,7,established
+18879.800186963803,unreported,Keio Arena Tokyo,arena,10000.0,Asia,Japan,Tokyo,2,ITZY,female,4,5,JYP,7,established
+9511.245594653392,unreported,AsiaWorld–Expo,arena,14000.0,Asia,Hong Kong,Hong Kong,1,ITZY,female,4,5,JYP,7,established
+10999.375746697558,unreported,Kaohsiung Arena,arena,15000.0,Asia,Taiwan,Kaohsiung,1,ITZY,female,4,5,JYP,7,established
+8971.321072603321,unreported,IMPACT Arena,arena,12000.0,Asia,Thailand,Bangkok,1,ITZY,female,4,5,JYP,7,established
+11005.02408003089,unreported,SM Mall of Asia Arena,arena,15000.0,Asia,Philippines,Pasay,1,ITZY,female,4,5,JYP,7,established
+7957.873554415726,unreported,IMPACT Arena,arena,12000.0,Asia,Thailand,Bangkok,1,IVE,female,4,6,"Starship,KAKAO",2,rookie
+7925.639331201441,unreported,Unifi Arena,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1,IVE,female,4,6,"Starship,KAKAO",2,rookie
+7756.023939366063,unreported,Singapore Indoor Stadium,arena,9000.0,Asia,Singapore,Singapore,1,IVE,female,4,6,"Starship,KAKAO",2,rookie
+18830.295854800628,unreported,NTSU Arena,arena,15000.0,Asia,Taiwan,Taoyuan,2,IVE,female,4,6,"Starship,KAKAO",2,rookie
+10150.189865902983,unreported,Kia Forum,arena,17500.0,North America,United States,Inglewood,1,IVE,female,4,6,"Starship,KAKAO",2,rookie
+10210.936750405623,unreported,Accor Arena,arena,20300.0,Europe,France,Paris,1,IVE,female,4,6,"Starship,KAKAO",2,rookie
+10053.800538317035,unreported,Palau Sant Jordi,arena,17960.0,Europe,Spain,Barcelona,1,IVE,female,4,6,"Starship,KAKAO",2,rookie
+10219.85017951851,unreported,Uber Arena,arena,17000.0,Europe,Germany,Berlin,1,IVE,female,4,6,"Starship,KAKAO",2,rookie
+10431.477635474994,unreported,Ziggo Dome,arena,17000.0,Europe,Netherlands,Amsterdam,1,IVE,female,4,6,"Starship,KAKAO",2,rookie
+10735.63565190904,unreported,The O2 Arena,arena,20000.0,Europe,England,London,1,IVE,female,4,6,"Starship,KAKAO",2,rookie
+9957.32862864918,unreported,Palacio de los Deportes,arena,26000.0,North America,Mexico,Mexico City,1,IVE,female,4,6,"Starship,KAKAO",2,rookie
+5921.062436577181,unreported,Espaço Unimed,concert hall,8000.0,South America,Brazil,São Paulo,1,IVE,female,4,6,"Starship,KAKAO",2,rookie
+18201.175293649376,unreported,AsiaWorld–Expo,arena,14000.0,Asia,Hong Kong,Hong Kong,2,IVE,female,4,6,"Starship,KAKAO",2,rookie
+8379.262393809484,unreported,SM Mall of Asia Arena,arena,15000.0,Asia,Philippines,Pasay,1,IVE,female,4,6,"Starship,KAKAO",2,rookie
+9794.311384332734,unreported,Rod Laver Arena,arena,14820.0,Oceania,Australia,Melbourne,1,IVE,female,4,6,"Starship,KAKAO",2,rookie
+12548.658408243558,unreported,ICE BSD,concert hall,,Asia,Indonesia,Tangerang,1,IVE,female,4,6,"Starship,KAKAO",3,growing
+84653.64936803805,unreported,Tokyo Dome,stadium,55000.0,Asia,Japan,Tokyo,2,IVE,female,4,6,"Starship,KAKAO",3,growing
+8275.191928317332,unreported,Unifi Arena,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1,IVE,female,4,6,"Starship,KAKAO",4,growing
+78485.48708245932,unreported,Kyocera Dome,stadium,55000.0,Asia,Japan,Osaka,2,IVE,female,4,6,"Starship,KAKAO",4,growing
+8819.809622788798,unreported,SM Mall of Asia Arena,arena,15000.0,Asia,Philippines,Pasay,1,IVE,female,4,6,"Starship,KAKAO",4,growing
+7947.604664047179,unreported,Singapore Indoor Stadium,arena,9000.0,Asia,Singapore,Singapore,1,IVE,female,4,6,"Starship,KAKAO",4,growing
+20247.54954779814,unreported,Venetian Arena,arena,14000.0,Asia,Macau,Macau,2,IVE,female,4,6,"Starship,KAKAO",4,growing
+11373.47293777913,unreported,Qudos Bank Arena,arena,18000.0,Oceania,Australia,Sydney,1,IVE,female,4,6,"Starship,KAKAO",4,growing
+9644.636578047974,unreported,Rod Laver Arena,arena,14820.0,Oceania,Australia,Melbourne,1,IVE,female,4,6,"Starship,KAKAO",4,growing
+7975.742673673642,unreported,Spark Arena,arena,13280.0,Oceania,New Zealand,Auckland,1,IVE,female,4,6,"Starship,KAKAO",4,growing
+37914.28690024232,unreported,Tokyo Dome,stadium,55000.0,Asia,Japan,Tokyo,1,IVE,female,4,6,"Starship,KAKAO",4,growing
+19877.23064499341,unreported,AsiaWorld–Expo,arena,14000.0,Asia,Hong Kong,Hong Kong,2,IVE,female,4,6,"Starship,KAKAO",4,growing
+29121.964240306068,unreported,Taipei Arena,stadium,13000.0,Asia,Taiwan,Taipei,2,IVE,female,4,6,"Starship,KAKAO",4,growing
+10355.623168972053,unreported,IMPACT Thunder Dome,concert hall,3500.0,Asia,Thailand,Bangkok,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",1,rookie
+15448.889587667009,unreported,Inspire Arena,arena,15000.0,Asia,South Korea,Incheon,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+19600.83520565025,unreported,Osaka-jo Hall,arena,16000.0,Asia,Japan,Osaka,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+33189.595223780336,unreported,Yokohama Arena,arena,17000.0,Asia,Japan,Yokohama,3,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+16944.130007050237,unreported,Ecopa Arena,arena,10000.0,Asia,Japan,Shizuoka,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+14069.659195179367,unreported,Sekisui Heim Super Arena,arena,7063.0,Asia,Japan,Miyagi,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+19851.51536736585,unreported,Marine Messe,arena,15000.0,Asia,Japan,Fukuoka,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+17367.581315619434,unreported,Crypto.com Arena,stadium,20000.0,North America,United States,Los Angeles,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+12226.481584427349,unreported,Tacoma Dome,arena,21000.0,North America,United States,Tacoma,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+10898.020707419499,unreported,SAP Center,arena,19190.0,North America,United States,San Jose,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+9616.157737740743,unreported,Mortgage Matchup Center,arena,12565.0,North America,United States,Phoenix,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+9217.947499924798,unreported,Dickies Arena,arena,14000.0,North America,United States,Fort Worth,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+10903.733408047534,unreported,Kia Center,arena,17030.0,North America,United States,Orlando,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+11861.05334430072,unreported,United Center,arena,23500.0,North America,United States,Chicago,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+11602.325510578528,unreported,Capital One Arena,arena,20356.0,North America,United States,Washington,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+10859.455049527378,unreported,Prudential Center,arena,17000.0,North America,United States,Newark,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+13182.600335787092,unreported,O2 Arena,arena,20000.0,Europe,England,London,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+12364.260099035188,unreported,Ziggo Dome,arena,17000.0,Europe,Netherlands,Amsterdam,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+12426.607722914223,unreported,Accor Arena,arena,20300.0,Europe,France,Paris,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+11681.722159236406,unreported,Royal Arena,arena,17000.0,Europe,Denmark,Copenhagen,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+11844.401694738714,unreported,Uber Arena,arena,17000.0,Europe,Germany,Berlin,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+19477.70107168825,unreported,NTSU Arena,arena,15000.0,Asia,Taiwan,Taoyuan,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+7407.017376608879,unreported,Singapore Indoor Stadium,arena,9000.0,Asia,Singapore,Singapore,1,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+19467.11025508517,unreported,MOA Arena,arena,15000.0,Asia,Philippines,Pasay,2,LE SSERAFIM,female,4,5,"Source Music,HYBE",4,growing
+9091.374103597887,unreported,Palacio Vistalegre,arena,14000.0,Europe,Spain,Madrid,1,NMIXX,female,4,6,JYP,4,growing
+4899.213727761209,unreported,AFAS Live,concert hall,6000.0,Europe,Netherlands,Amsterdam,1,NMIXX,female,4,6,JYP,4,growing
+2355.325654761905,unreported,Salle Pleyel,concert hall,2000.0,Europe,France,Paris,1,NMIXX,female,4,6,JYP,4,growing
+3372.780121392496,unreported,Centennial Hall ,concert hall,4800.0,Europe,Germany,Frankfurt,1,NMIXX,female,4,6,JYP,4,growing
+3590.233038059163,unreported,Eventim Apollo,concert hall,5039.0,Europe,England,London,1,NMIXX,female,4,6,JYP,4,growing
+12243.41716831089,unreported,Great Canadian Toronto,concert hall,,North America,Canada,Toronto,1,NMIXX,female,4,6,JYP,4,growing
+2403.0537916666667,unreported,Brooklyn Paramount,theater,2700.0,North America,United States,New York,1,NMIXX,female,4,6,JYP,4,growing
+4962.4335184358115,unreported,EmSphere,arena,6000.0,Asia,Thailand,Bangkok,1,NMIXX,female,4,6,JYP,4,growing
+3989.7517880591636,unreported,The Star Performing Arts Centre,concert hall,5000.0,Asia,Singapore,Singapore,1,NMIXX,female,4,6,JYP,4,growing
+9172.239090987163,unreported,Kaohsiung Arena,arena,15000.0,Asia,Taiwan,Kaohsiung,1,NMIXX,female,4,6,JYP,4,growing
+8179.658011398425,unreported,AsiaWorld–Expo,arena,14000.0,Asia,Hong Kong,Hong Kong,1,NMIXX,female,4,6,JYP,4,growing
+18471.980553319558,unreported,Keio Arena Tokyo,arena,10000.0,Asia,Japan,Tokyo,2,NMIXX,female,4,6,JYP,4,growing
+95092.46480882066,unreported,Tokyo Dome,stadium,55000.0,Asia,Japan,Tokyo,2,TWICE,female,3,9,JYP,4,growing
+84645.6212253788,unreported,Kyocera Dome,stadium,55000.0,Asia,Japan,Osaka,2,TWICE,female,3,9,JYP,4,growing
+9420.9606608612,unreported,KSPO Dome,arena,15000.0,Asia,South Korea,Seoul,1,TWICE,female,3,9,JYP,6,established
+30428.06099459935,unreported,Philippine Arena,arena,55000.0,Asia,Philippines,Bulacan,1,TWICE,female,3,9,JYP,9,established
+20912.197643639567,unreported,Malaysia National Hockey Stadium,stadium,20000.0,Asia,Malaysia,Kuala Lumpur,1,TWICE,female,3,9,JYP,10,established
+92806.83780761766,unreported,National Stadium,stadium,55000.0,Asia,Taiwan,Kaohsiung,2,TWICE,female,3,9,JYP,10,established
+88192.46963844787,unreported,Kai Tak Stadium,stadium,45995.0,Asia,Hong Kong,Hong Kong,2,TWICE,female,3,9,JYP,10,established
+27376.559613784044,unreported,Rogers Arena,arena,19000.0,North America,Canada,Vancouver,2,TWICE,female,3,9,JYP,10,established
+26924.156719447015,unreported,Oakland Arena,arena,19596.0,North America,United States,Oakland,2,TWICE,female,3,9,JYP,10,established
+41494.57762852678,unreported,Kia Forum,arena,17500.0,North America,United States,Inglewood,4,TWICE,female,3,9,JYP,10,established
+15465.19313382128,unreported,Xfinity Mobile Arena,arena,21000.0,North America,United States,Philadelphia,1,TWICE,female,3,9,JYP,10,established
+126700.67973792269,unreported,Taipei Dome,stadium,59833.0,Asia,Taiwan,Taipei,3,TWICE,female,3,9,JYP,10,established
+26517.15021913215,unreported,United Center,arena,23500.0,North America,United States,Chicago,2,TWICE,female,3,9,JYP,10,established
+15466.83813382128,unreported,Little Caesars Arena,arena,22000.0,North America,United States,Detroit,1,TWICE,female,3,9,JYP,10,established
+15266.148733180256,unreported,Grand Casino Arena,arena,20554.0,North America,United States,Saint Paul,1,TWICE,female,3,9,JYP,10,established
+15465.19313382128,unreported,Ball Arena,arena,21000.0,North America,United States,Denver,1,TWICE,female,3,9,JYP,10,established
+129963.34325632098,unreported,Japan National Stadium,stadium,67750.0,Asia,Japan,Tokyo,3,TWICE,female,3,9,JYP,10,established
+15247.821422569856,unreported,MEO Arena,arena,20100.0,Europe,Portugal,Lisbon,1,TWICE,female,3,9,JYP,10,established
+15134.713138829251,unreported,Palau Sant Jordi,arena,17960.0,Europe,Spain,Barcelona,1,TWICE,female,3,9,JYP,10,established
+28241.493179315796,unreported,Accor Arena,arena,20300.0,Europe,France,Paris,2,TWICE,female,3,9,JYP,10,established
+15046.553304688037,unreported,Inalpi Arena,arena,15657.0,Europe,Italy,Turin,1,TWICE,female,3,9,JYP,10,established
+15141.199381490114,unreported,Uber Arena,arena,17000.0,Europe,Germany,Berlin,1,TWICE,female,3,9,JYP,10,established
+15363.754250577953,unreported,Lanxess Arena,arena,20000.0,Europe,Germany,Cologne,1,TWICE,female,3,9,JYP,10,established
+26012.472543747197,unreported,Ziggo Dome,arena,17000.0,Europe,Netherlands,Amsterdam,2,TWICE,female,3,9,JYP,10,established
+29180.57095355008,unreported,The O2 Arena,arena,20000.0,Europe,England,London,2,TWICE,female,3,9,JYP,10,established
+21916.624292119574,unreported,Uber Arena,arena,17000.0,Europe,Germany,Berlin,2,ATEEZ,male,4,8,KQ,4,growing
+13527.521985719377,unreported,The O2 Arena,arena,20000.0,Europe,England,London,1,ATEEZ,male,4,8,KQ,4,growing
+12709.960524319456,unreported,Nangang Exhibition Center,concert hall,,Asia,Taiwan,Taipei,1,ATEEZ,male,4,8,KQ,4,growing
+8419.013813640217,unreported,AsiaWorld–Expo,arena,14000.0,Asia,Hong Kong,Hong Kong,1,ATEEZ,male,4,8,KQ,4,growing
+25089.976770557867,unreported,Jeddah Superdome,concert hall,40000.0,Middle East,Saudi Arabia,Jeddah,1,ATEEZ,male,4,8,KQ,4,growing
+8882.492605464737,unreported,IMPACT Arena,arena,12000.0,Asia,Thailand,Bangkok,1,ATEEZ,male,4,8,KQ,4,growing
+32416.7899167397,unreported,Allianz Parque,stadium,55000.0,South America,Brazil,São Paulo,1,ATEEZ,male,4,8,KQ,4,growing
+6084.039744472438,unreported,Coliseo Bicentenario,arena,7000.0,South America,Colombia,Bogotá,1,ATEEZ,male,4,8,KQ,4,growing
+8268.22210666377,unreported,Singapore Indoor Stadium,arena,9000.0,Asia,Singapore,Singapore,1,ATEEZ,male,4,8,KQ,4,growing
+7251.262898505507,unreported,Smart Araneta Coliseum,arena,9679.0,Asia,Philippines,Manila,1,ATEEZ,male,4,8,KQ,4,growing
+17055.18741843961,unreported,Inspire Arena,arena,15000.0,Asia,South Korea,Incheon,2,ATEEZ,male,4,8,KQ,6,established
+47947.949388422036,unreported,Saitama Super Arena,arena,22500.0,Asia,Japan,Saitama,3,ATEEZ,male,4,8,KQ,6,established
+21508.972220478143,unreported,Portmesse Nagoya,concert hall,15000.0,Asia,Japan,Nagoya,2,ATEEZ,male,4,8,KQ,6,established
+17203.301585751684,unreported,Glion Arena Kobe,arena,10000.0,Asia,Japan,Kobe,2,ATEEZ,male,4,8,KQ,6,established
+11261.859712773437,unreported,NTSU Arena,arena,15000.0,Asia,Taiwan,Taoyuan,1,ATEEZ,male,4,8,KQ,7,established
+13780.327988637588,unreported,ICE BSD,concert hall,,Asia,Indonesia,Tangerang,1,ATEEZ,male,4,8,KQ,7,established
+8358.778092405184,unreported,Singapore Indoor Stadium,arena,9000.0,Asia,Singapore,Singapore,1,ATEEZ,male,4,8,KQ,7,established
+20308.775688999955,unreported,Rod Laver Arena,arena,14820.0,Oceania,Australia,Melbourne,2,ATEEZ,male,4,8,KQ,7,established
+21948.747609577404,unreported,Qudos Bank Arena,arena,18000.0,Oceania,Australia,Sydney,2,ATEEZ,male,4,8,KQ,7,established
+7354.6084973421575,unreported,Smart Araneta Coliseum,arena,9679.0,Asia,Philippines,Manila,1,ATEEZ,male,4,8,KQ,7,established
+9610.97086851391,unreported,Unifi Arena,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1,ATEEZ,male,4,8,KQ,7,established
+10698.159022796282,unreported,Venetian Arena,arena,14000.0,Asia,Macau,Macau,1,ATEEZ,male,4,8,KQ,7,established
+9667.987725122024,unreported,IMPACT Arena,arena,12000.0,Asia,Thailand,Bangkok,1,ATEEZ,male,4,8,KQ,7,established
+2468.5541964285717,unreported,IMPACT Thunder Dome,concert hall,3500.0,Asia,Thailand,Bangkok,1,BOYNEXTDOOR,male,5,6,"KOZ,HYBE",1,rookie
+36080.232862816185,unreported,Gocheok Sky Dome,stadium,16744.0,Asia,South Korea,Seoul,2,BTS,male,3,7,"Bighit,HYBE",3,growing
+19544.443705837373,unreported,Movistar Arena,arena,15500.0,South America,Chile,Santiago,2,BTS,male,3,7,"Bighit,HYBE",3,growing
+11482.473872701856,unreported,Allstate Arena,arena,22000.0,North America,United States,Rosemont,1,BTS,male,3,7,"Bighit,HYBE",3,growing
+20146.806305666294,unreported,Honda Center,theater,10935.0,North America,United States,Anaheim,2,BTS,male,3,7,"Bighit,HYBE",3,growing
+18965.3441789948,unreported,IMPACT Arena,arena,12000.0,Asia,Thailand,Bangkok,2,BTS,male,3,7,"Bighit,HYBE",3,growing
+12533.385881818302,unreported,ICE BSD,concert hall,,Asia,Indonesia,Tangerang,1,BTS,male,3,7,"Bighit,HYBE",3,growing
+19523.831433110103,unreported,SM Mall of Asia Arena,arena,15000.0,Asia,Philippines,Pasay,2,BTS,male,3,7,"Bighit,HYBE",3,growing
+19219.924686038717,unreported,AsiaWorld–Expo,arena,14000.0,Asia,Hong Kong,Hong Kong,2,BTS,male,3,7,"Bighit,HYBE",3,growing
+32743.207268896174,unreported,Osaka-jō Hall,arena,16000.0,Asia,Japan,Osaka,3,BTS,male,3,7,"Bighit,HYBE",3,growing
+7492.567175397014,unreported,Hiroshima Green Arena,arena,10000.0,Asia,Japan,Hiroshima,1,BTS,male,3,7,"Bighit,HYBE",3,growing
+17978.619286068013,unreported,Nippon Gaishi Hall,arena,10000.0,Asia,Japan,Nagoya,2,BTS,male,3,7,"Bighit,HYBE",4,growing
+48371.954662698416,unreported,Saitama Super Arena,arena,22500.0,Asia,Japan,Saitama,3,BTS,male,3,7,"Bighit,HYBE",4,growing
+20755.335954865837,unreported,Marine Messe,arena,15000.0,Asia,Japan,Fukuoka,2,BTS,male,3,7,"Bighit,HYBE",4,growing
+17686.306430553115,unreported,Makomanai Ice Arena,arena,10024.0,Asia,Japan,Sapporo,2,BTS,male,3,7,"Bighit,HYBE",4,growing
+83195.81379702331,unreported,Kyocera Dome,stadium,55000.0,Asia,Japan,Osaka,2,BTS,male,3,7,"Bighit,HYBE",4,growing
+20366.417657814254,unreported,NTSU Arena,arena,15000.0,Asia,Taiwan,Taoyuan,2,BTS,male,3,7,"Bighit,HYBE",4,growing
+9302.961181835346,unreported,Venetian Arena,arena,14000.0,Asia,Macau,Macau,1,BTS,male,3,7,"Bighit,HYBE",4,growing
+38686.991084271,unreported,Gocheok Sky Dome,stadium,16744.0,Asia,South Korea,Seoul,3,BTS,male,3,7,"Bighit,HYBE",4,growing
+98292.34130698963,unreported,Estadio Metropolitano,stadium,60000.0,Europe,Spain,Madrid,2,BTS,male,3,7,"Bighit,HYBE",13,legacy
+92411.8923665119,unreported,King Baudouin Stadium,stadium,50093.0,Europe,Belgium,Brussels,2,BTS,male,3,7,"Bighit,HYBE",13,legacy
+97824.8496998468,unreported,Tottenham Hotspur Stadium,stadium,62850.0,Europe,England,London,2,BTS,male,3,7,"Bighit,HYBE",13,legacy
+108155.77858720504,unreported,Allianz Arena,stadium,70000.0,Europe,Germany,Munich,2,BTS,male,3,7,"Bighit,HYBE",13,legacy
+111649.16222278427,unreported,Stade de France,stadium,81338.0,Europe,France,Paris,2,BTS,male,3,7,"Bighit,HYBE",13,legacy
+104556.71600541593,unreported,M&T Bank Stadium,stadium,70745.0,North America,United States,Baltimore,2,BTS,male,3,7,"Bighit,HYBE",13,legacy
+107208.15628262963,unreported,AT&T Stadium,stadium,100000.0,North America,United States,Arlington,2,BTS,male,3,7,"Bighit,HYBE",13,legacy
+129613.90098846382,unreported,MorumBIS,stadium,72039.0,South America,Brazil,São Paulo,3,BTS,male,3,7,"Bighit,HYBE",13,legacy
+149572.36249037366,unreported,Singapore National Stadium,stadium,55000.0,Asia,Singapore,Singapore,4,BTS,male,3,7,"Bighit,HYBE",13,legacy
+34231.50406055627,unreported,Allianz Parque,stadium,55000.0,South America,Brazil,São Paulo,1,ENHYPEN,male,4,6,"Belift,HYBE",5,growing
+28279.62740572908,unreported,Estadio San Marcos,stadium,32000.0,South America,Peru,Lima,1,ENHYPEN,male,4,6,"Belift,HYBE",5,growing
+34960.629700135716,unreported,Arena CDMX,arena,22300.0,North America,Mexico,Mexico City,3,ENHYPEN,male,4,6,"Belift,HYBE",5,growing
+22078.313416244302,unreported,Oakland Arena,arena,19596.0,North America,United States,Oakland,2,ENHYPEN,male,4,6,"Belift,HYBE",5,growing
+12250.081640166507,unreported,Tacoma Dome,arena,21000.0,North America,United States,Tacoma,1,ENHYPEN,male,4,6,"Belift,HYBE",5,growing
+11568.310084636254,unreported,T-Mobile Arena,arena,20000.0,North America,United States,Las Vegas,1,ENHYPEN,male,4,6,"Belift,HYBE",5,growing
+20897.685643427332,unreported,,,,Asia,Macau,Macau,2,ENHYPEN,male,4,6,"Belift,HYBE",5,growing
+87636.30983331088,unreported,Tokyo Dome,stadium,55000.0,Asia,Japan,Tokyo,2,ENHYPEN,male,4,6,"Belift,HYBE",6,established
+66470.93357921074,unreported,Vantelin Dome,stadium,36418.0,Asia,Japan,Nagoya,2,ENHYPEN,male,4,6,"Belift,HYBE",6,established
+12893.157447728065,unreported,,,,Asia,Indonesia,Jakarta,1,ENHYPEN,male,4,6,"Belift,HYBE",6,established
+65331.79632589117,unreported,PayPay Dome,stadium,47500.0,Asia,Japan,Fukuoka,2,ENHYPEN,male,4,6,"Belift,HYBE",6,established
+79809.39499115456,unreported,Kyocera Dome,stadium,55000.0,Asia,Japan,Osaka,2,ENHYPEN,male,4,6,"Belift,HYBE",6,established
+11113.16392757742,unreported,Unipol Dome,arena,16000.0,Europe,Italy,Milan,1,ENHYPEN,male,4,6,"Belift,HYBE",6,established
+28441.561694779106,unreported,La Défense Arena,arena,45000.0,Europe,France,Paris,1,ENHYPEN,male,4,6,"Belift,HYBE",6,established
+12514.866266949386,unreported,Ziggo Dome,arena,17000.0,Europe,Netherlands,Amsterdam,1,ENHYPEN,male,4,6,"Belift,HYBE",6,established
+11936.57645822258,unreported,Uber Arena,arena,17000.0,Europe,Germany,Berlin,1,ENHYPEN,male,4,6,"Belift,HYBE",6,established
+13793.629936108548,unreported,The O2 Arena,arena,20000.0,Europe,England,London,1,ENHYPEN,male,4,6,"Belift,HYBE",6,established
+12893.157447728065,unreported,,,,Asia,Singapore,Singapore,1,ENHYPEN,male,4,6,"Belift,HYBE",6,established
+37137.23385957037,unreported,KSPO Dome,arena,15000.0,Asia,South Korea,Seoul,5,EXO,male,3,5,"SM,KAKAO",2,rookie
+24656.820170338033,unreported,Mercedes-Benz Arena,arena,18000.0,Asia,China,Shanghai,2,EXO,male,3,5,"SM,KAKAO",3,growing
+29190.98227765403,unreported,Taipei Arena,stadium,13000.0,Asia,Taiwan,Taipei,2,EXO,male,3,5,"SM,KAKAO",3,growing
+18675.933145318206,unreported,IMPACT Arena,arena,12000.0,Asia,Thailand,Bangkok,2,EXO,male,3,5,"SM,KAKAO",3,growing
+24967.408575256177,unreported,Cadillac Arena,arena,19000.0,Asia,China,Beijing,2,EXO,male,3,5,"SM,KAKAO",3,growing
+27792.11725102267,unreported,Chengdu Sports Centre,stadium,30000.0,Asia,China,Chengdu,1,EXO,male,3,5,"SM,KAKAO",3,growing
+18885.248597253867,unreported,AsiaWorld–Expo,arena,14000.0,Asia,Hong Kong,Hong Kong,2,EXO,male,3,5,"SM,KAKAO",3,growing
+32448.77119727088,unreported,Shaanxi Province Stadium,stadium,42383.0,Asia,China,Xi'an,1,EXO,male,3,5,"SM,KAKAO",3,growing
+36176.93694164047,unreported,Chongqing Olympic Sports Center,stadium,58680.0,Asia,China,Chongqing,1,EXO,male,3,5,"SM,KAKAO",3,growing
+10818.325461047703,unreported,Guangzhou International Sports Arena,arena,18000.0,Asia,China,Guangzhou,1,EXO,male,3,5,"SM,KAKAO",3,growing
+19277.17220744735,unreported,Marine Messe,arena,15000.0,Asia,Japan,Fukuoka,2,EXO,male,3,5,"SM,KAKAO",3,growing
+125720.64225764471,unreported,Tokyo Dome,stadium,55000.0,Asia,Japan,Tokyo,3,EXO,male,3,5,"SM,KAKAO",3,growing
+106886.52394812093,unreported,Kyocera Dome,stadium,55000.0,Asia,Japan,Osaka,3,EXO,male,3,5,"SM,KAKAO",3,growing
+9128.78356648482,unreported,Venetian Arena,arena,14000.0,Asia,Macau,Macau,1,EXO,male,3,5,"SM,KAKAO",3,growing
+9040.921597798495,unreported,Nanjing Olympic Sports Center,arena,13000.0,Asia,China,Nanjing,1,EXO,male,3,5,"SM,KAKAO",3,growing
+18262.51527764498,unreported,Singapore Indoor Stadium,arena,9000.0,Asia,Singapore,Singapore,2,EXO,male,3,5,"SM,KAKAO",3,growing
+19184.04791889029,unreported,SM Mall of Asia Arena,arena,15000.0,Asia,Philippines,Pasay,2,EXO,male,3,5,"SM,KAKAO",3,growing
+5736.2057541572,unreported,Texas Trust CU Theatre,concert hall,6350.0,North America,United States,Grand Prairie,1,EXO,male,3,5,"SM,KAKAO",3,growing
+5957.438746461739,unreported,UBC Thunderbird Arena,arena,8000.0,North America,Canada,Vancouver,1,EXO,male,3,5,"SM,KAKAO",3,growing
+9984.129827854133,unreported,Memorial Sports Arena,arena,16740.0,North America,United States,Los Angeles,1,EXO,male,3,5,"SM,KAKAO",3,growing
+4178.70222979798,unreported,Rosemont Theatre,theater,4400.0,North America,United States,Rosemont,1,EXO,male,3,5,"SM,KAKAO",3,growing
+12016.897567486581,unreported,ICE BSD,concert hall,,Asia,Indonesia,Tangerang,1,EXO,male,3,5,"SM,KAKAO",3,growing
+10818.325461047703,unreported,Dalian Sports Centre Stadium,arena,18000.0,Asia,China,Dalian,1,EXO,male,3,5,"SM,KAKAO",3,growing
+19281.30567241294,unreported,Stadium Merdeka,stadium,25000.0,Asia,Malaysia,Kuala Lumpur,1,EXO,male,3,5,"SM,KAKAO",3,growing
+31590.4543374322,unreported,KSPO Dome,arena,15000.0,Asia,South Korea,Seoul,3,EXO,male,3,5,"SM,KAKAO",3,growing
+36974.56844488783,unreported,KSPO Dome,arena,15000.0,Asia,South Korea,Seoul,6,EXO,male,3,5,"SM,KAKAO",4,growing
+19797.8737216878,unreported,IMPACT Arena,arena,12000.0,Asia,Thailand,Bangkok,2,EXO,male,3,5,"SM,KAKAO",4,growing
+17420.419307023243,unreported,Hiroshima Green Arena,arena,10000.0,Asia,Japan,Hiroshima,2,EXO,male,3,5,"SM,KAKAO",4,growing
+6223.091982753227,unreported,Huanglong Sports Center,arena,8000.0,Asia,China,Hangzhou,1,EXO,male,3,5,"SM,KAKAO",4,growing
+30727.12536301773,unreported,Marine Messe,arena,15000.0,Asia,Japan,Fukuoka,3,EXO,male,3,5,"SM,KAKAO",4,growing
+17635.743831734642,unreported,Makomanai Ice Arena,arena,10024.0,Asia,Japan,Sapporo,2,EXO,male,3,5,"SM,KAKAO",4,growing
+23760.485682010833,unreported,Nippon Gaishi Hall,arena,10000.0,Asia,Japan,Nagoya,3,EXO,male,3,5,"SM,KAKAO",4,growing
+29826.875953784933,unreported,Taipei Arena,stadium,13000.0,Asia,Taiwan,Taipei,2,EXO,male,3,5,"SM,KAKAO",4,growing
+87621.9816434853,unreported,Tokyo Dome,stadium,55000.0,Asia,Japan,Tokyo,2,EXO,male,3,5,"SM,KAKAO",4,growing
+107065.21049573997,unreported,Kyocera Dome,stadium,55000.0,Asia,Japan,Osaka,3,EXO,male,3,5,"SM,KAKAO",4,growing
+20059.534946344844,unreported,AsiaWorld–Expo,arena,14000.0,Asia,Hong Kong,Hong Kong,2,EXO,male,3,5,"SM,KAKAO",4,growing
+17907.12790017315,unreported,Smart Araneta Coliseum,arena,9679.0,Asia,Philippines,Manila,2,EXO,male,3,5,"SM,KAKAO",4,growing
+19119.19317241294,unreported,Stadium Merdeka,stadium,25000.0,Asia,Malaysia,Kuala Lumpur,1,EXO,male,3,5,"SM,KAKAO",4,growing
+8040.7154521413295,unreported,Singapore Indoor Stadium,arena,9000.0,Asia,Singapore,Singapore,1,EXO,male,3,5,"SM,KAKAO",4,growing
+12684.724355673176,unreported,Arena CDMX,arena,22300.0,North America,Mexico,Mexico City,1,EXO,male,3,5,"SM,KAKAO",5,growing
+65410.55830891436,unreported,Seoul Olympic Stadium,stadium,65599.0,Asia,South Korea,Seoul,2,EXO,male,3,5,"SM,KAKAO",5,growing
+32746.494024656997,unreported,Gocheok Sky Dome,stadium,16744.0,Asia,South Korea,Seoul,3,EXO,male,3,5,"SM,KAKAO",5,growing
+31321.84862801661,unreported,Marine Messe,arena,15000.0,Asia,Japan,Fukuoka,3,EXO,male,3,5,"SM,KAKAO",5,growing
+45923.807468905274,unreported,Saitama Super Arena,arena,22500.0,Asia,Japan,Saitama,2,EXO,male,3,5,"SM,KAKAO",5,growing
+30578.268076829907,unreported,Taipei Arena,stadium,13000.0,Asia,Taiwan,Taipei,2,EXO,male,3,5,"SM,KAKAO",5,growing
+79743.96993357492,unreported,Kyocera Dome,stadium,55000.0,Asia,Japan,Osaka,2,EXO,male,3,5,"SM,KAKAO",5,growing
+8090.433839046093,unreported,Singapore Indoor Stadium,arena,9000.0,Asia,Singapore,Singapore,1,EXO,male,3,5,"SM,KAKAO",5,growing
+30304.27014381209,unreported,IMPACT Arena,arena,12000.0,Asia,Thailand,Bangkok,3,EXO,male,3,5,"SM,KAKAO",5,growing
+9120.725369796484,unreported,SM Mall of Asia Arena,arena,15000.0,Asia,Philippines,Pasay,1,EXO,male,3,5,"SM,KAKAO",6,established
+20004.529056892436,unreported,AsiaWorld–Expo,arena,14000.0,Asia,Hong Kong,Hong Kong,2,EXO,male,3,5,"SM,KAKAO",6,established
+8596.092664909022,unreported,Unifi Arena,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1,EXO,male,3,5,"SM,KAKAO",6,established
+33910.88618338716,unreported,Gocheok Sky Dome,stadium,16744.0,Asia,South Korea,Seoul,3,EXO,male,3,5,"SM,KAKAO",6,established
+20561.646489724382,unreported,Venetian Arena,arena,14000.0,Asia,Macau,Macau,2,EXO,male,3,5,"SM,KAKAO",6,established
+33790.0623640624,unreported,Philippine Arena,arena,55000.0,Asia,Philippines,Bulacan,1,G-Dragon,male,2,1,Galaxy Corporation,15,legacy
+19475.93137964608,unreported,Unifi Arena,arena,11000.0,Asia,Malaysia,Kuala Lumpur,2,G-Dragon,male,2,1,Galaxy Corporation,15,legacy
+22406.502350533454,unreported,Indonesia Arena,arena,16500.0,Asia,Indonesia,Jakarta,2,G-Dragon,male,2,1,Galaxy Corporation,15,legacy
+38174.07811370779,unreported,Rajamangala Stadium,stadium,51560.0,Asia,Thailand,Bangkok,1,G-Dragon,male,2,1,Galaxy Corporation,15,legacy
+37739.85733201507,unreported,Crypto.com Arena,stadium,20000.0,North America,United States,Los Angeles,2,G-Dragon,male,2,1,Galaxy Corporation,16,legacy
+31591.86683358758,unreported,La Défense Arena,arena,45000.0,Europe,France,Paris,1,G-Dragon,male,2,1,Galaxy Corporation,16,legacy
+84289.9652326262,unreported,Kyocera Dome,stadium,55000.0,Asia,Japan,Osaka,2,G-Dragon,male,2,1,Galaxy Corporation,16,legacy
+93519.26346180882,unreported,Taipei Dome,stadium,59833.0,Asia,Taiwan,Taipei,2,G-Dragon,male,2,1,Galaxy Corporation,16,legacy
+23358.488585934207,unreported,Vinhomes Ocean Park 3,concert hall,,Asia,Vietnam,Hung Yen,2,G-Dragon,male,2,1,Galaxy Corporation,16,legacy
+11874.548125760439,unreported,Madison Square Garden,,,North America,United States,New York,1,NCT127,male,3,8,"SM,KAKAO",3,growing
+9071.385079263759,unreported,Gas South Arena,arena,13100.0,North America,United States,Duluth,1,NCT127,male,3,8,"SM,KAKAO",3,growing
+7096.344857910157,unreported,Wintrust Arena,arena,10387.0,North America,United States,Chicago,1,NCT127,male,3,8,"SM,KAKAO",3,growing
+10807.308847427848,unreported,SAP Center,arena,19190.0,North America,United States,San Jose,1,NCT127,male,3,8,"SM,KAKAO",3,growing
+10817.585933570354,unreported,Kia Forum,arena,17500.0,North America,United States,Inglewood,1,NCT127,male,3,8,"SM,KAKAO",3,growing
+5989.696853058297,unreported,WAMU Theater,concert hall,7000.0,North America,United States,Seattle,1,NCT127,male,3,8,"SM,KAKAO",3,growing
+7718.424994496393,unreported,Aichi Sky Expo,concert hall,10000.0,Asia,Japan,Nagoya,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing
+10870.960115709864,unreported,Prudential Center,arena,17000.0,North America,United States,Newark,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing
+11892.248468362233,unreported,United Center,arena,23500.0,North America,United States,Chicago,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing
+2526.3703888888886,unreported,Toyota Music Factory,theater,4000.0,North America,United States,Irving,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing
+10888.26277003322,unreported,Kia Forum,arena,17500.0,North America,United States,Inglewood,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing
+10872.15291078147,unreported,SAP Center,arena,19190.0,North America,United States,San Jose,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing
+8663.303761631347,unreported,Unifi Arena,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing
+9179.18994148931,unreported,NTSU Arena,arena,15000.0,Asia,Taiwan,Taoyuan,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing
+9135.436884532897,unreported,Movistar Arena,arena,15000.0,Europe,Spain,Madrid,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing
+4962.681567768424,unreported,La Seine Musicale,concert hall,6000.0,Europe,France,Paris,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing
+9116.54847465814,unreported,Wembley Arena,arena,12500.0,Europe,England,London,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing
+11552.2242059439,unreported,Uber Arena,arena,17000.0,Europe,Germany,Berlin,1,SEVENTEEN,male,3,13,"Pledis,HYBE",3,growing
+105382.34294155844,unreported,Vantelin Dome,stadium,36418.0,Asia,Japan,Nagoya,3,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established
+108537.03677868748,unreported,Kyocera Dome,stadium,55000.0,Asia,Japan,Osaka,3,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established
+89671.84044501663,unreported,Tokyo Dome,stadium,55000.0,Asia,Japan,Tokyo,2,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established
+77402.64411461233,unreported,PayPay Dome,stadium,47500.0,Asia,Japan,Fukuoka,2,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established
+75802.43020384104,unreported,Kai Tak Stadium,stadium,45995.0,Asia,Hong Kong,Hong Kong,2,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established
+37877.593353117874,unreported,Singapore National Stadium,stadium,55000.0,Asia,Singapore,Singapore,1,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established
+68841.23640886701,unreported,Suphachalasai Stadium,stadium,35000.0,Asia,Thailand,Bangkok,2,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established
+21956.954662562763,unreported,Philippine Sports Stadium,stadium,25000.0,Asia,Philippines,Bulacan,1,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established
+55449.83346626984,unreported,Incheon Stadium,stadium,29376.0,Asia,South Korea,Incheon,2,SEVENTEEN,male,3,13,"Pledis,HYBE",9,established
+46323.61376859537,unreported,Estadio Metropolitano,stadium,60000.0,Europe,Spain,Madrid,1,Stray Kids,male,4,8,JYP,7,established
+54626.31190241704,unreported,Incheon Stadium,stadium,29376.0,Asia,South Korea,Incheon,2,Stray Kids,male,4,8,JYP,7,established
+21585.297270983192,unreported,Portmesse Nagoya,concert hall,15000.0,Asia,Japan,Nagoya,2,The Boyz,male,4,10,ONE HUNDRED,7,established
+20215.978591923908,unreported,Pia Arena MM,arena,12141.0,Asia,Japan,Yokohama,2,The Boyz,male,4,10,ONE HUNDRED,7,established
+14700.283315965384,unreported,World Memorial Hall,arena,8000.0,Asia,Japan,Kobe,2,The Boyz,male,4,10,ONE HUNDRED,7,established
+1453.35875,unreported,Paramount Theatre,concert hall,3040.0,North America,United States,Oakland,1,The Boyz,male,4,10,ONE HUNDRED,7,established
+19026.86452025808,unreported,Keio Arena Tokyo,arena,10000.0,Asia,Japan,Tokyo,2,The Boyz,male,4,10,ONE HUNDRED,7,established
+13792.639405304257,unreported,Studio City,concert hall,,Asia,Macau,Macau,1,The Boyz,male,4,10,ONE HUNDRED,7,established
+13792.639405304257,unreported,Idea Live Arena,concert hall,,Asia,Malaysia,Kuala Lumpur,1,The Boyz,male,4,10,ONE HUNDRED,7,established
+11096.241937347155,unreported,NTSU Arena,arena,15000.0,Asia,Taiwan,Taoyuan,1,The Boyz,male,4,10,ONE HUNDRED,7,established
+5970.434548819104,unreported,Idea Live,concert hall,8000.0,Asia,Thailand,Bangkok,1,The Boyz,male,4,10,ONE HUNDRED,7,established
+13792.639405304257,unreported,ICE BSD,concert hall,,Asia,Indonesia,Tangerang,1,The Boyz,male,4,10,ONE HUNDRED,7,established
+30067.433309404674,reported,AsiaWorld–Expo,arena,14000.0,Asia,Hong Kong,Hong Kong,3,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established
+18944.99617725512,reported,Singapore Indoor Stadium,arena,9000.0,Asia,Singapore,Singapore,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established
+81515.0925241519,reported,Tokyo Dome,stadium,55000.0,Asia,Japan,Tokyo,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established
+83991.4836779469,reported,Taipei Dome,stadium,59833.0,Asia,Taiwan,Taipei,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established
+72838.39912076741,reported,Kyocera Dome,stadium,55000.0,Asia,Japan,Osaka,2,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established
+8549.881872114931,reported,Unifi Arena,arena,11000.0,Asia,Malaysia,Kuala Lumpur,1,TOMORROW X TOGETHER,male,4,5,"Bighit,HYBE",6,established
