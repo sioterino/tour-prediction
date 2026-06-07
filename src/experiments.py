@@ -27,7 +27,7 @@ LEAKY_COLS = [
 
 def run() -> None:
     """Run all 18 experiments (6 datasets x 3 models) and save results."""
-    os.makedirs("results", exist_ok=True)
+    os.makedirs("E:\\code\\tour-prediction\\data\\results", exist_ok=True)
 
     results = []
     models_dict = get_regression_models()
@@ -37,6 +37,10 @@ def run() -> None:
 
         # Load dataset
         df = pd.read_csv(dataset_path)
+
+        # Keep only reported records
+        if "reporting_status" in df.columns:
+            df = df[df["reporting_status"] == "reported"]
 
         # Drop rows where attendance is null
         df = df.dropna(subset=["attendance"])
@@ -91,7 +95,7 @@ def run() -> None:
 
     # Convert results to DataFrame and save
     results_df = pd.DataFrame(results)
-    results_df.to_csv("results/metrics.csv", index=False)
+    results_df.to_csv("E:\\code\\tour-prediction\\data\\results\\metrics.csv", index=False)
 
     # Print summary table sorted by R2 descending
     print("\n" + "="*80)
