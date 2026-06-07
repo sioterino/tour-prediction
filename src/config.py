@@ -30,3 +30,6 @@ LEAKY_COLS: list[str] = [
     "box_score",
     "avg_ticket_price",
 ]
+
+# ── Exporting ─────────────────────────────────────────────────────────────────
+MODEL_EXT = '.joblib'
