@@ -78,12 +78,13 @@ def build_feature_matrices(X_train: pd.DataFrame, X_other: pd.DataFrame) -> tupl
     return scale_features(X_train_enc, X_other_enc)
 
 
-def build_train_matrix(X_train: pd.DataFrame) -> np.ndarray:
+def build_train_matrix(X_train: pd.DataFrame) -> tuple[np.ndarray, StandardScaler, list[str]]:
     """Preprocessing pipeline for a single frame (no second split to align with)."""
     X = drop_leaky_columns(X_train)
     X = pd.get_dummies(X, drop_first=True)
+    columns = list(X.columns)
     scaler = StandardScaler()
-    return scaler.fit_transform(X)
+    return scaler.fit_transform(X), scaler, columns
 
 
 # ── Dataset loading ───────────────────────────────────────────────────────────

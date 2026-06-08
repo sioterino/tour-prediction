@@ -10,6 +10,7 @@ PROCESSED_DIR   = DATA_DIR / "processed"
 RESULTS_DIR     = DATA_DIR / "results"
 PREDICTIONS_DIR = DATA_DIR / "predictions"
 MODELS_DIR      = ROOT / "models"
+STATIC_DIR      = ROOT / "data" / "static"
 
 METRICS_PATH = RESULTS_DIR / "metrics.csv"
 

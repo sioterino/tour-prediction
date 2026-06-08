@@ -1,0 +1,2459 @@
+[
+  {
+    "id": 1,
+    "venue_name": "Cadillac Arena",
+    "venue_type": "arena",
+    "venue_capacity": 19000,
+    "continent": "Asia",
+    "country": "China",
+    "city": "Beijing"
+  },
+  {
+    "id": 2,
+    "venue_name": "Chengdu Sports Centre",
+    "venue_type": "stadium",
+    "venue_capacity": 30000,
+    "continent": "Asia",
+    "country": "China",
+    "city": "Chengdu"
+  },
+  {
+    "id": 3,
+    "venue_name": "Chongqing Olympic Sports Center",
+    "venue_type": "stadium",
+    "venue_capacity": 58680,
+    "continent": "Asia",
+    "country": "China",
+    "city": "Chongqing"
+  },
+  {
+    "id": 4,
+    "venue_name": "Dalian Sports Centre Stadium",
+    "venue_type": "arena",
+    "venue_capacity": 18000,
+    "continent": "Asia",
+    "country": "China",
+    "city": "Dalian"
+  },
+  {
+    "id": 5,
+    "venue_name": "Guangzhou International Sports Arena",
+    "venue_type": "arena",
+    "venue_capacity": 18000,
+    "continent": "Asia",
+    "country": "China",
+    "city": "Guangzhou"
+  },
+  {
+    "id": 6,
+    "venue_name": "Huanglong Sports Center",
+    "venue_type": "arena",
+    "venue_capacity": 8000,
+    "continent": "Asia",
+    "country": "China",
+    "city": "Hangzhou"
+  },
+  {
+    "id": 7,
+    "venue_name": "Nanjing Olympic Sports Center",
+    "venue_type": "arena",
+    "venue_capacity": 13000,
+    "continent": "Asia",
+    "country": "China",
+    "city": "Nanjing"
+  },
+  {
+    "id": 8,
+    "venue_name": "Mercedes-Benz Arena",
+    "venue_type": "arena",
+    "venue_capacity": 18000,
+    "continent": "Asia",
+    "country": "China",
+    "city": "Shanghai"
+  },
+  {
+    "id": 9,
+    "venue_name": "Shaanxi Province Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 42383,
+    "continent": "Asia",
+    "country": "China",
+    "city": "Xi'an"
+  },
+  {
+    "id": 10,
+    "venue_name": "AsiaWorld–Expo",
+    "venue_type": "arena",
+    "venue_capacity": 14000,
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "city": "Hong Kong"
+  },
+  {
+    "id": 11,
+    "venue_name": "Kai Tak Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 45995,
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "city": "Hong Kong"
+  },
+  {
+    "id": 12,
+    "venue_name": "Beach City International Stadium",
+    "venue_type": "arena",
+    "venue_capacity": 15000,
+    "continent": "Asia",
+    "country": "Indonesia",
+    "city": "Jakarta"
+  },
+  {
+    "id": 13,
+    "venue_name": "Gelora Bung Karno Main Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 77193,
+    "continent": "Asia",
+    "country": "Indonesia",
+    "city": "Jakarta"
+  },
+  {
+    "id": 14,
+    "venue_name": "Gelora Bung Karno Tennis Indoor Stadium",
+    "venue_type": "arena",
+    "venue_capacity": 3750,
+    "continent": "Asia",
+    "country": "Indonesia",
+    "city": "Jakarta"
+  },
+  {
+    "id": 15,
+    "venue_name": "Indonesia Arena",
+    "venue_type": "arena",
+    "venue_capacity": 16500,
+    "continent": "Asia",
+    "country": "Indonesia",
+    "city": "Jakarta"
+  },
+  {
+    "id": 16,
+    "venue_name": "International Stadium",
+    "venue_type": "arena",
+    "venue_capacity": 82000,
+    "continent": "Asia",
+    "country": "Indonesia",
+    "city": "Jakarta"
+  },
+  {
+    "id": 17,
+    "venue_name": "Istora Senayan",
+    "venue_type": "arena",
+    "venue_capacity": 7166,
+    "continent": "Asia",
+    "country": "Indonesia",
+    "city": "Jakarta"
+  },
+  {
+    "id": 18,
+    "venue_name": "JIExpo Kemayoran",
+    "venue_type": "theater",
+    "venue_capacity": 2500,
+    "continent": "Asia",
+    "country": "Indonesia",
+    "city": "Jakarta"
+  },
+  {
+    "id": 19,
+    "venue_name": "Fukuoka Kokusai Center",
+    "venue_type": "arena",
+    "venue_capacity": 10000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Fukuoka"
+  },
+  {
+    "id": 20,
+    "venue_name": "Fukuoka Sunpalace Hotel Hall",
+    "venue_type": "concert hall",
+    "venue_capacity": 2316,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Fukuoka"
+  },
+  {
+    "id": 21,
+    "venue_name": "Marine Messe",
+    "venue_type": "arena",
+    "venue_capacity": 15000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Fukuoka"
+  },
+  {
+    "id": 22,
+    "venue_name": "PayPay Dome",
+    "venue_type": "stadium",
+    "venue_capacity": 47500,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Fukuoka"
+  },
+  {
+    "id": 23,
+    "venue_name": "HBG Hall",
+    "venue_type": "concert hall",
+    "venue_capacity": 2001,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Hiroshima"
+  },
+  {
+    "id": 24,
+    "venue_name": "Hiroshima Green Arena",
+    "venue_type": "arena",
+    "venue_capacity": 10000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Hiroshima"
+  },
+  {
+    "id": 25,
+    "venue_name": "Honda no Mori Hall",
+    "venue_type": "concert hall",
+    "venue_capacity": 1700,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Kanazawa"
+  },
+  {
+    "id": 26,
+    "venue_name": "Glion Arena Kobe",
+    "venue_type": "arena",
+    "venue_capacity": 10000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Kobe"
+  },
+  {
+    "id": 27,
+    "venue_name": "World Memorial Hall",
+    "venue_type": "arena",
+    "venue_capacity": 8000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Kobe"
+  },
+  {
+    "id": 28,
+    "venue_name": "Sekisui Heim Super Arena",
+    "venue_type": "arena",
+    "venue_capacity": 7063,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Miyagi"
+  },
+  {
+    "id": 29,
+    "venue_name": "Aichi International Arena",
+    "venue_type": "arena",
+    "venue_capacity": 17000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Nagoya"
+  },
+  {
+    "id": 30,
+    "venue_name": "Aichi Sky Expo",
+    "venue_type": "concert hall",
+    "venue_capacity": 10000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Nagoya"
+  },
+  {
+    "id": 31,
+    "venue_name": "Nagoya Civic Assembly Hall",
+    "venue_type": "concert hall",
+    "venue_capacity": 2000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Nagoya"
+  },
+  {
+    "id": 32,
+    "venue_name": "Nippon Gaishi Hall",
+    "venue_type": "arena",
+    "venue_capacity": 10000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Nagoya"
+  },
+  {
+    "id": 33,
+    "venue_name": "Portmesse Nagoya",
+    "venue_type": "concert hall",
+    "venue_capacity": 15000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Nagoya"
+  },
+  {
+    "id": 34,
+    "venue_name": "Vantelin Dome",
+    "venue_type": "stadium",
+    "venue_capacity": 36418,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Nagoya"
+  },
+  {
+    "id": 35,
+    "venue_name": "Toki Messe",
+    "venue_type": "concert hall",
+    "venue_capacity": 10000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Niigata"
+  },
+  {
+    "id": 36,
+    "venue_name": "Asue Arena",
+    "venue_type": "arena",
+    "venue_capacity": 16000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Osaka"
+  },
+  {
+    "id": 37,
+    "venue_name": "Kyocera Dome",
+    "venue_type": "stadium",
+    "venue_capacity": 55000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Osaka"
+  },
+  {
+    "id": 38,
+    "venue_name": "Nagai Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 47853,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Osaka"
+  },
+  {
+    "id": 39,
+    "venue_name": "Ookini Arena Maishima",
+    "venue_type": "arena",
+    "venue_capacity": 7056,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Osaka"
+  },
+  {
+    "id": 40,
+    "venue_name": "Orix Theater",
+    "venue_type": "theater",
+    "venue_capacity": 2400,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Osaka"
+  },
+  {
+    "id": 41,
+    "venue_name": "Osaka-jo Hall",
+    "venue_type": "arena",
+    "venue_capacity": 16000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Osaka"
+  },
+  {
+    "id": 42,
+    "venue_name": "Osaka-jō Hall",
+    "venue_type": "arena",
+    "venue_capacity": 16000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Osaka"
+  },
+  {
+    "id": 43,
+    "venue_name": "Belluna Dome",
+    "venue_type": "stadium",
+    "venue_capacity": 31552,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Saitama"
+  },
+  {
+    "id": 44,
+    "venue_name": "Saitama Super Arena",
+    "venue_type": "arena",
+    "venue_capacity": 22500,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Saitama"
+  },
+  {
+    "id": 45,
+    "venue_name": "Makomanai Ice Arena",
+    "venue_type": "arena",
+    "venue_capacity": 10024,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Sapporo"
+  },
+  {
+    "id": 46,
+    "venue_name": "Sapporo Arts and Culture Theater",
+    "venue_type": "concert hall",
+    "venue_capacity": 2302,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Sapporo"
+  },
+  {
+    "id": 47,
+    "venue_name": "Sendai Sun Plaza Hall",
+    "venue_type": "concert hall",
+    "venue_capacity": 2710,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Sendai"
+  },
+  {
+    "id": 48,
+    "venue_name": "Ecopa Arena",
+    "venue_type": "arena",
+    "venue_capacity": 10000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Shizuoka"
+  },
+  {
+    "id": 49,
+    "venue_name": "Shizuoka Stadium ECOPA",
+    "venue_type": "stadium",
+    "venue_capacity": 50889,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Shizuoka"
+  },
+  {
+    "id": 50,
+    "venue_name": "Ajinomoto Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 49970,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Tokyo"
+  },
+  {
+    "id": 51,
+    "venue_name": "Ariake Arena",
+    "venue_type": "arena",
+    "venue_capacity": 15000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Tokyo"
+  },
+  {
+    "id": 52,
+    "venue_name": "Japan National Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 67750,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Tokyo"
+  },
+  {
+    "id": 53,
+    "venue_name": "Keio Arena Tokyo",
+    "venue_type": "arena",
+    "venue_capacity": 10000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Tokyo"
+  },
+  {
+    "id": 54,
+    "venue_name": "Tachikawa Stage Garden",
+    "venue_type": "concert hall",
+    "venue_capacity": 2448,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Tokyo"
+  },
+  {
+    "id": 55,
+    "venue_name": "Tokyo Dome",
+    "venue_type": "stadium",
+    "venue_capacity": 55000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Tokyo"
+  },
+  {
+    "id": 56,
+    "venue_name": "Yoyogi National Gymnasium",
+    "venue_type": "arena",
+    "venue_capacity": 12898,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Tokyo"
+  },
+  {
+    "id": 57,
+    "venue_name": "K-Arena Yokohama",
+    "venue_type": "arena",
+    "venue_capacity": 20000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Yokohama"
+  },
+  {
+    "id": 58,
+    "venue_name": "Nissan Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 72327,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Yokohama"
+  },
+  {
+    "id": 59,
+    "venue_name": "Pacifico Yokohama",
+    "venue_type": "concert hall",
+    "venue_capacity": 6000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Yokohama"
+  },
+  {
+    "id": 60,
+    "venue_name": "Pia Arena MM",
+    "venue_type": "arena",
+    "venue_capacity": 12141,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Yokohama"
+  },
+  {
+    "id": 61,
+    "venue_name": "Yokohama Arena",
+    "venue_type": "arena",
+    "venue_capacity": 17000,
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Yokohama"
+  },
+  {
+    "id": 62,
+    "venue_name": "Galaxy Arena",
+    "venue_type": "arena",
+    "venue_capacity": 16000,
+    "continent": "Asia",
+    "country": "Macau",
+    "city": "Macau"
+  },
+  {
+    "id": 63,
+    "venue_name": "Macau Olympic Sports Center",
+    "venue_type": "stadium",
+    "venue_capacity": 16272,
+    "continent": "Asia",
+    "country": "Macau",
+    "city": "Macau"
+  },
+  {
+    "id": 64,
+    "venue_name": "Venetian Arena",
+    "venue_type": "arena",
+    "venue_capacity": 14000,
+    "continent": "Asia",
+    "country": "Macau",
+    "city": "Macau"
+  },
+  {
+    "id": 65,
+    "venue_name": "Bukit Jalil Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 90000,
+    "continent": "Asia",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur"
+  },
+  {
+    "id": 66,
+    "venue_name": "Malawati Indoor Stadium",
+    "venue_type": "arena",
+    "venue_capacity": 13000,
+    "continent": "Asia",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur"
+  },
+  {
+    "id": 67,
+    "venue_name": "Malaysia National Hockey Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 20000,
+    "continent": "Asia",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur"
+  },
+  {
+    "id": 68,
+    "venue_name": "Stadium Merdeka",
+    "venue_type": "stadium",
+    "venue_capacity": 25000,
+    "continent": "Asia",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur"
+  },
+  {
+    "id": 69,
+    "venue_name": "Unifi Arena",
+    "venue_type": "arena",
+    "venue_capacity": 11000,
+    "continent": "Asia",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur"
+  },
+  {
+    "id": 70,
+    "venue_name": "Philippine Arena",
+    "venue_type": "arena",
+    "venue_capacity": 55000,
+    "continent": "Asia",
+    "country": "Philippines",
+    "city": "Bulacan"
+  },
+  {
+    "id": 71,
+    "venue_name": "Philippine Sports Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 25000,
+    "continent": "Asia",
+    "country": "Philippines",
+    "city": "Bulacan"
+  },
+  {
+    "id": 72,
+    "venue_name": "Smart Araneta Coliseum",
+    "venue_type": "arena",
+    "venue_capacity": 9679,
+    "continent": "Asia",
+    "country": "Philippines",
+    "city": "Manila"
+  },
+  {
+    "id": 73,
+    "venue_name": "New Clark Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 20000,
+    "continent": "Asia",
+    "country": "Philippines",
+    "city": "New Clark City"
+  },
+  {
+    "id": 74,
+    "venue_name": "MOA Arena",
+    "venue_type": "arena",
+    "venue_capacity": 15000,
+    "continent": "Asia",
+    "country": "Philippines",
+    "city": "Pasay"
+  },
+  {
+    "id": 75,
+    "venue_name": "SM Mall of Asia Arena",
+    "venue_type": "arena",
+    "venue_capacity": 15000,
+    "continent": "Asia",
+    "country": "Philippines",
+    "city": "Pasay"
+  },
+  {
+    "id": 76,
+    "venue_name": "Singapore Indoor Stadium",
+    "venue_type": "arena",
+    "venue_capacity": 9000,
+    "continent": "Asia",
+    "country": "Singapore",
+    "city": "Singapore"
+  },
+  {
+    "id": 77,
+    "venue_name": "Singapore National Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 55000,
+    "continent": "Asia",
+    "country": "Singapore",
+    "city": "Singapore"
+  },
+  {
+    "id": 78,
+    "venue_name": "The Star Performing Arts Centre",
+    "venue_type": "concert hall",
+    "venue_capacity": 5000,
+    "continent": "Asia",
+    "country": "Singapore",
+    "city": "Singapore"
+  },
+  {
+    "id": 79,
+    "venue_name": "Goyang Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 41311,
+    "continent": "Asia",
+    "country": "South Korea",
+    "city": "Goyang"
+  },
+  {
+    "id": 80,
+    "venue_name": "Incheon Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 29376,
+    "continent": "Asia",
+    "country": "South Korea",
+    "city": "Incheon"
+  },
+  {
+    "id": 81,
+    "venue_name": "Inspire Arena",
+    "venue_type": "arena",
+    "venue_capacity": 15000,
+    "continent": "Asia",
+    "country": "South Korea",
+    "city": "Incheon"
+  },
+  {
+    "id": 82,
+    "venue_name": "Munhak Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 49084,
+    "continent": "Asia",
+    "country": "South Korea",
+    "city": "Incheon"
+  },
+  {
+    "id": 83,
+    "venue_name": "Gocheok Sky Dome",
+    "venue_type": "stadium",
+    "venue_capacity": 16744,
+    "continent": "Asia",
+    "country": "South Korea",
+    "city": "Seoul"
+  },
+  {
+    "id": 84,
+    "venue_name": "Handball Gymnasium",
+    "venue_type": "arena",
+    "venue_capacity": 6500,
+    "continent": "Asia",
+    "country": "South Korea",
+    "city": "Seoul"
+  },
+  {
+    "id": 85,
+    "venue_name": "Jamsil Indoor Stadium",
+    "venue_type": "arena",
+    "venue_capacity": 11069,
+    "continent": "Asia",
+    "country": "South Korea",
+    "city": "Seoul"
+  },
+  {
+    "id": 86,
+    "venue_name": "KSPO Dome",
+    "venue_type": "arena",
+    "venue_capacity": 15000,
+    "continent": "Asia",
+    "country": "South Korea",
+    "city": "Seoul"
+  },
+  {
+    "id": 87,
+    "venue_name": "Olympic Hall",
+    "venue_type": "concert hall",
+    "venue_capacity": 2452,
+    "continent": "Asia",
+    "country": "South Korea",
+    "city": "Seoul"
+  },
+  {
+    "id": 88,
+    "venue_name": "Seoul Olympic Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 65599,
+    "continent": "Asia",
+    "country": "South Korea",
+    "city": "Seoul"
+  },
+  {
+    "id": 89,
+    "venue_name": "World Cup Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 66704,
+    "continent": "Asia",
+    "country": "South Korea",
+    "city": "Seoul"
+  },
+  {
+    "id": 90,
+    "venue_name": "Kaohsiung Arena",
+    "venue_type": "arena",
+    "venue_capacity": 15000,
+    "continent": "Asia",
+    "country": "Taiwan",
+    "city": "Kaohsiung"
+  },
+  {
+    "id": 91,
+    "venue_name": "National Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 55000,
+    "continent": "Asia",
+    "country": "Taiwan",
+    "city": "Kaohsiung"
+  },
+  {
+    "id": 92,
+    "venue_name": "Taipei Arena",
+    "venue_type": "stadium",
+    "venue_capacity": 13000,
+    "continent": "Asia",
+    "country": "Taiwan",
+    "city": "Taipei"
+  },
+  {
+    "id": 93,
+    "venue_name": "Taipei Dome",
+    "venue_type": "stadium",
+    "venue_capacity": 59833,
+    "continent": "Asia",
+    "country": "Taiwan",
+    "city": "Taipei"
+  },
+  {
+    "id": 94,
+    "venue_name": "NTSU Arena",
+    "venue_type": "arena",
+    "venue_capacity": 15000,
+    "continent": "Asia",
+    "country": "Taiwan",
+    "city": "Taoyuan"
+  },
+  {
+    "id": 95,
+    "venue_name": "Rakuten Taoyuan Baseball Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 18000,
+    "continent": "Asia",
+    "country": "Taiwan",
+    "city": "Taoyuan"
+  },
+  {
+    "id": 96,
+    "venue_name": "EmSphere",
+    "venue_type": "arena",
+    "venue_capacity": 6000,
+    "continent": "Asia",
+    "country": "Thailand",
+    "city": "Bangkok"
+  },
+  {
+    "id": 97,
+    "venue_name": "IMPACT Arena",
+    "venue_type": "arena",
+    "venue_capacity": 12000,
+    "continent": "Asia",
+    "country": "Thailand",
+    "city": "Bangkok"
+  },
+  {
+    "id": 98,
+    "venue_name": "IMPACT Thunder Dome",
+    "venue_type": "concert hall",
+    "venue_capacity": 3500,
+    "continent": "Asia",
+    "country": "Thailand",
+    "city": "Bangkok"
+  },
+  {
+    "id": 99,
+    "venue_name": "Idea Live",
+    "venue_type": "concert hall",
+    "venue_capacity": 8000,
+    "continent": "Asia",
+    "country": "Thailand",
+    "city": "Bangkok"
+  },
+  {
+    "id": 100,
+    "venue_name": "Rajamangala Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 51560,
+    "continent": "Asia",
+    "country": "Thailand",
+    "city": "Bangkok"
+  },
+  {
+    "id": 101,
+    "venue_name": "Suphachalasai Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 35000,
+    "continent": "Asia",
+    "country": "Thailand",
+    "city": "Bangkok"
+  },
+  {
+    "id": 102,
+    "venue_name": "Mỹ Đình National Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 50000,
+    "continent": "Asia",
+    "country": "Vietnam",
+    "city": "Hanoi"
+  },
+  {
+    "id": 103,
+    "venue_name": "Saigon Exhibition and Convention Center",
+    "venue_type": "concert hall",
+    "venue_capacity": 2000,
+    "continent": "Asia",
+    "country": "Vietnam",
+    "city": "Ho Chi Minh City"
+  },
+  {
+    "id": 104,
+    "venue_name": "Forest National",
+    "venue_type": "arena",
+    "venue_capacity": 8400,
+    "continent": "Europe",
+    "country": "Belgium",
+    "city": "Brussels"
+  },
+  {
+    "id": 105,
+    "venue_name": "ING Arena",
+    "venue_type": "arena",
+    "venue_capacity": 15000,
+    "continent": "Europe",
+    "country": "Belgium",
+    "city": "Brussels"
+  },
+  {
+    "id": 106,
+    "venue_name": "King Baudouin Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 50093,
+    "continent": "Europe",
+    "country": "Belgium",
+    "city": "Brussels"
+  },
+  {
+    "id": 107,
+    "venue_name": "Royal Arena",
+    "venue_type": "arena",
+    "venue_capacity": 17000,
+    "continent": "Europe",
+    "country": "Denmark",
+    "city": "Copenhagen"
+  },
+  {
+    "id": 108,
+    "venue_name": "Eventim Apollo",
+    "venue_type": "concert hall",
+    "venue_capacity": 5039,
+    "continent": "Europe",
+    "country": "England",
+    "city": "London"
+  },
+  {
+    "id": 109,
+    "venue_name": "O2 Arena",
+    "venue_type": "arena",
+    "venue_capacity": 20000,
+    "continent": "Europe",
+    "country": "England",
+    "city": "London"
+  },
+  {
+    "id": 110,
+    "venue_name": "The O2 Arena",
+    "venue_type": "arena",
+    "venue_capacity": 20000,
+    "continent": "Europe",
+    "country": "England",
+    "city": "London"
+  },
+  {
+    "id": 111,
+    "venue_name": "Tottenham Hotspur Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 62850,
+    "continent": "Europe",
+    "country": "England",
+    "city": "London"
+  },
+  {
+    "id": 112,
+    "venue_name": "Wembley Arena",
+    "venue_type": "arena",
+    "venue_capacity": 12500,
+    "continent": "Europe",
+    "country": "England",
+    "city": "London"
+  },
+  {
+    "id": 113,
+    "venue_name": "Wembley Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 90000,
+    "continent": "Europe",
+    "country": "England",
+    "city": "London"
+  },
+  {
+    "id": 114,
+    "venue_name": "AO Arena",
+    "venue_type": "arena",
+    "venue_capacity": 21000,
+    "continent": "Europe",
+    "country": "England",
+    "city": "Manchester"
+  },
+  {
+    "id": 115,
+    "venue_name": "LDLC Arena",
+    "venue_type": "arena",
+    "venue_capacity": 16000,
+    "continent": "Europe",
+    "country": "France",
+    "city": "Lyon"
+  },
+  {
+    "id": 116,
+    "venue_name": "Accor Arena",
+    "venue_type": "arena",
+    "venue_capacity": 20300,
+    "continent": "Europe",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "id": 117,
+    "venue_name": "Dôme",
+    "venue_type": "concert hall",
+    "venue_capacity": 4600,
+    "continent": "Europe",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "id": 118,
+    "venue_name": "La Défense Arena",
+    "venue_type": "arena",
+    "venue_capacity": 45000,
+    "continent": "Europe",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "id": 119,
+    "venue_name": "La Seine Musicale",
+    "venue_type": "concert hall",
+    "venue_capacity": 6000,
+    "continent": "Europe",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "id": 120,
+    "venue_name": "Salle Pleyel",
+    "venue_type": "concert hall",
+    "venue_capacity": 2000,
+    "continent": "Europe",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "id": 121,
+    "venue_name": "Stade de France",
+    "venue_type": "stadium",
+    "venue_capacity": 81338,
+    "continent": "Europe",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "id": 122,
+    "venue_name": "Zénith",
+    "venue_type": "arena",
+    "venue_capacity": 9000,
+    "continent": "Europe",
+    "country": "France",
+    "city": "Paris"
+  },
+  {
+    "id": 123,
+    "venue_name": "Columbiahalle",
+    "venue_type": "concert hall",
+    "venue_capacity": 4900,
+    "continent": "Europe",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "id": 124,
+    "venue_name": "Max-Schemeling-Halle",
+    "venue_type": "arena",
+    "venue_capacity": 12000,
+    "continent": "Europe",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "id": 125,
+    "venue_name": "Uber Arena",
+    "venue_type": "arena",
+    "venue_capacity": 17000,
+    "continent": "Europe",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "id": 126,
+    "venue_name": "Uber Eats Music Hall",
+    "venue_type": "concert hall",
+    "venue_capacity": 4500,
+    "continent": "Europe",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "id": 127,
+    "venue_name": "Velodrom",
+    "venue_type": "arena",
+    "venue_capacity": 12000,
+    "continent": "Europe",
+    "country": "Germany",
+    "city": "Berlin"
+  },
+  {
+    "id": 128,
+    "venue_name": "Lanxess Arena",
+    "venue_type": "arena",
+    "venue_capacity": 20000,
+    "continent": "Europe",
+    "country": "Germany",
+    "city": "Cologne"
+  },
+  {
+    "id": 129,
+    "venue_name": "Centennial Hall ",
+    "venue_type": "concert hall",
+    "venue_capacity": 4800,
+    "continent": "Europe",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "id": 130,
+    "venue_name": "Deutsche Bank Park",
+    "venue_type": "stadium",
+    "venue_capacity": 65000,
+    "continent": "Europe",
+    "country": "Germany",
+    "city": "Frankfurt"
+  },
+  {
+    "id": 131,
+    "venue_name": "Allianz Arena",
+    "venue_type": "stadium",
+    "venue_capacity": 70000,
+    "continent": "Europe",
+    "country": "Germany",
+    "city": "Munich"
+  },
+  {
+    "id": 132,
+    "venue_name": "Ippodromo La Maura",
+    "venue_type": "stadium",
+    "venue_capacity": 80000,
+    "continent": "Europe",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "id": 133,
+    "venue_name": "Unipol Dome",
+    "venue_type": "arena",
+    "venue_capacity": 16000,
+    "continent": "Europe",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "id": 134,
+    "venue_name": "Unipol Forum",
+    "venue_type": "arena",
+    "venue_capacity": 15800,
+    "continent": "Europe",
+    "country": "Italy",
+    "city": "Milan"
+  },
+  {
+    "id": 135,
+    "venue_name": "Stadio Olimpico",
+    "venue_type": "stadium",
+    "venue_capacity": 70634,
+    "continent": "Europe",
+    "country": "Italy",
+    "city": "Rome"
+  },
+  {
+    "id": 136,
+    "venue_name": "Inalpi Arena",
+    "venue_type": "arena",
+    "venue_capacity": 15657,
+    "continent": "Europe",
+    "country": "Italy",
+    "city": "Turin"
+  },
+  {
+    "id": 137,
+    "venue_name": "AFAS Live",
+    "venue_type": "concert hall",
+    "venue_capacity": 6000,
+    "continent": "Europe",
+    "country": "Netherlands",
+    "city": "Amsterdam"
+  },
+  {
+    "id": 138,
+    "venue_name": "Johan Cruijff ArenA",
+    "venue_type": "stadium",
+    "venue_capacity": 71000,
+    "continent": "Europe",
+    "country": "Netherlands",
+    "city": "Amsterdam"
+  },
+  {
+    "id": 139,
+    "venue_name": "Ziggo Dome",
+    "venue_type": "arena",
+    "venue_capacity": 17000,
+    "continent": "Europe",
+    "country": "Netherlands",
+    "city": "Amsterdam"
+  },
+  {
+    "id": 140,
+    "venue_name": "MEO Arena",
+    "venue_type": "arena",
+    "venue_capacity": 20100,
+    "continent": "Europe",
+    "country": "Portugal",
+    "city": "Lisbon"
+  },
+  {
+    "id": 141,
+    "venue_name": "Megasport Sport Palace",
+    "venue_type": "arena",
+    "venue_capacity": 16500,
+    "continent": "Europe",
+    "country": "Russia",
+    "city": "Moscow"
+  },
+  {
+    "id": 142,
+    "venue_name": "Ice Palace",
+    "venue_type": "arena",
+    "venue_capacity": 12300,
+    "continent": "Europe",
+    "country": "Russia",
+    "city": "Saint Petersburg"
+  },
+  {
+    "id": 143,
+    "venue_name": "Estadi Olímpic Lluís Companys",
+    "venue_type": "stadium",
+    "venue_capacity": 55926,
+    "continent": "Europe",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "id": 144,
+    "venue_name": "Palau Sant Jordi",
+    "venue_type": "arena",
+    "venue_capacity": 17960,
+    "continent": "Europe",
+    "country": "Spain",
+    "city": "Barcelona"
+  },
+  {
+    "id": 145,
+    "venue_name": "Estadio Metropolitano",
+    "venue_type": "stadium",
+    "venue_capacity": 60000,
+    "continent": "Europe",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "id": 146,
+    "venue_name": "Movistar Arena",
+    "venue_type": "arena",
+    "venue_capacity": 15000,
+    "continent": "Europe",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "id": 147,
+    "venue_name": "Palacio Vistalegre",
+    "venue_type": "arena",
+    "venue_capacity": 14000,
+    "continent": "Europe",
+    "country": "Spain",
+    "city": "Madrid"
+  },
+  {
+    "id": 148,
+    "venue_name": "Avicii Arena",
+    "venue_type": "arena",
+    "venue_capacity": 16000,
+    "continent": "Europe",
+    "country": "Sweden",
+    "city": "Stockholm"
+  },
+  {
+    "id": 149,
+    "venue_name": "Hallenstadion",
+    "venue_type": "arena",
+    "venue_capacity": 13000,
+    "continent": "Europe",
+    "country": "Switzerland",
+    "city": "Zürich"
+  },
+  {
+    "id": 150,
+    "venue_name": "Jeddah Superdome",
+    "venue_type": "concert hall",
+    "venue_capacity": 40000,
+    "continent": "Middle East",
+    "country": "Saudi Arabia",
+    "city": "Jeddah"
+  },
+  {
+    "id": 151,
+    "venue_name": "King Fahd Sports City Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 58398,
+    "continent": "Middle East",
+    "country": "Saudi Arabia",
+    "city": "Riyadh"
+  },
+  {
+    "id": 152,
+    "venue_name": "Etihad Park",
+    "venue_type": "amphitheater",
+    "venue_capacity": 40000,
+    "continent": "Middle East",
+    "country": "United Arab Emirates",
+    "city": "Abu Dhabi"
+  },
+  {
+    "id": 153,
+    "venue_name": "TD Coliseum",
+    "venue_type": "arena",
+    "venue_capacity": 18000,
+    "continent": "North America",
+    "country": "Canada",
+    "city": "Hamilton"
+  },
+  {
+    "id": 154,
+    "venue_name": "Bell Center",
+    "venue_type": "arena",
+    "venue_capacity": 15000,
+    "continent": "North America",
+    "country": "Canada",
+    "city": "Montreal"
+  },
+  {
+    "id": 155,
+    "venue_name": "Coca-Cola Coliseum",
+    "venue_type": "concert hall",
+    "venue_capacity": 9250,
+    "continent": "North America",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "id": 156,
+    "venue_name": "Rogers Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 50000,
+    "continent": "North America",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "id": 157,
+    "venue_name": "Scotiabank Arena",
+    "venue_type": "arena",
+    "venue_capacity": 19800,
+    "continent": "North America",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "id": 158,
+    "venue_name": "Pacific Coliseum",
+    "venue_type": "arena",
+    "venue_capacity": 17500,
+    "continent": "North America",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "id": 159,
+    "venue_name": "Rogers Arena",
+    "venue_type": "arena",
+    "venue_capacity": 19000,
+    "continent": "North America",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "id": 160,
+    "venue_name": "UBC Thunderbird Arena",
+    "venue_type": "arena",
+    "venue_capacity": 8000,
+    "continent": "North America",
+    "country": "Canada",
+    "city": "Vancouver"
+  },
+  {
+    "id": 161,
+    "venue_name": "Arena CDMX",
+    "venue_type": "arena",
+    "venue_capacity": 22300,
+    "continent": "North America",
+    "country": "Mexico",
+    "city": "Mexico City"
+  },
+  {
+    "id": 162,
+    "venue_name": "Estadio GNP Seguros",
+    "venue_type": "stadium",
+    "venue_capacity": 65000,
+    "continent": "North America",
+    "country": "Mexico",
+    "city": "Mexico City"
+  },
+  {
+    "id": 163,
+    "venue_name": "Palacio de los Deportes",
+    "venue_type": "arena",
+    "venue_capacity": 26000,
+    "continent": "North America",
+    "country": "Mexico",
+    "city": "Mexico City"
+  },
+  {
+    "id": 164,
+    "venue_name": "Pepsi Center WTC",
+    "venue_type": "theater",
+    "venue_capacity": 7500,
+    "continent": "North America",
+    "country": "Mexico",
+    "city": "Mexico City"
+  },
+  {
+    "id": 165,
+    "venue_name": "Teatro Metropolitan",
+    "venue_type": "theater",
+    "venue_capacity": 3165,
+    "continent": "North America",
+    "country": "Mexico",
+    "city": "Mexico City"
+  },
+  {
+    "id": 166,
+    "venue_name": "Honda Center",
+    "venue_type": "theater",
+    "venue_capacity": 10935,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Anaheim"
+  },
+  {
+    "id": 167,
+    "venue_name": "AT&T Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 100000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Arlington"
+  },
+  {
+    "id": 168,
+    "venue_name": "Globe Life Field",
+    "venue_type": "stadium",
+    "venue_capacity": 40300,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Arlington"
+  },
+  {
+    "id": 169,
+    "venue_name": "Center Stage Theater",
+    "venue_type": "theater",
+    "venue_capacity": 1050,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Atlanta"
+  },
+  {
+    "id": 170,
+    "venue_name": "Coca-Cola Roxy",
+    "venue_type": "concert hall",
+    "venue_capacity": 3600,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Atlanta"
+  },
+  {
+    "id": 171,
+    "venue_name": "Fox Theatre",
+    "venue_type": "theater",
+    "venue_capacity": 4665,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Atlanta"
+  },
+  {
+    "id": 172,
+    "venue_name": "State Farm Arena",
+    "venue_type": "arena",
+    "venue_capacity": 18000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Atlanta"
+  },
+  {
+    "id": 173,
+    "venue_name": "Truist Park",
+    "venue_type": "stadium",
+    "venue_capacity": 41108,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Atlanta"
+  },
+  {
+    "id": 174,
+    "venue_name": "Moody Center",
+    "venue_type": "arena",
+    "venue_capacity": 16223,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Austin"
+  },
+  {
+    "id": 175,
+    "venue_name": "CFG Bank Arena",
+    "venue_type": "arena",
+    "venue_capacity": 13000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Baltimore"
+  },
+  {
+    "id": 176,
+    "venue_name": "M&T Bank Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 70745,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Baltimore"
+  },
+  {
+    "id": 177,
+    "venue_name": "MGM Music Hall",
+    "venue_type": "concert hall",
+    "venue_capacity": 5007,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Boston"
+  },
+  {
+    "id": 178,
+    "venue_name": "TD Garden",
+    "venue_type": "arena",
+    "venue_capacity": 20000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Boston"
+  },
+  {
+    "id": 179,
+    "venue_name": "Dignity Health Sports Park",
+    "venue_type": "stadium",
+    "venue_capacity": 27000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Carson"
+  },
+  {
+    "id": 180,
+    "venue_name": "Spectrum Center",
+    "venue_type": "arena",
+    "venue_capacity": 18504,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Charlotte"
+  },
+  {
+    "id": 181,
+    "venue_name": "Chicago Theatre",
+    "venue_type": "theater",
+    "venue_capacity": 3600,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Chicago"
+  },
+  {
+    "id": 182,
+    "venue_name": "Soldier Field",
+    "venue_type": "stadium",
+    "venue_capacity": 62500,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Chicago"
+  },
+  {
+    "id": 183,
+    "venue_name": "United Center",
+    "venue_type": "arena",
+    "venue_capacity": 23500,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Chicago"
+  },
+  {
+    "id": 184,
+    "venue_name": "Wintrust Arena",
+    "venue_type": "arena",
+    "venue_capacity": 10387,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Chicago"
+  },
+  {
+    "id": 185,
+    "venue_name": "Wrigley Field",
+    "venue_type": "stadium",
+    "venue_capacity": 41649,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Chicago"
+  },
+  {
+    "id": 186,
+    "venue_name": "American Airlines Center",
+    "venue_type": "arena",
+    "venue_capacity": 21000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Dallas"
+  },
+  {
+    "id": 187,
+    "venue_name": "Ball Arena",
+    "venue_type": "arena",
+    "venue_capacity": 21000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Denver"
+  },
+  {
+    "id": 188,
+    "venue_name": "Little Caesars Arena",
+    "venue_type": "arena",
+    "venue_capacity": 22000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Detroit"
+  },
+  {
+    "id": 189,
+    "venue_name": "Gas South Arena",
+    "venue_type": "arena",
+    "venue_capacity": 13100,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Duluth"
+  },
+  {
+    "id": 190,
+    "venue_name": "MetLife Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 82500,
+    "continent": "North America",
+    "country": "United States",
+    "city": "East Rutherford"
+  },
+  {
+    "id": 191,
+    "venue_name": "Sun Bowl",
+    "venue_type": "stadium",
+    "venue_capacity": 45971,
+    "continent": "North America",
+    "country": "United States",
+    "city": "El Paso"
+  },
+  {
+    "id": 192,
+    "venue_name": "EagleBank Arena",
+    "venue_type": "arena",
+    "venue_capacity": 15000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Fairfax"
+  },
+  {
+    "id": 193,
+    "venue_name": "Dickies Arena",
+    "venue_type": "arena",
+    "venue_capacity": 14000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Fort Worth"
+  },
+  {
+    "id": 194,
+    "venue_name": "Fort Worth Convention Center",
+    "venue_type": "arena",
+    "venue_capacity": 13500,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Fort Worth"
+  },
+  {
+    "id": 195,
+    "venue_name": "Gillette Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 64628,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Foxborough"
+  },
+  {
+    "id": 196,
+    "venue_name": "Desert Diamond Arena",
+    "venue_type": "arena",
+    "venue_capacity": 19000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Glendale"
+  },
+  {
+    "id": 197,
+    "venue_name": "Texas Trust CU Theatre",
+    "venue_type": "concert hall",
+    "venue_capacity": 6350,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Grand Prairie"
+  },
+  {
+    "id": 198,
+    "venue_name": "Minute Maid Park",
+    "venue_type": "stadium",
+    "venue_capacity": 41168,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Houston"
+  },
+  {
+    "id": 199,
+    "venue_name": "Toyota Center",
+    "venue_type": "arena",
+    "venue_capacity": 19000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Houston"
+  },
+  {
+    "id": 200,
+    "venue_name": "Intuit Dome",
+    "venue_type": "arena",
+    "venue_capacity": 18300,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Inglewood"
+  },
+  {
+    "id": 201,
+    "venue_name": "Kia Forum",
+    "venue_type": "arena",
+    "venue_capacity": 17500,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Inglewood"
+  },
+  {
+    "id": 202,
+    "venue_name": "SoFi Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 70240,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Inglewood"
+  },
+  {
+    "id": 203,
+    "venue_name": "YouTube Theater",
+    "venue_type": "theater",
+    "venue_capacity": 6000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Inglewood"
+  },
+  {
+    "id": 204,
+    "venue_name": "Toyota Music Factory",
+    "venue_type": "theater",
+    "venue_capacity": 4000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Irving"
+  },
+  {
+    "id": 205,
+    "venue_name": "accesso ShoWare Center",
+    "venue_type": "arena",
+    "venue_capacity": 7141,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Kent"
+  },
+  {
+    "id": 206,
+    "venue_name": "Allegiant Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 65000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Las Vegas"
+  },
+  {
+    "id": 207,
+    "venue_name": "Michelob Ultra Arena",
+    "venue_type": "arena",
+    "venue_capacity": 12000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Las Vegas"
+  },
+  {
+    "id": 208,
+    "venue_name": "T-Mobile Arena",
+    "venue_type": "arena",
+    "venue_capacity": 20000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Las Vegas"
+  },
+  {
+    "id": 209,
+    "venue_name": "BMO Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 22000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Los Angeles"
+  },
+  {
+    "id": 210,
+    "venue_name": "Crypto.com Arena",
+    "venue_type": "stadium",
+    "venue_capacity": 20000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Los Angeles"
+  },
+  {
+    "id": 211,
+    "venue_name": "Dodger Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 56000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Los Angeles"
+  },
+  {
+    "id": 212,
+    "venue_name": "Memorial Sports Arena",
+    "venue_type": "arena",
+    "venue_capacity": 16740,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Los Angeles"
+  },
+  {
+    "id": 213,
+    "venue_name": "Orpheum Theatre",
+    "venue_type": "theater",
+    "venue_capacity": 2000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Los Angeles"
+  },
+  {
+    "id": 214,
+    "venue_name": "Peacock Theater",
+    "venue_type": "arena",
+    "venue_capacity": 7100,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Los Angeles"
+  },
+  {
+    "id": 215,
+    "venue_name": "James L. Knight Center",
+    "venue_type": "theater",
+    "venue_capacity": 4605,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Miami"
+  },
+  {
+    "id": 216,
+    "venue_name": "Kaseya Center",
+    "venue_type": "arena",
+    "venue_capacity": 20000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Miami"
+  },
+  {
+    "id": 217,
+    "venue_name": "Watsco Center",
+    "venue_type": "arena",
+    "venue_capacity": 8000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Miami"
+  },
+  {
+    "id": 218,
+    "venue_name": "Bridgestone Arena",
+    "venue_type": "arena",
+    "venue_capacity": 20000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Nashville"
+  },
+  {
+    "id": 219,
+    "venue_name": "Barclays Center",
+    "venue_type": "arena",
+    "venue_capacity": 20000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "New York"
+  },
+  {
+    "id": 220,
+    "venue_name": "Brooklyn Paramount",
+    "venue_type": "theater",
+    "venue_capacity": 2700,
+    "continent": "North America",
+    "country": "United States",
+    "city": "New York"
+  },
+  {
+    "id": 221,
+    "venue_name": "Citi Field",
+    "venue_type": "stadium",
+    "venue_capacity": 41922,
+    "continent": "North America",
+    "country": "United States",
+    "city": "New York"
+  },
+  {
+    "id": 222,
+    "venue_name": "Radio City",
+    "venue_type": "theater",
+    "venue_capacity": 5960,
+    "continent": "North America",
+    "country": "United States",
+    "city": "New York"
+  },
+  {
+    "id": 223,
+    "venue_name": "The Theater",
+    "venue_type": "theater",
+    "venue_capacity": 5600,
+    "continent": "North America",
+    "country": "United States",
+    "city": "New York"
+  },
+  {
+    "id": 224,
+    "venue_name": "UBS Arena",
+    "venue_type": "arena",
+    "venue_capacity": 19000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "New York"
+  },
+  {
+    "id": 225,
+    "venue_name": "Prudential Center",
+    "venue_type": "arena",
+    "venue_capacity": 17000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Newark"
+  },
+  {
+    "id": 226,
+    "venue_name": "Oakland Arena",
+    "venue_type": "arena",
+    "venue_capacity": 19596,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Oakland"
+  },
+  {
+    "id": 227,
+    "venue_name": "Oakland Coliseum",
+    "venue_type": "stadium",
+    "venue_capacity": 64829,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Oakland"
+  },
+  {
+    "id": 228,
+    "venue_name": "Paramount Theatre",
+    "venue_type": "concert hall",
+    "venue_capacity": 3040,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Oakland"
+  },
+  {
+    "id": 229,
+    "venue_name": "Camping World Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 60219,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Orlando"
+  },
+  {
+    "id": 230,
+    "venue_name": "Kia Center",
+    "venue_type": "arena",
+    "venue_capacity": 17030,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Orlando"
+  },
+  {
+    "id": 231,
+    "venue_name": "Xfinity Mobile Arena",
+    "venue_type": "arena",
+    "venue_capacity": 21000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Philadelphia"
+  },
+  {
+    "id": 232,
+    "venue_name": "Arizona Financial Theatre",
+    "venue_type": "theater",
+    "venue_capacity": 5000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Phoenix"
+  },
+  {
+    "id": 233,
+    "venue_name": "Mortgage Matchup Center",
+    "venue_type": "arena",
+    "venue_capacity": 12565,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Phoenix"
+  },
+  {
+    "id": 234,
+    "venue_name": "Allstate Arena",
+    "venue_type": "arena",
+    "venue_capacity": 22000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Rosemont"
+  },
+  {
+    "id": 235,
+    "venue_name": "Rosemont Theatre",
+    "venue_type": "theater",
+    "venue_capacity": 4400,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Rosemont"
+  },
+  {
+    "id": 236,
+    "venue_name": "Grand Casino Arena",
+    "venue_type": "arena",
+    "venue_capacity": 20554,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Saint Paul"
+  },
+  {
+    "id": 237,
+    "venue_name": "Frost Bank Center",
+    "venue_type": "arena",
+    "venue_capacity": 19000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "San Antonio"
+  },
+  {
+    "id": 238,
+    "venue_name": "Bill Graham Civic Auditorium",
+    "venue_type": "arena",
+    "venue_capacity": 8500,
+    "continent": "North America",
+    "country": "United States",
+    "city": "San Francisco"
+  },
+  {
+    "id": 239,
+    "venue_name": "Oracle Park",
+    "venue_type": "stadium",
+    "venue_capacity": 45000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "San Francisco"
+  },
+  {
+    "id": 240,
+    "venue_name": "SAP Center",
+    "venue_type": "arena",
+    "venue_capacity": 19190,
+    "continent": "North America",
+    "country": "United States",
+    "city": "San Jose"
+  },
+  {
+    "id": 241,
+    "venue_name": "San Jose Civic",
+    "venue_type": "theater",
+    "venue_capacity": 3036,
+    "continent": "North America",
+    "country": "United States",
+    "city": "San Jose"
+  },
+  {
+    "id": 242,
+    "venue_name": "Climate Pledge Arena",
+    "venue_type": "arena",
+    "venue_capacity": 17200,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Seattle"
+  },
+  {
+    "id": 243,
+    "venue_name": "T-Mobile Park",
+    "venue_type": "stadium",
+    "venue_capacity": 47368,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Seattle"
+  },
+  {
+    "id": 244,
+    "venue_name": "WAMU Theater",
+    "venue_type": "concert hall",
+    "venue_capacity": 7000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Seattle"
+  },
+  {
+    "id": 245,
+    "venue_name": "WaMu Theater",
+    "venue_type": "concert hall",
+    "venue_capacity": 7000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Seattle"
+  },
+  {
+    "id": 246,
+    "venue_name": "Stanford Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 50424,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Stanford"
+  },
+  {
+    "id": 247,
+    "venue_name": "Smart Financial Centre",
+    "venue_type": "concert hall",
+    "venue_capacity": 6400,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Sugar Land"
+  },
+  {
+    "id": 248,
+    "venue_name": "Amerant Bank Arena",
+    "venue_type": "arena",
+    "venue_capacity": 23000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Sunrise"
+  },
+  {
+    "id": 249,
+    "venue_name": "Tacoma Dome",
+    "venue_type": "arena",
+    "venue_capacity": 21000,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Tacoma"
+  },
+  {
+    "id": 250,
+    "venue_name": "Benchmark International Arena",
+    "venue_type": "arena",
+    "venue_capacity": 21500,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Tampa"
+  },
+  {
+    "id": 251,
+    "venue_name": "Raymond James Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 69218,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Tampa"
+  },
+  {
+    "id": 252,
+    "venue_name": "Capital One Arena",
+    "venue_type": "arena",
+    "venue_capacity": 20356,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Washington"
+  },
+  {
+    "id": 253,
+    "venue_name": "Nationals Park",
+    "venue_type": "stadium",
+    "venue_capacity": 41373,
+    "continent": "North America",
+    "country": "United States",
+    "city": "Washington"
+  },
+  {
+    "id": 254,
+    "venue_name": "John Cain Arena",
+    "venue_type": "arena",
+    "venue_capacity": 10300,
+    "continent": "Oceania",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "id": 255,
+    "venue_name": "Margaret Court Arena",
+    "venue_type": "arena",
+    "venue_capacity": 7500,
+    "continent": "Oceania",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "id": 256,
+    "venue_name": "Marvel Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 56347,
+    "continent": "Oceania",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "id": 257,
+    "venue_name": "Rod Laver Arena",
+    "venue_type": "arena",
+    "venue_capacity": 14820,
+    "continent": "Oceania",
+    "country": "Australia",
+    "city": "Melbourne"
+  },
+  {
+    "id": 258,
+    "venue_name": "Allianz Stadium",
+    "venue_type": "stadium",
+    "venue_capacity": 42500,
+    "continent": "Oceania",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "id": 259,
+    "venue_name": "ICC Sydney Theatre",
+    "venue_type": "concert hall",
+    "venue_capacity": 2500,
+    "continent": "Oceania",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "id": 260,
+    "venue_name": "Qudos Bank Arena",
+    "venue_type": "arena",
+    "venue_capacity": 18000,
+    "continent": "Oceania",
+    "country": "Australia",
+    "city": "Sydney"
+  },
+  {
+    "id": 261,
+    "venue_name": "Spark Arena",
+    "venue_type": "arena",
+    "venue_capacity": 13280,
+    "continent": "Oceania",
+    "country": "New Zealand",
+    "city": "Auckland"
+  },
+  {
+    "id": 262,
+    "venue_name": "Nilton Santos",
+    "venue_type": "stadium",
+    "venue_capacity": 70000,
+    "continent": "South America",
+    "country": "Brazil",
+    "city": "Rio De Janeiro"
+  },
+  {
+    "id": 263,
+    "venue_name": "Allianz Parque",
+    "venue_type": "stadium",
+    "venue_capacity": 55000,
+    "continent": "South America",
+    "country": "Brazil",
+    "city": "São Paulo"
+  },
+  {
+    "id": 264,
+    "venue_name": "Espaço Unimed",
+    "venue_type": "concert hall",
+    "venue_capacity": 8000,
+    "continent": "South America",
+    "country": "Brazil",
+    "city": "São Paulo"
+  },
+  {
+    "id": 265,
+    "venue_name": "Mercado Livre Arena Pacaembu",
+    "venue_type": "stadium",
+    "venue_capacity": 40000,
+    "continent": "South America",
+    "country": "Brazil",
+    "city": "São Paulo"
+  },
+  {
+    "id": 266,
+    "venue_name": "MorumBIS",
+    "venue_type": "stadium",
+    "venue_capacity": 72039,
+    "continent": "South America",
+    "country": "Brazil",
+    "city": "São Paulo"
+  },
+  {
+    "id": 267,
+    "venue_name": "Vibra São Paulo",
+    "venue_type": "theater",
+    "venue_capacity": 7000,
+    "continent": "South America",
+    "country": "Brazil",
+    "city": "São Paulo"
+  },
+  {
+    "id": 268,
+    "venue_name": "Estadio Bicentenario La Florida",
+    "venue_type": "stadium",
+    "venue_capacity": 25000,
+    "continent": "South America",
+    "country": "Chile",
+    "city": "Santiago"
+  },
+  {
+    "id": 269,
+    "venue_name": "Movistar Arena",
+    "venue_type": "arena",
+    "venue_capacity": 15500,
+    "continent": "South America",
+    "country": "Chile",
+    "city": "Santiago"
+  },
+  {
+    "id": 270,
+    "venue_name": "Teatro Caupolicán",
+    "venue_type": "theater",
+    "venue_capacity": 4500,
+    "continent": "South America",
+    "country": "Chile",
+    "city": "Santiago"
+  },
+  {
+    "id": 271,
+    "venue_name": "Coliseo Bicentenario",
+    "venue_type": "arena",
+    "venue_capacity": 7000,
+    "continent": "South America",
+    "country": "Colombia",
+    "city": "Bogotá"
+  },
+  {
+    "id": 272,
+    "venue_name": "Costa 21",
+    "venue_type": "concert hall",
+    "venue_capacity": 30000,
+    "continent": "South America",
+    "country": "Peru",
+    "city": "Lima"
+  },
+  {
+    "id": 273,
+    "venue_name": "Estadio San Marcos",
+    "venue_type": "stadium",
+    "venue_capacity": 32000,
+    "continent": "South America",
+    "country": "Peru",
+    "city": "Lima"
+  }
+]
