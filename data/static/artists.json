@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "artist_name": "&TEAM",
+    "gender": "male",
+    "generation": 4,
+    "members": 9,
+    "debut_date": "2022-12-07",
+    "company": "YX Labels,HYBE"
+  },
+  {
+    "id": 2,
+    "artist_name": "ATEEZ",
+    "gender": "male",
+    "generation": 4,
+    "members": 8,
+    "debut_date": "2018-10-24",
+    "company": "KQ"
+  },
+  {
+    "id": 3,
+    "artist_name": "Agust D",
+    "gender": "male",
+    "generation": 3,
+    "members": 1,
+    "debut_date": "2023-04-21",
+    "company": "Bighit,HYBE"
+  },
+  {
+    "id": 4,
+    "artist_name": "BABYMONSTER",
+    "gender": "female",
+    "generation": 5,
+    "members": 7,
+    "debut_date": "2024-04-01",
+    "company": "YG"
+  },
+  {
+    "id": 5,
+    "artist_name": "BLACKPINK",
+    "gender": "female",
+    "generation": 3,
+    "members": 4,
+    "debut_date": "2016-08-08",
+    "company": "YG"
+  },
+  {
+    "id": 6,
+    "artist_name": "BOYNEXTDOOR",
+    "gender": "male",
+    "generation": 5,
+    "members": 6,
+    "debut_date": "2023-05-30",
+    "company": "KOZ,HYBE"
+  },
+  {
+    "id": 7,
+    "artist_name": "BTS",
+    "gender": "male",
+    "generation": 3,
+    "members": 7,
+    "debut_date": "2013-06-13",
+    "company": "Bighit,HYBE"
+  },
+  {
+    "id": 8,
+    "artist_name": "ENHYPEN",
+    "gender": "male",
+    "generation": 4,
+    "members": 6,
+    "debut_date": "2020-11-30",
+    "company": "Belift,HYBE"
+  },
+  {
+    "id": 9,
+    "artist_name": "EXO",
+    "gender": "male",
+    "generation": 3,
+    "members": 5,
+    "debut_date": "2012-04-08",
+    "company": "SM,KAKAO"
+  },
+  {
+    "id": 10,
+    "artist_name": "G-Dragon",
+    "gender": "male",
+    "generation": 2,
+    "members": 1,
+    "debut_date": "2009-08-18",
+    "company": "Galaxy Corporation"
+  },
+  {
+    "id": 11,
+    "artist_name": "ITZY",
+    "gender": "female",
+    "generation": 4,
+    "members": 5,
+    "debut_date": "2019-02-12",
+    "company": "JYP"
+  },
+  {
+    "id": 12,
+    "artist_name": "IVE",
+    "gender": "female",
+    "generation": 4,
+    "members": 6,
+    "debut_date": "2021-12-01",
+    "company": "Starship,KAKAO"
+  },
+  {
+    "id": 13,
+    "artist_name": "J-Hope",
+    "gender": "male",
+    "generation": 3,
+    "members": 1,
+    "debut_date": "2022-07-15",
+    "company": "Bighit,HYBE"
+  },
+  {
+    "id": 14,
+    "artist_name": "Jin",
+    "gender": "male",
+    "generation": 3,
+    "members": 1,
+    "debut_date": "2022-10-28",
+    "company": "Bighit,HYBE"
+  },
+  {
+    "id": 15,
+    "artist_name": "LE SSERAFIM",
+    "gender": "female",
+    "generation": 4,
+    "members": 5,
+    "debut_date": "2022-05-02",
+    "company": "Source Music,HYBE"
+  },
+  {
+    "id": 16,
+    "artist_name": "MISMAO",
+    "gender": "female",
+    "generation": 3,
+    "members": 3,
+    "debut_date": "2023-07-26",
+    "company": "JYP"
+  },
+  {
+    "id": 17,
+    "artist_name": "NCT127",
+    "gender": "male",
+    "generation": 3,
+    "members": 8,
+    "debut_date": "2016-07-07",
+    "company": "SM,KAKAO"
+  },
+  {
+    "id": 18,
+    "artist_name": "NMIXX",
+    "gender": "female",
+    "generation": 4,
+    "members": 6,
+    "debut_date": "2022-02-22",
+    "company": "JYP"
+  },
+  {
+    "id": 19,
+    "artist_name": "SEVENTEEN",
+    "gender": "male",
+    "generation": 3,
+    "members": 13,
+    "debut_date": "2016-05-26",
+    "company": "Pledis,HYBE"
+  },
+  {
+    "id": 20,
+    "artist_name": "Stray Kids",
+    "gender": "male",
+    "generation": 4,
+    "members": 8,
+    "debut_date": "2018-03-25",
+    "company": "JYP"
+  },
+  {
+    "id": 21,
+    "artist_name": "TOMORROW X TOGETHER",
+    "gender": "male",
+    "generation": 4,
+    "members": 5,
+    "debut_date": "2019-03-04",
+    "company": "Bighit,HYBE"
+  },
+  {
+    "id": 22,
+    "artist_name": "TWICE",
+    "gender": "female",
+    "generation": 3,
+    "members": 9,
+    "debut_date": "2015-10-20",
+    "company": "JYP"
+  },
+  {
+    "id": 23,
+    "artist_name": "The Boyz",
+    "gender": "male",
+    "generation": 4,
+    "members": 10,
+    "debut_date": "2017-12-06",
+    "company": "ONE HUNDRED"
+  },
+  {
+    "id": 24,
+    "artist_name": "aespa",
+    "gender": "female",
+    "generation": 4,
+    "members": 4,
+    "debut_date": "2020-11-17",
+    "company": "SM,KAKAO"
+  },
+  {
+    "id": 25,
+    "artist_name": "i-dle",
+    "gender": "female",
+    "generation": 4,
+    "members": 5,
+    "debut_date": "2018-05-02",
+    "company": "Cube"
+  }
+]
