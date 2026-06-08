@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" >
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+
+  <title>About — STAGELINE</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" >
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin >
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=Noto+Sans+KR:wght@300;400;700&display=swap" rel="stylesheet" >
+
+  <link rel="stylesheet" href="style.css" >
+</head>
+<body>
+
+  <div class="noise"></div>
+
+  <header>
+    <div class="header-inner">
+      <div class="wordmark">
+        <span class="wordmark-main">STAGELINE</span>
+        <span class="wordmark-sub">attendance intelligence</span>
+      </div>
+      <nav class="header-nav">
+        <a href="index.html" class="nav-link">Predict</a>
+        <a href="about.html" class="nav-link nav-link--active">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+
+    <section class="hero about-hero">
+      <div class="hero-label">DOCUMENTATION</div>
+      <h1 class="hero-title">How it<br><em>works.</em></h1>
+      <p class="hero-sub">What the model does, what it was trained on, and how honestly you should trust its output.</p>
+    </section>
+
+    <!-- ── WHAT IS THIS ──────────────────────────────────────────────────── -->
+    <section class="about-section">
+      <div class="about-section-label">OVERVIEW</div>
+      <h2>What is STAGELINE?</h2>
+      <p>
+        STAGELINE is a machine learning tool that predicts concert attendance for K-pop world tour shows.
+        Given an artist, a venue, and a show date, it returns a single number: the estimated number of
+        people expected to attend.
+      </p>
+      <p>
+        It is not a forecasting product. It is a research tool built on historical tour data, designed
+        to give a data-backed starting point for capacity planning, routing decisions, or market sizing.
+      </p>
+    </section>
+
+    <!-- ── PIPELINE ──────────────────────────────────────────────────────── -->
+    <section class="about-section">
+      <div class="about-section-label">HOW IT WORKS</div>
+      <h2>The pipeline</h2>
+      <p>From raw data to prediction, five steps:</p>
+
+      <div class="pipeline">
+        <div class="pipeline-step">
+          <div class="step-num">1</div>
+          <div class="step-body">
+            <div class="step-title">DATA COLLECTION</div>
+            <div class="step-desc">
+              Historical tour records are assembled from public and reported sources.
+              Each row represents one show leg — a specific artist at a specific venue
+              for a number of nights.
+            </div>
+          </div>
+        </div>
+        <div class="pipeline-step">
+          <div class="step-num">2</div>
+          <div class="step-body">
+            <div class="step-title">FEATURE ENGINEERING</div>
+            <div class="step-desc">
+              Raw records are enriched: debut date → years since debut → artist age bucket.
+              Leaky columns (fill rate, box score, avg ticket price) are removed — they
+              would only be known after the show, not before.
+            </div>
+          </div>
+        </div>
+        <div class="pipeline-step">
+          <div class="step-num">3</div>
+          <div class="step-body">
+            <div class="step-title">EXPERIMENT SELECTION</div>
+            <div class="step-desc">
+              Six dataset variants and three model types (Linear Regression, Random Forest,
+              Gradient Boosting) are trained and evaluated. The combination with the lowest
+              MAE is selected automatically.
+            </div>
+          </div>
+        </div>
+        <div class="pipeline-step">
+          <div class="step-num">4</div>
+          <div class="step-body">
+            <div class="step-title">TRAINING</div>
+            <div class="step-desc">
+              The winning model is retrained on all available labelled data (reported shows only),
+              then exported as a bundle: model weights + fitted scaler + encoded column list.
+            </div>
+          </div>
+        </div>
+        <div class="pipeline-step">
+          <div class="step-num">5</div>
+          <div class="step-body">
+            <div class="step-title">INFERENCE</div>
+            <div class="step-desc">
+              The frontend collects your inputs, computes derived fields locally, and sends
+              a single POST request to the API. The API preprocesses the row identically to
+              training and returns a rounded attendance estimate.
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── FEATURES ──────────────────────────────────────────────────────── -->
+    <section class="about-section">
+      <div class="about-section-label">INPUT FEATURES</div>
+      <h2>What the model sees</h2>
+      <p>14 features are passed to the model. Fields marked in red are computed automatically — you never enter them directly.</p>
+
+      <div class="feature-grid">
+        <span class="feature-tag">venue_name</span>
+        <span class="feature-tag">venue_type</span>
+        <span class="feature-tag">venue_capacity</span>
+        <span class="feature-tag">continent</span>
+        <span class="feature-tag">country</span>
+        <span class="feature-tag">city</span>
+        <span class="feature-tag">artist_name</span>
+        <span class="feature-tag">gender</span>
+        <span class="feature-tag">generation</span>
+        <span class="feature-tag">members</span>
+        <span class="feature-tag">company</span>
+        <span class="feature-tag">show_nights</span>
+        <span class="feature-tag computed">years_since_debut ↗</span>
+        <span class="feature-tag computed">artist_age_bucket ↗</span>
+      </div>
+    </section>
+
+    <!-- ── METRICS ───────────────────────────────────────────────────────── -->
+    <section class="about-section">
+      <div class="about-section-label">MODEL PERFORMANCE</div>
+      <h2>How accurate is it?</h2>
+      <p>
+        The best-performing experiment was <strong>Random Forest</strong> trained on the
+        <strong>v2_artist</strong> dataset — artist attributes added on top of the venue baseline.
+        Evaluated on a held-out 20% test set:
+      </p>
+
+      <div class="metrics-block">
+        <div class="metrics-row header">
+          <div class="metrics-cell">METRIC</div>
+          <div class="metrics-cell">VALUE</div>
+          <div class="metrics-cell">WHAT IT MEANS</div>
+        </div>
+        <div class="metrics-row">
+          <div class="metrics-cell">R²</div>
+          <div class="metrics-cell val good">0.954</div>
+          <div class="metrics-cell">The model explains 95.4% of the variance in attendance across shows.</div>
+        </div>
+        <div class="metrics-row">
+          <div class="metrics-cell">MAE</div>
+          <div class="metrics-cell val">4,120</div>
+          <div class="metrics-cell">On average, predictions are off by ~4,120 people.</div>
+        </div>
+        <div class="metrics-row">
+          <div class="metrics-cell">RMSE</div>
+          <div class="metrics-cell val">6,196</div>
+          <div class="metrics-cell">Larger errors are penalised more — outlier shows are harder to predict.</div>
+        </div>
+      </div>
+
+      <div class="caveat">
+        <div class="caveat-label">⚠ IMPORTANT CONTEXT</div>
+        <p>
+          An MAE of 4,120 means very different things depending on venue size. For a 55,000-seat
+          stadium that's a ~7% margin — useful. For an 8,000-seat arena it's a ~50% swing —
+          treat the number as a rough order of magnitude, not a booking guarantee.
+        </p>
+        <p style="margin-top: 10px;">
+          The model has only seen K-pop world tour data. Predictions for artists, venues,
+          or markets underrepresented in that dataset will be less reliable. It has no knowledge
+          of ticket sales, marketing spend, tour announcement timing, or external events.
+        </p>
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <span>STAGELINE · trained on K-pop world tour data</span>
+    <span>Random Forest · v2_artist · R² 0.954</span>
+  </footer>
+
+</body>
+</html>

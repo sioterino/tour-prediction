@@ -500,3 +500,202 @@ footer {
   .result-card { padding: 32px 24px; }
   .hero-title { font-size: 48px; }
 }
+
+/* ── Nav ──────────────────────────────────────────────────────────────────── */
+.header-nav {
+  display: flex;
+  gap: 4px;
+}
+
+.nav-link {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  text-decoration: none;
+  color: var(--text-muted);
+  padding: 6px 14px;
+  border: 1px solid transparent;
+  border-radius: var(--radius);
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.nav-link:hover { color: var(--text); border-color: var(--border); }
+.nav-link--active { color: var(--accent); border-color: rgba(255,60,60,0.3); }
+
+/* ── About page ───────────────────────────────────────────────────────────── */
+.about-hero { margin-bottom: 72px; }
+
+.about-section {
+  margin-bottom: 64px;
+  animation: fadeUp 0.7s ease both;
+}
+
+.about-section:nth-child(2) { animation-delay: 0.15s; }
+.about-section:nth-child(3) { animation-delay: 0.25s; }
+.about-section:nth-child(4) { animation-delay: 0.35s; }
+.about-section:nth-child(5) { animation-delay: 0.45s; }
+
+.about-section-label {
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.35em;
+  color: var(--accent);
+  margin-bottom: 20px;
+}
+
+.about-section h2 {
+  font-family: var(--display);
+  font-size: 36px;
+  letter-spacing: 0.04em;
+  margin-bottom: 16px;
+  line-height: 1;
+}
+
+.about-section p {
+  font-size: 14px;
+  line-height: 1.8;
+  color: var(--text-dim);
+  max-width: 620px;
+  font-weight: 300;
+}
+
+.about-section p + p { margin-top: 12px; }
+
+/* ── Pipeline steps ───────────────────────────────────────────────────────── */
+.pipeline {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  margin-top: 24px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.pipeline-step {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 20px 24px;
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+  transition: background 0.15s;
+}
+
+.pipeline-step:last-child { border-bottom: none; }
+.pipeline-step:hover { background: var(--surface-2); }
+
+.step-num {
+  font-family: var(--display);
+  font-size: 32px;
+  color: var(--accent);
+  line-height: 1;
+  min-width: 36px;
+  opacity: 0.5;
+}
+
+.step-body {}
+
+.step-title {
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0.15em;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.step-desc {
+  font-size: 13px;
+  color: var(--text-muted);
+  line-height: 1.6;
+  font-weight: 300;
+}
+
+/* ── Metrics table ────────────────────────────────────────────────────────── */
+.metrics-block {
+  margin-top: 24px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--surface);
+}
+
+.metrics-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  border-bottom: 1px solid var(--border);
+}
+
+.metrics-row:last-child { border-bottom: none; }
+
+.metrics-row.header { background: var(--surface-2); }
+
+.metrics-cell {
+  padding: 16px 24px;
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  border-right: 1px solid var(--border);
+}
+
+.metrics-cell:last-child { border-right: none; }
+.metrics-row.header .metrics-cell { font-size: 10px; letter-spacing: 0.2em; color: var(--text-muted); }
+
+.metrics-cell.val {
+  font-size: 22px;
+  font-family: var(--display);
+  letter-spacing: 0.05em;
+  color: var(--text);
+}
+
+.metrics-cell.val.good { color: var(--accent); }
+
+/* ── Caveat / warning block ───────────────────────────────────────────────── */
+.caveat {
+  margin-top: 24px;
+  padding: 20px 24px;
+  border: 1px solid #3a2a00;
+  background: rgba(255, 180, 0, 0.04);
+  border-radius: var(--radius);
+}
+
+.caveat-label {
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.25em;
+  color: #ffb400;
+  margin-bottom: 8px;
+}
+
+.caveat p {
+  font-size: 13px;
+  color: var(--text-muted);
+  line-height: 1.7;
+  max-width: none;
+}
+
+/* ── Feature tags ─────────────────────────────────────────────────────────── */
+.feature-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 20px;
+}
+
+.feature-tag {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  color: var(--text-dim);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 6px 12px;
+}
+
+.feature-tag.computed {
+  color: var(--accent);
+  border-color: rgba(255,60,60,0.3);
+  background: var(--accent-dim);
+}
