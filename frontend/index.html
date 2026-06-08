@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" >
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+
+  <title>STAGELINE — Attendance Intelligence</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" >
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin >
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=Noto+Sans+KR:wght@300;400;700&display=swap" rel="stylesheet" >
+
+  <link rel="stylesheet" href="style.css" >
+  <script src="app.js" defer></script>
+</head>
+<body>
+
+  <div class="noise"></div>
+
+  <header>
+    <div class="header-inner">
+      <div class="wordmark">
+        <span class="wordmark-main">STAGELINE</span>
+        <span class="wordmark-sub">attendance intelligence</span>
+      </div>
+      <div class="header-tag">K-POP WORLD TOUR · PREDICTION ENGINE · v1.0</div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-label">SYSTEM READY</div>
+      <h1 class="hero-title">How many will<br><em>show up?</em></h1>
+      <p class="hero-sub">Configure the show below. The model returns a predicted attendance based on historical tour data.</p>
+    </section>
+
+    <form id="prediction-form" autocomplete="off">
+
+      <!-- ── ARTIST ──────────────────────────────────────────────────── -->
+      <fieldset class="card" id="card-artist">
+        <legend>
+          <span class="legend-num">01</span>
+          <span class="legend-text">Artist</span>
+        </legend>
+
+        <div class="field-row">
+          <div class="field full">
+            <label for="artist_name">Artist name</label>
+            <div class="select-wrap">
+              <select id="artist_name" name="artist_name" required>
+                <option value="">— select artist —</option>
+              </select>
+            </div>
+          </div>
+        </div>
+
+        <div class="field-row artist-meta" id="artist-meta" aria-hidden="true">
+          <div class="meta-pill" id="meta-gender"></div>
+          <div class="meta-pill" id="meta-members"></div>
+          <div class="meta-pill" id="meta-generation"></div>
+          <div class="meta-pill" id="meta-company"></div>
+          <div class="meta-pill" id="meta-debut"></div>
+        </div>
+      </fieldset>
+
+      <!-- ── VENUE ───────────────────────────────────────────────────── -->
+      <fieldset class="card" id="card-venue">
+        <legend>
+          <span class="legend-num">02</span>
+          <span class="legend-text">Venue</span>
+        </legend>
+
+        <div class="field-row">
+          <div class="field">
+            <label for="continent">Continent</label>
+            <div class="select-wrap">
+              <select id="continent" name="continent" required>
+                <option value="">— select —</option>
+              </select>
+            </div>
+          </div>
+          <div class="field">
+            <label for="country">Country</label>
+            <div class="select-wrap">
+              <select id="country" name="country" required disabled>
+                <option value="">— select continent first —</option>
+              </select>
+            </div>
+          </div>
+        </div>
+
+        <div class="field-row">
+          <div class="field full">
+            <label for="venue_name">Venue</label>
+            <div class="select-wrap">
+              <select id="venue_name" name="venue_name" required disabled>
+                <option value="">— select country first —</option>
+              </select>
+            </div>
+          </div>
+        </div>
+
+        <div class="field-row venue-meta" id="venue-meta" aria-hidden="true">
+          <div class="meta-pill" id="meta-venue-type"></div>
+          <div class="meta-pill capacity-pill" id="meta-capacity"></div>
+          <div class="meta-pill" id="meta-city"></div>
+        </div>
+      </fieldset>
+
+      <!-- ── SHOW ────────────────────────────────────────────────────── -->
+      <fieldset class="card" id="card-show">
+        <legend>
+          <span class="legend-num">03</span>
+          <span class="legend-text">Show details</span>
+        </legend>
+
+        <div class="field-row">
+          <div class="field">
+            <label for="show_date">First show date</label>
+            <input type="date" id="show_date" name="show_date" required >
+          </div>
+          <div class="field">
+            <label for="show_nights">Show nights <span class="range-hint">1 – 6</span></label>
+            <div class="nights-wrap">
+              <button type="button" class="night-btn" id="nights-dec" aria-label="decrease">−</button>
+              <span id="nights-display">1</span>
+              <button type="button" class="night-btn" id="nights-inc" aria-label="increase">+</button>
+              <input type="hidden" id="show_nights" name="show_nights" value="1" >
+            </div>
+          </div>
+        </div>
+
+        <div class="field-row date-meta" id="date-meta" aria-hidden="true">
+          <div class="meta-pill" id="meta-years-debut"></div>
+          <div class="meta-pill" id="meta-age-bucket"></div>
+        </div>
+      </fieldset>
+
+      <!-- ── SUBMIT ──────────────────────────────────────────────────── -->
+      <div class="submit-row">
+        <button type="submit" id="submit-btn" class="submit-btn" disabled>
+          <span class="submit-label">RUN PREDICTION</span>
+          <span class="submit-arrow">→</span>
+        </button>
+      </div>
+
+    </form>
+
+    <!-- ── RESULT ──────────────────────────────────────────────────────── -->
+    <section id="result-section" class="result-section" aria-live="polite" hidden>
+      <div class="result-card">
+        <div class="result-label">PREDICTED ATTENDANCE</div>
+        <div class="result-number" id="result-number">—</div>
+        <div class="result-context" id="result-context"></div>
+        <button type="button" class="reset-btn" id="reset-btn">← NEW PREDICTION</button>
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <span>STAGELINE · trained on K-pop world tour data</span>
+    <span id="footer-model"></span>
+  </footer>
+</body>
+</html>

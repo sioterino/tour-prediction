@@ -48,7 +48,7 @@ def main() -> None:
 
     logger.info("Training rows: %d", len(train_df))
 
-    X_train = build_train_matrix(train_df.drop(columns=["attendance"]))
+    X_train, scaler, columns = build_train_matrix(train_df.drop(columns=["attendance"]))
 
     models = get_regression_models()
     if model_name not in models:
@@ -63,7 +63,7 @@ def main() -> None:
     file_name = f"{sanitize_file_name(model_name)}-{dataset_key}-{timestamp}{MODEL_EXT}"
     output_path = MODELS_DIR / file_name
 
-    joblib.dump(trained_model, output_path)
+    joblib.dump({"model": trained_model, "scaler": scaler, "columns": columns}, output_path)
 
     logger.info("Model exported → %s", output_path)
 
